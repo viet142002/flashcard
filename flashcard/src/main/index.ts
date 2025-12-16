@@ -14,7 +14,8 @@ import { electronApp, optimizer, is } from '@electron-toolkit/utils'
 import icon from '../../resources/icon.png?asset'
 import trayIcon from '../../resources/tray.png?asset'
 
-let isVisible = true
+let isVisible = true;
+let isQuitting = false
 let win: BrowserWindow | null = null
 let tray: Tray | null = null
 const store = new (
@@ -51,13 +52,7 @@ function createWindow(): void {
     })
 
     win.on('close', (event) => {
-        if (
-            !(
-                app as unknown as typeof import('electron') & {
-                    isQuitting: boolean
-                }
-            ).isQuitting
-        ) {
+        if (!isQuitting) {
             event.preventDefault()
             win?.hide()
         }
@@ -92,6 +87,7 @@ function createTray() {
         {
             label: 'Quit',
             click: () => {
+                isQuitting = true
                 app.quit()
             },
         },
@@ -116,8 +112,6 @@ app.whenReady().then(() => {
         optimizer.watchWindowShortcuts(window)
     })
 
-    // IPC test
-    ipcMain.on('ping', () => console.log('pong'))
     ipcMain.on('flashcard:hide', () => {
         win?.hide()
     })
@@ -161,7 +155,7 @@ app.whenReady().then(() => {
         }
     })
 
-    globalShortcut.register('CommandOrControl+Shift+F', () => {
+    globalShortcut.register('CommandOrControl+Alt+Shift+F', () => {
         if (isVisible) {
             win?.hide()
         } else {
@@ -179,6 +173,3 @@ app.on('window-all-closed', () => {
         app.quit()
     }
 })
-
-// In this file you can include the rest of your app's specific main process
-// code. You can also put them in separate files and require them here.
