@@ -9,9 +9,8 @@ export function ResizeHandle() {
     const currentHandle = useRef('')
     const startBounds = useRef({ x: 0, y: 0, width: 0, height: 0 })
     const startPos = useRef({ x: 0, y: 0 })
-    const endPos = useRef({ x: 0, y: 0 })
 
-    const handleMouseDown = useCallback((e: MouseEvent) => {
+    const handleMouseDown = useCallback(async (e: MouseEvent) => {
         e.preventDefault();
         e.stopPropagation();
 
@@ -21,7 +20,7 @@ export function ResizeHandle() {
         startPos.current = { x: e.screenX, y: e.screenY };
 
         if (window.flashcard) {
-            startBounds.current = window.flashcard.getBounds()
+            startBounds.current = await window.flashcard.getBounds()
         }
     }, [])
 
@@ -32,7 +31,7 @@ export function ResizeHandle() {
 
     useEffect(() => {
         const handleMouseMove = throttle((e: MouseEvent) => {
-            if (!isResizing || !startBounds || !window.flashcard) return;
+            if (!isResizing.current || !startBounds.current || !window.flashcard) return;
 
             const dx = e.screenX - startPos.current.x
             const dy = e.screenY - startPos.current.y
@@ -80,7 +79,6 @@ export function ResizeHandle() {
                 default:
                     break
             }
-
             window.flashcard.resizeWindow({ ...newSize, ...newEndPos })
         }, 100)
 

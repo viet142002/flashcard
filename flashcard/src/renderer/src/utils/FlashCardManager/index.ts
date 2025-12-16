@@ -160,3 +160,5 @@ export class FlashCardManager {
         return shuffled
     }
 }
+
+export const flashCardManger = new FlashCardManager()

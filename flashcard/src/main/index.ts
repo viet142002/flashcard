@@ -127,13 +127,13 @@ app.whenReady().then(() => {
     ipcMain.on('flashcard:resize-window', (_, { width, height, x, y }) => {
         if (win) {
             const bounds = win.getBounds()
-
-            win.setBounds({
+            const bound = {
                 x: x !== undefined ? x : bounds.x,
                 y: y !== undefined ? y : bounds.y,
                 width: Math.max(250, width),
                 height: Math.max(250, height),
-            })
+            }
+            win.setBounds(bound, true)
         }
     })
     ipcMain.handle('flashcard:get-bounds', () => {

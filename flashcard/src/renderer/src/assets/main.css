@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+html,
+body,
+#root {
+  height: 100%;
+}
+
 .drag-zone {
   -webkit-app-region: drag;
   height: 24px;
@@ -14,6 +20,7 @@
 .resize-handle {
   position: absolute;
   z-index: 1000;
+  transition-duration: 300ms;
 }
 
 /* Bottom-right corner */
@@ -91,7 +98,7 @@
 }
 
 .resize-handle:hover {
-  background-color: rgba(52, 152, 219, 0.3);
+  background-color: rgba(52, 152, 219, 0.1);
 }
 
 .resize-se:hover {

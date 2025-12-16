@@ -19,7 +19,7 @@ export interface FlashCard {
   mean: string;
   word: string;
   example: string;
-  audio: string;
+  audio?: string;
 
 
   // SM-2 Properties

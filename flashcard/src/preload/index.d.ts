@@ -15,12 +15,12 @@ declare global {
                 x?: number
                 y?: number
             }) => void
-            getBounds: () => {
+            getBounds: () => Promise<{
                 width: number
                 height: number
                 x: number
                 y: number
-            }
+            }>
         }
         api: unknown
     }
