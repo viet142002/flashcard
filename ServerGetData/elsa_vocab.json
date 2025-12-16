@@ -1,0 +1,4340 @@
+[
+  {
+    "word": "head",
+    "phonetic": "/hɛd/",
+    "meaning": "đầu",
+    "example": "I have a headache in my head. (Tôi bị đau đầu.)"
+  },
+  {
+    "word": "hair",
+    "phonetic": "/hɛər/",
+    "meaning": "tóc",
+    "example": "She brushes her hair every morning. (Cô ấy chải tóc mỗi sáng.)"
+  },
+  {
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "meaning": "khuôn mặt",
+    "example": "He has a smile on his face. (Anh ấy có nụ cười trên khuôn mặt.)"
+  },
+  {
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "meaning": "mắt",
+    "example": "Her eyes are blue and bright. (Đôi mắt của cô ấy xanh và sáng.)"
+  },
+  {
+    "word": "ear",
+    "phonetic": "/ɪər/",
+    "meaning": "tai",
+    "example": "I listen to music with my ears. (Tôi nghe nhạc bằng tai.)"
+  },
+  {
+    "word": "nose",
+    "phonetic": "/nəʊz/",
+    "meaning": "mũi",
+    "example": "My nose is runny when I have a cold. (Mũi tôi chảy nước khi bị cảm.)"
+  },
+  {
+    "word": "mouth",
+    "phonetic": "/maʊθ/",
+    "meaning": "miệng",
+    "example": "Open your mouth to eat. (Hãy mở miệng để ăn.)"
+  },
+  {
+    "word": "tooth",
+    "phonetic": "/tuːθ/",
+    "meaning": "răng",
+    "example": "I brush my teeth twice a day. (Tôi đánh răng hai lần mỗi ngày.)"
+  },
+  {
+    "word": "tongue",
+    "phonetic": "/tʌŋ/",
+    "meaning": "lưỡi",
+    "example": "My tongue tastes the sweet candy. (Lưỡi tôi nếm được vị ngọt của kẹo.)"
+  },
+  {
+    "word": "neck",
+    "phonetic": "/nɛk/",
+    "meaning": "cổ",
+    "example": "She wears a scarf around her neck. (Cô ấy quàng khăn quanh cổ.)"
+  },
+  {
+    "word": "shoulder",
+    "phonetic": "/ˈʃəʊl.dər/",
+    "meaning": "vai",
+    "example": "My bag is heavy on my shoulder. (Túi của tôi nặng trên vai.)"
+  },
+  {
+    "word": "arm",
+    "phonetic": "/ɑːm/",
+    "meaning": "cánh tay",
+    "example": "He raised his arm to wave. (Anh ấy giơ cánh tay để vẫy.)"
+  },
+  {
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "meaning": "bàn tay",
+    "example": "I write with my right hand. (Tôi viết bằng tay phải.)"
+  },
+  {
+    "word": "finger",
+    "phonetic": "/ˈfɪŋ.ɡər/",
+    "meaning": "ngón tay",
+    "example": "She pointed with her finger. (Cô ấy chỉ bằng ngón tay.)"
+  },
+  {
+    "word": "chest",
+    "phonetic": "/tʃɛst/",
+    "meaning": "ngực",
+    "example": "My chest feels tight when I run. (Ngực tôi cảm thấy tức khi chạy.)"
+  },
+  {
+    "word": "heart",
+    "phonetic": "/hɑːt/",
+    "meaning": "trái tim",
+    "example": "My heart beats faster when I’m nervous. (Trái tim tôi đập nhanh hơn khi lo lắng.)"
+  },
+  {
+    "word": "stomach",
+    "phonetic": "/ˈstʌm.ək/",
+    "meaning": "bụng",
+    "example": "I feel hungry in my stomach. (Tôi cảm thấy đói bụng.)"
+  },
+  {
+    "word": "back",
+    "phonetic": "/bæk/",
+    "meaning": "lưng",
+    "example": "My back hurts from sitting too long. (Lưng tôi đau vì ngồi quá lâu.)"
+  },
+  {
+    "word": "leg",
+    "phonetic": "/lɛɡ/",
+    "meaning": "chân",
+    "example": "He broke his leg playing soccer. (Anh ấy bị gãy chân khi chơi bóng đá.)"
+  },
+  {
+    "word": "knee",
+    "phonetic": "/niː/",
+    "meaning": "đầu gối",
+    "example": "I fell and hurt my knee. (Tôi ngã và làm đau đầu gối.)"
+  },
+  {
+    "word": "foot",
+    "phonetic": "/fʊt/",
+    "meaning": "bàn chân",
+    "example": "My feet are tired after walking all day. (Bàn chân tôi mệt mỏi sau khi đi bộ cả ngày.)"
+  },
+  {
+    "word": "toe",
+    "phonetic": "/təʊ/",
+    "meaning": "ngón chân",
+    "example": "I stubbed my toe on the table. (Tôi va ngón chân vào bàn.)"
+  },
+  {
+    "word": "skin",
+    "phonetic": "/skɪn/",
+    "meaning": "da",
+    "example": "Her skin is soft and smooth. (Da của cô ấy mềm và mịn.)"
+  },
+  {
+    "word": "bone",
+    "phonetic": "/bəʊn/",
+    "meaning": "xương",
+    "example": "The doctor checked my bones after the fall. (Bác sĩ kiểm tra xương của tôi sau khi ngã.)"
+  },
+  {
+    "word": "blood",
+    "phonetic": "/blʌd/",
+    "meaning": "máu",
+    "example": "I saw blood when I cut my finger. (Tôi thấy máu khi bị đứt tay.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Tall",
+    "phonetic": "/tɔːl/",
+    "meaning": "Cao",
+    "example": "She is tall and confident. (Cô ấy cao và tự tin.)"
+  },
+  {
+    "word": "Short",
+    "phonetic": "/ʃɔːt/",
+    "meaning": "Thấp",
+    "example": "He is quite short for his age. (Anh ấy thấp so với tuổi.)"
+  },
+  {
+    "word": "Slim",
+    "phonetic": "/slɪm/",
+    "meaning": "Mảnh mai",
+    "example": "My sister is very slim and fit. (Chị tôi rất mảnh mai và khỏe mạnh.)"
+  },
+  {
+    "word": "Fat",
+    "phonetic": "/fæt/",
+    "meaning": "Béo",
+    "example": "He became fat after quitting the gym. (Anh ấy béo lên sau khi nghỉ tập gym.)"
+  },
+  {
+    "word": "Skinny",
+    "phonetic": "/ˈskɪni/",
+    "meaning": "Gầy gò",
+    "example": "She looks too skinny these days. (Dạo này cô ấy trông quá gầy.)"
+  },
+  {
+    "word": "Muscular",
+    "phonetic": "/ˈmʌskjələr/",
+    "meaning": "Cơ bắp",
+    "example": "He has a very muscular body. (Anh ấy có thân hình rất cơ bắp.)"
+  },
+  {
+    "word": "Overweight",
+    "phonetic": "/ˌəʊvəˈweɪt/",
+    "meaning": "Thừa cân",
+    "example": "Being overweight can cause health issues. (Thừa cân có thể gây ra vấn đề sức khỏe.)"
+  },
+  {
+    "word": "Attractive",
+    "phonetic": "/əˈtræktɪv/",
+    "meaning": "Hấp dẫn",
+    "example": "She is really attractive in that dress. (Cô ấy thực sự hấp dẫn trong chiếc váy đó.)"
+  },
+  {
+    "word": "Ugly",
+    "phonetic": "/ˈʌɡli/",
+    "meaning": "Xấu xí",
+    "example": "It’s rude to call someone ugly. (Gọi ai đó là xấu xí thì thật bất lịch sự.)"
+  },
+  {
+    "word": "Handsome",
+    "phonetic": "/ˈhænsəm/",
+    "meaning": "Đẹp trai",
+    "example": "He is tall, smart, and handsome. (Anh ấy cao, thông minh và đẹp trai.)"
+  },
+  {
+    "word": "Beautiful",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "meaning": "Xinh đẹp",
+    "example": "She is a very beautiful woman. (Cô ấy là một người phụ nữ rất xinh đẹp.)"
+  },
+  {
+    "word": "Good-looking",
+    "phonetic": "/ˌɡʊdˈlʊkɪŋ/",
+    "meaning": "Ưa nhìn",
+    "example": "He is both kind and good-looking. (Anh ấy vừa tốt bụng vừa ưa nhìn.)"
+  },
+  {
+    "word": "Pale",
+    "phonetic": "/peɪl/",
+    "meaning": "Nhợt nhạt",
+    "example": "She looked pale after staying up all night. (Cô ấy trông nhợt nhạt sau khi thức trắng đêm.)"
+  },
+  {
+    "word": "Tanned",
+    "phonetic": "/tænd/",
+    "meaning": "Rám nắng",
+    "example": "He came back from the beach looking tanned. (Anh ấy trở về từ biển trông rám nắng.)"
+  },
+  {
+    "word": "Freckles",
+    "phonetic": "/ˈfreklz/",
+    "meaning": "Tàn nhang",
+    "example": "She has cute freckles on her cheeks. (Cô ấy có tàn nhang đáng yêu trên má.)"
+  },
+  {
+    "word": "Curly hair",
+    "phonetic": "/ˈkɜːli heə(r)/",
+    "meaning": "Tóc xoăn",
+    "example": "I love her curly hair. (Tôi thích mái tóc xoăn của cô ấy.)"
+  },
+  {
+    "word": "Straight hair",
+    "phonetic": "/streɪt heə(r)/",
+    "meaning": "Tóc thẳng",
+    "example": "She has shiny straight hair. (Cô ấy có mái tóc thẳng bóng mượt.)"
+  },
+  {
+    "word": "Blond hair",
+    "phonetic": "/blɒnd heə(r)/",
+    "meaning": "Tóc vàng",
+    "example": "He has blond hair and green eyes. (Anh ấy có tóc vàng và mắt xanh lá.)"
+  },
+  {
+    "word": "Bald",
+    "phonetic": "/bɔːld/",
+    "meaning": "Hói",
+    "example": "He started going bald in his 30s. (Anh ấy bắt đầu hói khi ngoài 30 tuổi.)"
+  },
+  {
+    "word": "Beard",
+    "phonetic": "/bɪəd/",
+    "meaning": "Râu quai nón",
+    "example": "He grew a thick beard. (Anh ấy để râu quai nón rậm.)"
+  },
+  {
+    "word": "Moustache",
+    "phonetic": "/ˈmʌstæʃ/",
+    "meaning": "Ria mép",
+    "example": "His moustache gives him a mature look. (Ria mép khiến anh ấy trông trưởng thành.)"
+  },
+  {
+    "word": "Piercing",
+    "phonetic": "/ˈpɪəsɪŋ/",
+    "meaning": "Xỏ khuyên",
+    "example": "She got a nose piercing last week. (Cô ấy vừa xỏ khuyên mũi tuần trước.)"
+  },
+  {
+    "word": "Tattoo",
+    "phonetic": "/tæˈtuː/",
+    "meaning": "Hình xăm",
+    "example": "He has a cool tattoo on his arm. (Anh ấy có một hình xăm ngầu trên tay.)"
+  },
+  {
+    "word": "Elegant",
+    "phonetic": "/ˈelɪɡənt/",
+    "meaning": "Thanh lịch",
+    "example": "She looks elegant in that evening gown. (Cô ấy trông thanh lịch trong chiếc váy dạ hội đó.)"
+  },
+  {
+    "word": "Chubby",
+    "phonetic": "/ˈtʃʌbi/",
+    "meaning": "Mũm mĩm",
+    "example": "The baby has chubby cheeks. (Em bé có đôi má mũm mĩm.)"
+  },
+  {
+    "word": "Plump",
+    "phonetic": "/plʌmp/",
+    "meaning": "Đầy đặn",
+    "example": "She has a plump and healthy look. (Cô ấy trông đầy đặn và khỏe mạnh.)"
+  },
+  {
+    "word": "Fair skin",
+    "phonetic": "/feə skɪn/",
+    "meaning": "Da sáng",
+    "example": "People with fair skin should wear sunscreen. (Người có da sáng nên dùng kem chống nắng.)"
+  },
+  {
+    "word": "Dark skin",
+    "phonetic": "/dɑːk skɪn/",
+    "meaning": "Da tối",
+    "example": "He has dark skin and bright eyes. (Anh ấy có da tối và đôi mắt sáng.)"
+  },
+  {
+    "word": "Wrinkles",
+    "phonetic": "/ˈrɪŋklz/",
+    "meaning": "Nếp nhăn",
+    "example": "As he aged, he got more wrinkles. (Khi lớn tuổi, anh ấy có nhiều nếp nhăn hơn.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Brave",
+    "phonetic": "/breɪv/",
+    "meaning": "Dũng cảm",
+    "example": "She is a brave woman who always stands up for others. (Cô ấy là một người phụ nữ dũng cảm luôn đứng lên vì người khác.)"
+  },
+  {
+    "word": "Honest",
+    "phonetic": "/ˈɒnɪst/",
+    "meaning": "Trung thực",
+    "example": "He is very honest and never lies. (Anh ấy rất trung thực và không bao giờ nói dối.)"
+  },
+  {
+    "word": "Friendly",
+    "phonetic": "/ˈfrɛndli/",
+    "meaning": "Thân thiện",
+    "example": "Everyone likes her because she is so friendly. (Mọi người đều thích cô ấy vì cô ấy rất thân thiện.)"
+  },
+  {
+    "word": "Lazy",
+    "phonetic": "/ˈleɪzi/",
+    "meaning": "Lười biếng",
+    "example": "My brother is too lazy to clean his room. (Em trai tôi quá lười biếng để dọn phòng.)"
+  },
+  {
+    "word": "Generous",
+    "phonetic": "/ˈdʒɛnərəs/",
+    "meaning": "Hào phóng",
+    "example": "He is generous with his time and money. (Anh ấy rất hào phóng với thời gian và tiền bạc.)"
+  },
+  {
+    "word": "Shy",
+    "phonetic": "/ʃaɪ/",
+    "meaning": "Nhút nhát",
+    "example": "She is too shy to speak in public. (Cô ấy quá nhút nhát để nói trước đám đông.)"
+  },
+  {
+    "word": "Talkative",
+    "phonetic": "/ˈtɔːkətɪv/",
+    "meaning": "Nói nhiều",
+    "example": "My sister is very talkative and loves to chat. (Chị tôi rất nói nhiều và thích trò chuyện.)"
+  },
+  {
+    "word": "Confident",
+    "phonetic": "/ˈkɒnfɪdənt/",
+    "meaning": "Tự tin",
+    "example": "He felt confident before the interview. (Anh ấy cảm thấy tự tin trước buổi phỏng vấn.)"
+  },
+  {
+    "word": "Kind",
+    "phonetic": "/kaɪnd/",
+    "meaning": "Tốt bụng",
+    "example": "She is always kind to animals. (Cô ấy luôn tốt bụng với động vật.)"
+  },
+  {
+    "word": "Rude",
+    "phonetic": "/ruːd/",
+    "meaning": "Thô lỗ",
+    "example": "It’s rude to interrupt someone while they’re speaking. (Thật thô lỗ khi ngắt lời người khác.)"
+  },
+  {
+    "word": "Creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "meaning": "Sáng tạo",
+    "example": "He is a creative artist with unique ideas. (Anh ấy là một nghệ sĩ sáng tạo với những ý tưởng độc đáo.)"
+  },
+  {
+    "word": "Polite",
+    "phonetic": "/pəˈlaɪt/",
+    "meaning": "Lịch sự",
+    "example": "Please be polite to the guests. (Làm ơn hãy lịch sự với khách.)"
+  },
+  {
+    "word": "Hard-working",
+    "phonetic": "/ˌhɑːdˈwɜːkɪŋ/",
+    "meaning": "Chăm chỉ",
+    "example": "She is a hard-working student who always gets good grades. (Cô ấy là một học sinh chăm chỉ luôn đạt điểm cao.)"
+  },
+  {
+    "word": "Moody",
+    "phonetic": "/ˈmuːdi/",
+    "meaning": "Tính khí thất thường",
+    "example": "He gets moody when he’s tired. (Anh ấy trở nên thất thường khi mệt.)"
+  },
+  {
+    "word": "Responsible",
+    "phonetic": "/rɪˈspɒnsəbl/",
+    "meaning": "Có trách nhiệm",
+    "example": "Parents must be responsible for their children. (Cha mẹ phải có trách nhiệm với con cái.)"
+  },
+  {
+    "word": "Optimistic",
+    "phonetic": "/ˌɒptɪˈmɪstɪk/",
+    "meaning": "Lạc quan",
+    "example": "She is always optimistic about the future. (Cô ấy luôn lạc quan về tương lai.)"
+  },
+  {
+    "word": "Pessimistic",
+    "phonetic": "/ˌpɛsɪˈmɪstɪk/",
+    "meaning": "Bi quan",
+    "example": "He has a pessimistic view of life. (Anh ấy có cái nhìn bi quan về cuộc sống.)"
+  },
+  {
+    "word": "Intelligent",
+    "phonetic": "/ɪnˈtɛlɪdʒənt/",
+    "meaning": "Thông minh",
+    "example": "She is very intelligent and learns quickly. (Cô ấy rất thông minh và học rất nhanh.)"
+  },
+  {
+    "word": "Stubborn",
+    "phonetic": "/ˈstʌbən/",
+    "meaning": "Bướng bỉnh",
+    "example": "He is too stubborn to admit he was wrong. (Anh ấy quá bướng bỉnh để thừa nhận mình sai.)"
+  },
+  {
+    "word": "Funny",
+    "phonetic": "/ˈfʌni/",
+    "meaning": "Hài hước",
+    "example": "He always tells funny jokes. (Anh ấy luôn kể những câu chuyện hài hước.)"
+  },
+  {
+    "word": "Serious",
+    "phonetic": "/ˈsɪəriəs/",
+    "meaning": "Nghiêm túc",
+    "example": "She is a very serious person at work. (Cô ấy là người rất nghiêm túc trong công việc.)"
+  },
+  {
+    "word": "Sensitive",
+    "phonetic": "/ˈsɛnsɪtɪv/",
+    "meaning": "Nhạy cảm",
+    "example": "He is very sensitive to criticism. (Anh ấy rất nhạy cảm với lời phê bình.)"
+  },
+  {
+    "word": "Calm",
+    "phonetic": "/kɑːm/",
+    "meaning": "Bình tĩnh",
+    "example": "She remained calm during the emergency. (Cô ấy giữ bình tĩnh trong lúc khẩn cấp.)"
+  },
+  {
+    "word": "Outgoing",
+    "phonetic": "/ˈaʊtˌɡəʊɪŋ/",
+    "meaning": "Hướng ngoại",
+    "example": "He is an outgoing and sociable person. (Anh ấy là một người hướng ngoại và hòa đồng.)"
+  },
+  {
+    "word": "Caring",
+    "phonetic": "/ˈkeərɪŋ/",
+    "meaning": "Chu đáo, quan tâm",
+    "example": "She is a caring nurse who helps everyone. (Cô ấy là một y tá chu đáo luôn giúp đỡ mọi người.)"
+  },
+  {
+    "word": "Jealous",
+    "phonetic": "/ˈdʒɛləs/",
+    "meaning": "Ghen tuông",
+    "example": "He gets jealous when she talks to other men. (Anh ấy cảm thấy ghen tuông khi cô ấy nói chuyện với người đàn ông khác.)"
+  },
+  {
+    "word": "Loyal",
+    "phonetic": "/ˈlɔɪəl/",
+    "meaning": "Trung thành",
+    "example": "Dogs are known to be loyal animals. (Chó được biết đến là loài vật trung thành.)"
+  },
+  {
+    "word": "Ambitious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "meaning": "Tham vọng",
+    "example": "She is very ambitious and wants to be a CEO. (Cô ấy rất tham vọng và muốn trở thành giám đốc điều hành.)"
+  },
+  {
+    "word": "Curious",
+    "phonetic": "/ˈkjʊəriəs/",
+    "meaning": "Tò mò",
+    "example": "Kids are naturally curious about the world. (Trẻ con vốn dĩ rất tò mò về thế giới.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Happy",
+    "phonetic": "/ˈhæpi/",
+    "meaning": "Vui vẻ, hạnh phúc",
+    "example": "She feels happy when she’s with her friends. (Cô ấy cảm thấy vui vẻ khi ở bên bạn bè.)"
+  },
+  {
+    "word": "Sad",
+    "phonetic": "/sæd/",
+    "meaning": "Buồn",
+    "example": "He looks sad because he lost his toy. (Cậu ấy trông buồn vì làm mất đồ chơi.)"
+  },
+  {
+    "word": "Angry",
+    "phonetic": "/ˈæŋɡri/",
+    "meaning": "Tức giận",
+    "example": "I’m angry because you broke my phone. (Tôi tức giận vì bạn làm vỡ điện thoại của tôi.)"
+  },
+  {
+    "word": "Excited",
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "meaning": "Hào hứng",
+    "example": "The kids are excited about the trip. (Bọn trẻ rất hào hứng về chuyến đi.)"
+  },
+  {
+    "word": "Nervous",
+    "phonetic": "/ˈnɜːvəs/",
+    "meaning": "Lo lắng",
+    "example": "I’m always nervous before an exam. (Tôi luôn lo lắng trước khi thi.)"
+  },
+  {
+    "word": "Scared",
+    "phonetic": "/skeəd/",
+    "meaning": "Sợ hãi",
+    "example": "She is scared of the dark. (Cô ấy sợ bóng tối.)"
+  },
+  {
+    "word": "Surprised",
+    "phonetic": "/səˈpraɪzd/",
+    "meaning": "Ngạc nhiên",
+    "example": "I was surprised to see her at the party. (Tôi ngạc nhiên khi thấy cô ấy ở bữa tiệc.)"
+  },
+  {
+    "word": "Confused",
+    "phonetic": "/kənˈfjuːzd/",
+    "meaning": "Bối rối",
+    "example": "I’m confused by these instructions. (Tôi thấy bối rối vì những hướng dẫn này.)"
+  },
+  {
+    "word": "Bored",
+    "phonetic": "/bɔːd/",
+    "meaning": "Chán nản",
+    "example": "He feels bored during long meetings. (Anh ấy cảm thấy chán nản trong các cuộc họp dài.)"
+  },
+  {
+    "word": "Tired",
+    "phonetic": "/ˈtaɪəd/",
+    "meaning": "Mệt mỏi",
+    "example": "I’m really tired after working all day. (Tôi thật sự mệt mỏi sau cả ngày làm việc.)"
+  },
+  {
+    "word": "Relaxed",
+    "phonetic": "/rɪˈlækst/",
+    "meaning": "Thư giãn",
+    "example": "She feels relaxed when listening to music. (Cô ấy cảm thấy thư giãn khi nghe nhạc.)"
+  },
+  {
+    "word": "Lonely",
+    "phonetic": "/ˈləʊnli/",
+    "meaning": "Cô đơn",
+    "example": "He felt lonely after moving to a new city. (Anh ấy cảm thấy cô đơn sau khi chuyển đến thành phố mới.)"
+  },
+  {
+    "word": "Proud",
+    "phonetic": "/praʊd/",
+    "meaning": "Tự hào",
+    "example": "I’m proud of my achievements. (Tôi tự hào về những thành tích của mình.)"
+  },
+  {
+    "word": "Embarrassed",
+    "phonetic": "/ɪmˈbærəst/",
+    "meaning": "Xấu hổ",
+    "example": "I felt embarrassed when I forgot her name. (Tôi thấy xấu hổ khi quên tên cô ấy.)"
+  },
+  {
+    "word": "Frustrated",
+    "phonetic": "/ˈfrʌstreɪtɪd/",
+    "meaning": "Bực bội",
+    "example": "She was frustrated by the slow internet. (Cô ấy bực bội vì mạng chậm.)"
+  },
+  {
+    "word": "Hopeful",
+    "phonetic": "/ˈhəʊpfl/",
+    "meaning": "Hy vọng",
+    "example": "I’m hopeful that things will get better. (Tôi hy vọng rằng mọi thứ sẽ tốt lên.)"
+  },
+  {
+    "word": "Grateful",
+    "phonetic": "/ˈɡreɪtfl/",
+    "meaning": "Biết ơn",
+    "example": "I’m grateful for your help. (Tôi biết ơn sự giúp đỡ của bạn.)"
+  },
+  {
+    "word": "Jealous",
+    "phonetic": "/ˈdʒeləs/",
+    "meaning": "Ghen tuông",
+    "example": "She got jealous when he talked to another girl. (Cô ấy ghen tuông khi anh ta nói chuyện với cô gái khác.)"
+  },
+  {
+    "word": "Disappointed",
+    "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+    "meaning": "Thất vọng",
+    "example": "I’m disappointed with the test results. (Tôi thất vọng với kết quả bài kiểm tra.)"
+  },
+  {
+    "word": "Curious",
+    "phonetic": "/ˈkjʊəriəs/",
+    "meaning": "Tò mò",
+    "example": "Kids are often curious about everything. (Trẻ con thường tò mò về mọi thứ.)"
+  },
+  {
+    "word": "Calm",
+    "phonetic": "/kɑːm/",
+    "meaning": "Bình tĩnh",
+    "example": "Try to stay calm in stressful situations. (Hãy cố giữ bình tĩnh trong những tình huống căng thẳng.)"
+  },
+  {
+    "word": "Anxious",
+    "phonetic": "/ˈæŋkʃəs/",
+    "meaning": "Lo lắng, bất an",
+    "example": "I’m feeling anxious about the interview. (Tôi đang cảm thấy lo lắng về buổi phỏng vấn.)"
+  },
+  {
+    "word": "Content",
+    "phonetic": "/kənˈtent/",
+    "meaning": "Hài lòng",
+    "example": "She looks content with her life. (Cô ấy trông hài lòng với cuộc sống của mình.)"
+  },
+  {
+    "word": "Energetic",
+    "phonetic": "/ˌenəˈdʒetɪk/",
+    "meaning": "Năng động",
+    "example": "He’s always energetic in the morning. (Anh ấy luôn năng động vào buổi sáng.)"
+  },
+  {
+    "word": "Relieved",
+    "phonetic": "/rɪˈliːvd/",
+    "meaning": "Nhẹ nhõm",
+    "example": "I was relieved to hear the good news. (Tôi thấy nhẹ nhõm khi nghe tin tốt.)"
+  },
+  {
+    "word": "Shocked",
+    "phonetic": "/ʃɒkt/",
+    "meaning": "Sốc, choáng váng",
+    "example": "We were shocked by the accident. (Chúng tôi bị sốc vì vụ tai nạn.)"
+  },
+  {
+    "word": "Confident",
+    "phonetic": "/ˈkɒnfɪdənt/",
+    "meaning": "Tự tin",
+    "example": "He felt confident during the presentation. (Anh ấy cảm thấy tự tin trong buổi thuyết trình.)"
+  },
+  {
+    "word": "Miserable",
+    "phonetic": "/ˈmɪzərəbl/",
+    "meaning": "Khổ sở, buồn bã",
+    "example": "I felt miserable after the breakup. (Tôi cảm thấy khổ sở sau cuộc chia tay.)"
+  },
+  {
+    "word": "Grumpy",
+    "phonetic": "/ˈɡrʌmpi/",
+    "meaning": "Cáu kỉnh",
+    "example": "He’s always grumpy in the morning. (Anh ấy luôn cáu kỉnh vào buổi sáng.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Father",
+    "phonetic": "/ˈfɑːðə(r)/",
+    "meaning": "Bố, cha",
+    "example": "My father is a teacher. (Bố tôi là một giáo viên.)"
+  },
+  {
+    "word": "Mother",
+    "phonetic": "/ˈmʌðə(r)/",
+    "meaning": "Mẹ",
+    "example": "Her mother cooks very well. (Mẹ cô ấy nấu ăn rất ngon.)"
+  },
+  {
+    "word": "Brother",
+    "phonetic": "/ˈbrʌðə(r)/",
+    "meaning": "Anh/em trai",
+    "example": "I have one brother and two sisters. (Tôi có một anh/em trai và hai chị/em gái.)"
+  },
+  {
+    "word": "Sister",
+    "phonetic": "/ˈsɪstə(r)/",
+    "meaning": "Chị/em gái",
+    "example": "My sister is younger than me. (Chị/em gái tôi nhỏ tuổi hơn tôi.)"
+  },
+  {
+    "word": "Parents",
+    "phonetic": "/ˈpeərənts/",
+    "meaning": "Bố mẹ",
+    "example": "My parents are very kind. (Bố mẹ tôi rất tốt bụng.)"
+  },
+  {
+    "word": "Son",
+    "phonetic": "/sʌn/",
+    "meaning": "Con trai",
+    "example": "They have one son and one daughter. (Họ có một con trai và một con gái.)"
+  },
+  {
+    "word": "Daughter",
+    "phonetic": "/ˈdɔːtə(r)/",
+    "meaning": "Con gái",
+    "example": "Their daughter is in college. (Con gái họ đang học đại học.)"
+  },
+  {
+    "word": "Grandfather",
+    "phonetic": "/ˈɡrænˌfɑːðə(r)/",
+    "meaning": "Ông nội/ngoại",
+    "example": "My grandfather tells great stories. (Ông tôi kể những câu chuyện rất hay.)"
+  },
+  {
+    "word": "Grandmother",
+    "phonetic": "/ˈɡrænˌmʌðə(r)/",
+    "meaning": "Bà nội/ngoại",
+    "example": "I visit my grandmother every weekend. (Tôi thăm bà tôi mỗi cuối tuần.)"
+  },
+  {
+    "word": "Grandparents",
+    "phonetic": "/ˈɡrænpeərənts/",
+    "meaning": "Ông bà",
+    "example": "My grandparents live in the countryside. (Ông bà tôi sống ở nông thôn.)"
+  },
+  {
+    "word": "Uncle",
+    "phonetic": "/ˈʌŋkl/",
+    "meaning": "Chú/cậu/bác trai",
+    "example": "My uncle is a doctor. (Chú tôi là bác sĩ.)"
+  },
+  {
+    "word": "Aunt",
+    "phonetic": "/ɑːnt/",
+    "meaning": "Cô/dì/bác gái",
+    "example": "My aunt gave me a nice present. (Dì tôi tặng tôi một món quà đẹp.)"
+  },
+  {
+    "word": "Cousin",
+    "phonetic": "/ˈkʌzn/",
+    "meaning": "Anh/chị/em họ",
+    "example": "My cousin and I are best friends. (Tôi và anh họ là bạn thân.)"
+  },
+  {
+    "word": "Nephew",
+    "phonetic": "/ˈnefjuː/",
+    "meaning": "Cháu trai",
+    "example": "I bought a toy for my nephew. (Tôi mua đồ chơi cho cháu trai tôi.)"
+  },
+  {
+    "word": "Niece",
+    "phonetic": "/niːs/",
+    "meaning": "Cháu gái",
+    "example": "My niece is only two years old. (Cháu gái tôi mới chỉ hai tuổi.)"
+  },
+  {
+    "word": "Husband",
+    "phonetic": "/ˈhʌzbənd/",
+    "meaning": "Chồng",
+    "example": "Her husband works in a bank. (Chồng cô ấy làm việc trong ngân hàng.)"
+  },
+  {
+    "word": "Wife",
+    "phonetic": "/waɪf/",
+    "meaning": "Vợ",
+    "example": "His wife is a nurse. (Vợ anh ấy là y tá.)"
+  },
+  {
+    "word": "Children",
+    "phonetic": "/ˈtʃɪldrən/",
+    "meaning": "Trẻ em, con cái",
+    "example": "They have three children. (Họ có ba đứa con.)"
+  },
+  {
+    "word": "Family",
+    "phonetic": "/ˈfæməli/",
+    "meaning": "Gia đình",
+    "example": "I love spending time with my family. (Tôi thích dành thời gian cho gia đình.)"
+  },
+  {
+    "word": "Stepfather",
+    "phonetic": "/ˈstɛpfɑːðə(r)/",
+    "meaning": "Cha dượng",
+    "example": "My stepfather is very supportive. (Cha dượng tôi rất ủng hộ tôi.)"
+  },
+  {
+    "word": "Stepmother",
+    "phonetic": "/ˈstɛpmʌðə(r)/",
+    "meaning": "Mẹ kế",
+    "example": "His stepmother treats him kindly. (Mẹ kế của anh ấy đối xử với anh rất tốt.)"
+  },
+  {
+    "word": "Stepsister",
+    "phonetic": "/ˈstɛpsɪstə(r)/",
+    "meaning": "Chị/em gái kế",
+    "example": "I live with my stepsister. (Tôi sống cùng chị/em gái kế của mình.)"
+  },
+  {
+    "word": "Stepbrother",
+    "phonetic": "/ˈstɛpbrʌðə(r)/",
+    "meaning": "Anh/em trai kế",
+    "example": "My stepbrother is very funny. (Anh/em trai kế của tôi rất hài hước.)"
+  },
+  {
+    "word": "Twin",
+    "phonetic": "/twɪn/",
+    "meaning": "Anh/em sinh đôi",
+    "example": "My twin and I look alike. (Tôi và anh/em sinh đôi giống nhau.)"
+  },
+  {
+    "word": "Relative",
+    "phonetic": "/ˈrelətɪv/",
+    "meaning": "Họ hàng",
+    "example": "We invited all our relatives to the wedding. (Chúng tôi mời tất cả họ hàng đến đám cưới.)"
+  },
+  {
+    "word": "In-law",
+    "phonetic": "/ˈɪn lɔː/",
+    "meaning": "Người thân bên chồng/vợ",
+    "example": "I get along well with my in-laws. (Tôi hòa hợp với gia đình bên chồng/vợ.)"
+  },
+  {
+    "word": "Single",
+    "phonetic": "/ˈsɪŋɡl/",
+    "meaning": "Độc thân",
+    "example": "He is still single and lives alone. (Anh ấy vẫn độc thân và sống một mình.)"
+  },
+  {
+    "word": "Married",
+    "phonetic": "/ˈmærid/",
+    "meaning": "Đã kết hôn",
+    "example": "They got married last year. (Họ đã kết hôn năm ngoái.)"
+  },
+  {
+    "word": "Divorce",
+    "phonetic": "/dɪˈvɔːs/",
+    "meaning": "Ly hôn",
+    "example": "They decided to divorce after ten years. (Họ quyết định ly hôn sau mười năm.)"
+  },
+  {
+    "word": "Orphan",
+    "phonetic": "/ˈɔːfən/",
+    "meaning": "Trẻ mồ côi",
+    "example": "The orphan was adopted by a kind family. (Đứa trẻ mồ côi được một gia đình tốt bụng nhận nuôi.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Reading",
+    "phonetic": "/ˈriːdɪŋ/",
+    "meaning": "Đọc sách",
+    "example": "She enjoys reading in her free time. (Cô ấy thích đọc sách vào thời gian rảnh.)"
+  },
+  {
+    "word": "Cooking",
+    "phonetic": "/ˈkʊkɪŋ/",
+    "meaning": "Nấu ăn",
+    "example": "My mom loves cooking for the family. (Mẹ tôi thích nấu ăn cho gia đình.)"
+  },
+  {
+    "word": "Gardening",
+    "phonetic": "/ˈɡɑːdnɪŋ/",
+    "meaning": "Làm vườn",
+    "example": "My grandfather spends hours gardening every day. (Ông tôi dành hàng giờ để làm vườn mỗi ngày.)"
+  },
+  {
+    "word": "Painting",
+    "phonetic": "/ˈpeɪntɪŋ/",
+    "meaning": "Vẽ tranh",
+    "example": "She is good at painting landscapes. (Cô ấy giỏi vẽ tranh phong cảnh.)"
+  },
+  {
+    "word": "Singing",
+    "phonetic": "/ˈsɪŋɪŋ/",
+    "meaning": "Hát",
+    "example": "He practices singing every evening. (Anh ấy luyện hát mỗi tối.)"
+  },
+  {
+    "word": "Dancing",
+    "phonetic": "/ˈdɑːnsɪŋ/",
+    "meaning": "Nhảy múa",
+    "example": "They enjoy dancing at parties. (Họ thích nhảy múa tại các buổi tiệc.)"
+  },
+  {
+    "word": "Traveling",
+    "phonetic": "/ˈtrævəlɪŋ/",
+    "meaning": "Du lịch",
+    "example": "She dreams of traveling around the world. (Cô ấy mơ được đi du lịch vòng quanh thế giới.)"
+  },
+  {
+    "word": "Photography",
+    "phonetic": "/fəˈtɒɡrəfi/",
+    "meaning": "Nhiếp ảnh",
+    "example": "He has a passion for photography. (Anh ấy có niềm đam mê nhiếp ảnh.)"
+  },
+  {
+    "word": "Watching movies",
+    "phonetic": "/ˈwɒtʃɪŋ ˈmuːviz/",
+    "meaning": "Xem phim",
+    "example": "I love watching movies on weekends. (Tôi thích xem phim vào cuối tuần.)"
+  },
+  {
+    "word": "Playing games",
+    "phonetic": "/ˈpleɪɪŋ ɡeɪmz/",
+    "meaning": "Chơi trò chơi điện tử",
+    "example": "My brother spends hours playing games. (Em trai tôi dành hàng giờ để chơi game.)"
+  },
+  {
+    "word": "Listening to music",
+    "phonetic": "/ˈlɪsənɪŋ tə ˈmjuːzɪk/",
+    "meaning": "Nghe nhạc",
+    "example": "She relaxes by listening to music. (Cô ấy thư giãn bằng cách nghe nhạc.)"
+  },
+  {
+    "word": "Drawing",
+    "phonetic": "/ˈdrɔːɪŋ/",
+    "meaning": "Vẽ",
+    "example": "He enjoys drawing animals and cartoons. (Anh ấy thích vẽ động vật và hoạt hình.)"
+  },
+  {
+    "word": "Writing",
+    "phonetic": "/ˈraɪtɪŋ/",
+    "meaning": "Viết",
+    "example": "She’s interested in writing short stories. (Cô ấy thích viết truyện ngắn.)"
+  },
+  {
+    "word": "Hiking",
+    "phonetic": "/ˈhaɪkɪŋ/",
+    "meaning": "Đi bộ đường dài",
+    "example": "We love hiking in the mountains. (Chúng tôi thích đi bộ đường dài trên núi.)"
+  },
+  {
+    "word": "Cycling",
+    "phonetic": "/ˈsaɪklɪŋ/",
+    "meaning": "Đi xe đạp",
+    "example": "He goes cycling every morning. (Anh ấy đi xe đạp mỗi sáng.)"
+  },
+  {
+    "word": "Swimming",
+    "phonetic": "/ˈswɪmɪŋ/",
+    "meaning": "Bơi lội",
+    "example": "She practices swimming twice a week. (Cô ấy luyện bơi hai lần mỗi tuần.)"
+  },
+  {
+    "word": "Fishing",
+    "phonetic": "/ˈfɪʃɪŋ/",
+    "meaning": "Câu cá",
+    "example": "My dad enjoys fishing on Sundays. (Bố tôi thích câu cá vào Chủ nhật.)"
+  },
+  {
+    "word": "Playing guitar",
+    "phonetic": "/ˈpleɪɪŋ ɡɪˈtɑː(r)/",
+    "meaning": "Chơi đàn guitar",
+    "example": "He spends hours playing guitar. (Anh ấy dành hàng giờ chơi guitar.)"
+  },
+  {
+    "word": "Knitting",
+    "phonetic": "/ˈnɪtɪŋ/",
+    "meaning": "Đan len",
+    "example": "My grandma loves knitting sweaters. (Bà tôi thích đan áo len.)"
+  },
+  {
+    "word": "Baking",
+    "phonetic": "/ˈbeɪkɪŋ/",
+    "meaning": "Nướng bánh",
+    "example": "She is great at baking cakes. (Cô ấy rất giỏi nướng bánh.)"
+  },
+  {
+    "word": "Collecting stamps",
+    "phonetic": "/kəˈlektɪŋ stæmps/",
+    "meaning": "Sưu tầm tem",
+    "example": "He started collecting stamps when he was ten. (Anh ấy bắt đầu sưu tầm tem từ khi 10 tuổi.)"
+  },
+  {
+    "word": "Playing chess",
+    "phonetic": "/ˈpleɪɪŋ tʃes/",
+    "meaning": "Chơi cờ",
+    "example": "We often spend evenings playing chess. (Chúng tôi thường dành buổi tối chơi cờ.)"
+  },
+  {
+    "word": "Surfing the internet",
+    "phonetic": "/ˈsɜːfɪŋ ði ˈɪntənet/",
+    "meaning": "Lướt mạng",
+    "example": "Many teenagers enjoy surfing the internet. (Nhiều thanh thiếu niên thích lướt mạng.)"
+  },
+  {
+    "word": "Camping",
+    "phonetic": "/ˈkæmpɪŋ/",
+    "meaning": "Cắm trại",
+    "example": "They go camping every summer. (Họ đi cắm trại mỗi mùa hè.)"
+  },
+  {
+    "word": "Yoga",
+    "phonetic": "/ˈjəʊɡə/",
+    "meaning": "Tập yoga",
+    "example": "She does yoga to stay healthy. (Cô ấy tập yoga để giữ sức khỏe.)"
+  },
+  {
+    "word": "Playing piano",
+    "phonetic": "/ˈpleɪɪŋ piˈænəʊ/",
+    "meaning": "Chơi đàn piano",
+    "example": "He is learning playing piano at school. (Anh ấy đang học chơi đàn piano ở trường.)"
+  },
+  {
+    "word": "Martial arts",
+    "phonetic": "/ˈmɑːʃl ɑːts/",
+    "meaning": "Võ thuật",
+    "example": "He practices martial arts every weekend. (Anh ấy luyện võ vào mỗi cuối tuần.)"
+  },
+  {
+    "word": "Volunteering",
+    "phonetic": "/ˌvɒlənˈtɪərɪŋ/",
+    "meaning": "Làm tình nguyện",
+    "example": "She enjoys volunteering at the animal shelter. (Cô ấy thích làm tình nguyện tại trại động vật.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Shirt",
+    "phonetic": "/ʃɜːt/",
+    "meaning": "Áo sơ mi",
+    "example": "He wore a white shirt to the interview. (Anh ấy mặc một chiếc áo sơ mi trắng đến buổi phỏng vấn.)"
+  },
+  {
+    "word": "T-shirt",
+    "phonetic": "/ˈtiː ʃɜːt/",
+    "meaning": "Áo thun",
+    "example": "I bought a new T-shirt yesterday. (Tôi đã mua một chiếc áo thun mới hôm qua.)"
+  },
+  {
+    "word": "Pants",
+    "phonetic": "/pænts/",
+    "meaning": "Quần dài",
+    "example": "He always wears black pants to work. (Anh ấy luôn mặc quần dài đen đi làm.)"
+  },
+  {
+    "word": "Jeans",
+    "phonetic": "/dʒiːnz/",
+    "meaning": "Quần bò",
+    "example": "She looks great in jeans. (Cô ấy trông rất hợp với quần bò.)"
+  },
+  {
+    "word": "Skirt",
+    "phonetic": "/skɜːt/",
+    "meaning": "Váy ngắn",
+    "example": "She wore a red skirt to the party. (Cô ấy mặc một chiếc váy đỏ đến buổi tiệc.)"
+  },
+  {
+    "word": "Dress",
+    "phonetic": "/dres/",
+    "meaning": "Váy liền thân",
+    "example": "That dress looks beautiful on you. (Chiếc váy đó trông rất đẹp với bạn.)"
+  },
+  {
+    "word": "Jacket",
+    "phonetic": "/ˈdʒækɪt/",
+    "meaning": "Áo khoác ngắn",
+    "example": "It’s cold outside, bring a jacket. (Ngoài trời lạnh lắm, mang theo áo khoác ngắn nhé.)"
+  },
+  {
+    "word": "Coat",
+    "phonetic": "/kəʊt/",
+    "meaning": "Áo khoác dài",
+    "example": "He wore a thick coat in the winter. (Anh ấy mặc áo khoác dày vào mùa đông.)"
+  },
+  {
+    "word": "Sweater",
+    "phonetic": "/ˈswetə(r)/",
+    "meaning": "Áo len",
+    "example": "I need a warm sweater for this weather. (Tôi cần một chiếc áo len ấm cho thời tiết này.)"
+  },
+  {
+    "word": "Hoodie",
+    "phonetic": "/ˈhʊdi/",
+    "meaning": "Áo hoodie",
+    "example": "He always wears his favorite hoodie. (Anh ấy luôn mặc chiếc áo hoodie yêu thích.)"
+  },
+  {
+    "word": "Shorts",
+    "phonetic": "/ʃɔːts/",
+    "meaning": "Quần đùi",
+    "example": "It’s too hot for jeans, let’s wear shorts. (Trời quá nóng cho quần bò, hãy mặc quần đùi đi.)"
+  },
+  {
+    "word": "Socks",
+    "phonetic": "/sɒks/",
+    "meaning": "Tất/vớ",
+    "example": "I can’t find my socks. (Tôi không tìm thấy đôi tất của mình.)"
+  },
+  {
+    "word": "Shoes",
+    "phonetic": "/ʃuːz/",
+    "meaning": "Giày",
+    "example": "She bought new running shoes. (Cô ấy đã mua đôi giày chạy mới.)"
+  },
+  {
+    "word": "Sneakers",
+    "phonetic": "/ˈsniːkəz/",
+    "meaning": "Giày thể thao",
+    "example": "He wears sneakers every day. (Anh ấy mang giày thể thao mỗi ngày.)"
+  },
+  {
+    "word": "Sandals",
+    "phonetic": "/ˈsændlz/",
+    "meaning": "Dép quai",
+    "example": "I prefer sandals in the summer. (Tôi thích mang dép quai vào mùa hè.)"
+  },
+  {
+    "word": "Boots",
+    "phonetic": "/buːts/",
+    "meaning": "Ủng/giày bốt",
+    "example": "She wore boots because it was raining. (Cô ấy mang giày bốt vì trời đang mưa.)"
+  },
+  {
+    "word": "Hat",
+    "phonetic": "/hæt/",
+    "meaning": "Mũ (nói chung)",
+    "example": "He took off his hat when entering the room. (Anh ấy cởi mũ khi bước vào phòng.)"
+  },
+  {
+    "word": "Cap",
+    "phonetic": "/kæp/",
+    "meaning": "Mũ lưỡi trai",
+    "example": "He wore a baseball cap. (Anh ấy đội một chiếc mũ bóng chày.)"
+  },
+  {
+    "word": "Scarf",
+    "phonetic": "/skɑːf/",
+    "meaning": "Khăn choàng cổ",
+    "example": "I love your red scarf! (Tôi thích chiếc khăn choàng cổ màu đỏ của bạn!)"
+  },
+  {
+    "word": "Gloves",
+    "phonetic": "/ɡlʌvz/",
+    "meaning": "Găng tay",
+    "example": "Wear gloves to keep your hands warm. (Đeo găng tay để giữ ấm tay bạn.)"
+  },
+  {
+    "word": "Tie",
+    "phonetic": "/taɪ/",
+    "meaning": "Cà vạt",
+    "example": "He wore a blue tie with his suit. (Anh ấy đeo cà vạt xanh với bộ vest.)"
+  },
+  {
+    "word": "Belt",
+    "phonetic": "/belt/",
+    "meaning": "Thắt lưng",
+    "example": "I forgot to wear my belt. (Tôi quên đeo thắt lưng rồi.)"
+  },
+  {
+    "word": "Sunglasses",
+    "phonetic": "/ˈsʌnˌɡlɑːsɪz/",
+    "meaning": "Kính râm",
+    "example": "She always wears sunglasses when driving. (Cô ấy luôn đeo kính râm khi lái xe.)"
+  },
+  {
+    "word": "Purse",
+    "phonetic": "/pɜːs/",
+    "meaning": "Ví nhỏ/túi xách nữ",
+    "example": "She put her phone in her purse. (Cô ấy để điện thoại vào túi xách.)"
+  },
+  {
+    "word": "Handbag",
+    "phonetic": "/ˈhændbæɡ/",
+    "meaning": "Túi xách tay nữ",
+    "example": "Her handbag matches her shoes. (Túi xách tay của cô ấy hợp với đôi giày.)"
+  },
+  {
+    "word": "Backpack",
+    "phonetic": "/ˈbækpæk/",
+    "meaning": "Ba lô",
+    "example": "He carries his laptop in a backpack. (Anh ấy mang máy tính trong ba lô.)"
+  },
+  {
+    "word": "Pajamas",
+    "phonetic": "/pəˈdʒɑːməz/",
+    "meaning": "Đồ ngủ",
+    "example": "I bought new pajamas for winter. (Tôi đã mua bộ đồ ngủ mới cho mùa đông.)"
+  },
+  {
+    "word": "Uniform",
+    "phonetic": "/ˈjuːnɪfɔːm/",
+    "meaning": "Đồng phục",
+    "example": "Students must wear uniforms to school. (Học sinh phải mặc đồng phục đến trường.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Buy",
+    "phonetic": "/baɪ/",
+    "meaning": "Mua",
+    "example": "I want to buy a new dress. (Tôi muốn mua một chiếc váy mới.)"
+  },
+  {
+    "word": "Sell",
+    "phonetic": "/sel/",
+    "meaning": "Bán",
+    "example": "They sell fresh fruit at the market. (Họ bán trái cây tươi ở chợ.)"
+  },
+  {
+    "word": "Shop",
+    "phonetic": "/ʃɒp/",
+    "meaning": "Cửa hàng / mua sắm",
+    "example": "I usually shop on weekends. (Tôi thường đi mua sắm vào cuối tuần.)"
+  },
+  {
+    "word": "Mall",
+    "phonetic": "/mɔːl/",
+    "meaning": "Trung tâm thương mại",
+    "example": "Let’s meet at the mall at 3 PM. (Hãy gặp nhau ở trung tâm thương mại lúc 3 giờ chiều.)"
+  },
+  {
+    "word": "Price",
+    "phonetic": "/praɪs/",
+    "meaning": "Giá cả",
+    "example": "The price of this shirt is too high. (Giá của chiếc áo này quá cao.)"
+  },
+  {
+    "word": "Discount",
+    "phonetic": "/ˈdɪskaʊnt/",
+    "meaning": "Giảm giá",
+    "example": "This store offers a 20% discount. (Cửa hàng này giảm giá 20%.)"
+  },
+  {
+    "word": "Sale",
+    "phonetic": "/seɪl/",
+    "meaning": "Đợt bán giảm giá",
+    "example": "I bought this on sale. (Tôi mua cái này khi đang giảm giá.)"
+  },
+  {
+    "word": "Bargain",
+    "phonetic": "/ˈbɑːɡən/",
+    "meaning": "Món hời / mặc cả",
+    "example": "That was a great bargain! (Đó là một món hời tuyệt vời!)"
+  },
+  {
+    "word": "Cash",
+    "phonetic": "/kæʃ/",
+    "meaning": "Tiền mặt",
+    "example": "Do you want to pay by cash or card? (Bạn muốn thanh toán bằng tiền mặt hay thẻ?)"
+  },
+  {
+    "word": "Receipt",
+    "phonetic": "/rɪˈsiːt/",
+    "meaning": "Biên lai",
+    "example": "Don’t forget to take your receipt. (Đừng quên lấy biên lai của bạn.)"
+  },
+  {
+    "word": "Credit card",
+    "phonetic": "/ˈkrɛdɪt kɑːd/",
+    "meaning": "Thẻ tín dụng",
+    "example": "I prefer to use a credit card. (Tôi thích dùng thẻ tín dụng hơn.)"
+  },
+  {
+    "word": "Checkout",
+    "phonetic": "/ˈtʃekaʊt/",
+    "meaning": "Quầy thanh toán",
+    "example": "You can pay at the checkout. (Bạn có thể thanh toán ở quầy thanh toán.)"
+  },
+  {
+    "word": "Try on",
+    "phonetic": "/traɪ ɒn/",
+    "meaning": "Thử đồ",
+    "example": "Can I try on this jacket? (Tôi có thể thử chiếc áo khoác này không?)"
+  },
+  {
+    "word": "Size",
+    "phonetic": "/saɪz/",
+    "meaning": "Cỡ, kích thước",
+    "example": "Do you have this in a smaller size? (Bạn có cái này cỡ nhỏ hơn không?)"
+  },
+  {
+    "word": "Fit",
+    "phonetic": "/fɪt/",
+    "meaning": "Vừa vặn",
+    "example": "These jeans fit me perfectly. (Chiếc quần jeans này vừa vặn với tôi.)"
+  },
+  {
+    "word": "Refund",
+    "phonetic": "/ˈriːfʌnd/",
+    "meaning": "Hoàn tiền",
+    "example": "Can I get a refund for this item? (Tôi có thể hoàn tiền cho món hàng này không?)"
+  },
+  {
+    "word": "Exchange",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "meaning": "Đổi hàng",
+    "example": "I want to exchange this shirt for a larger one. (Tôi muốn đổi chiếc áo này sang cái lớn hơn.)"
+  },
+  {
+    "word": "Return",
+    "phonetic": "/rɪˈtɜːn/",
+    "meaning": "Trả lại",
+    "example": "I need to return this defective product. (Tôi cần trả lại sản phẩm bị lỗi này.)"
+  },
+  {
+    "word": "Expensive",
+    "phonetic": "/ɪkˈspensɪv/",
+    "meaning": "Đắt đỏ",
+    "example": "That bag is really expensive. (Chiếc túi đó thực sự đắt đỏ.)"
+  },
+  {
+    "word": "Cheap",
+    "phonetic": "/tʃiːp/",
+    "meaning": "Rẻ tiền",
+    "example": "I found a cheap but good pair of shoes. (Tôi tìm được đôi giày rẻ nhưng tốt.)"
+  },
+  {
+    "word": "Shopping cart",
+    "phonetic": "/ˈʃɒpɪŋ kɑːt/",
+    "meaning": "Giỏ hàng",
+    "example": "Put it in the shopping cart. (Cho nó vào giỏ hàng đi.)"
+  },
+  {
+    "word": "Customer",
+    "phonetic": "/ˈkʌstəmə(r)/",
+    "meaning": "Khách hàng",
+    "example": "The customer is always right. (Khách hàng luôn đúng.)"
+  },
+  {
+    "word": "Shop assistant",
+    "phonetic": "/ʃɒp əˈsɪstənt/",
+    "meaning": "Nhân viên bán hàng",
+    "example": "The shop assistant helped me find my size. (Nhân viên bán hàng đã giúp tôi tìm đúng cỡ.)"
+  },
+  {
+    "word": "Online shopping",
+    "phonetic": "/ˈɒnlaɪn ˈʃɒpɪŋ/",
+    "meaning": "Mua sắm trực tuyến",
+    "example": "I prefer online shopping for convenience. (Tôi thích mua sắm trực tuyến vì tiện lợi.)"
+  },
+  {
+    "word": "Window shopping",
+    "phonetic": "/ˈwɪndəʊ ˈʃɒpɪŋ/",
+    "meaning": "Ngắm đồ không mua",
+    "example": "We went window shopping after dinner. (Chúng tôi đi ngắm đồ sau bữa tối.)"
+  },
+  {
+    "word": "Changing room",
+    "phonetic": "/ˈtʃeɪndʒɪŋ ruːm/",
+    "meaning": "Phòng thử đồ",
+    "example": "The changing room is at the back. (Phòng thử đồ ở phía sau.)"
+  },
+  {
+    "word": "Queue",
+    "phonetic": "/kjuː/",
+    "meaning": "Xếp hàng",
+    "example": "We had to queue for an hour. (Chúng tôi phải xếp hàng suốt một tiếng.)"
+  },
+  {
+    "word": "Label",
+    "phonetic": "/ˈleɪbl/",
+    "meaning": "Nhãn mác",
+    "example": "Check the label for the price. (Xem nhãn mác để biết giá.)"
+  },
+  {
+    "word": "Product",
+    "phonetic": "/ˈprɒdʌkt/",
+    "meaning": "Sản phẩm",
+    "example": "This product is very popular. (Sản phẩm này rất được ưa chuộng.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Travel",
+    "phonetic": "/ˈtrævəl/",
+    "meaning": "Du lịch",
+    "example": "I love to travel and explore new places. (Tôi thích du lịch và khám phá những nơi mới.)"
+  },
+  {
+    "word": "Trip",
+    "phonetic": "/trɪp/",
+    "meaning": "Chuyến đi",
+    "example": "We went on a weekend trip to the mountains. (Chúng tôi đã đi chuyến đi cuối tuần lên núi.)"
+  },
+  {
+    "word": "Journey",
+    "phonetic": "/ˈdʒɜːni/",
+    "meaning": "Hành trình",
+    "example": "The journey took us through beautiful landscapes. (Hành trình đã đưa chúng tôi qua những khung cảnh tuyệt đẹp.)"
+  },
+  {
+    "word": "Tour",
+    "phonetic": "/tʊə(r)/",
+    "meaning": "Chuyến tham quan",
+    "example": "We took a guided tour of the ancient city. (Chúng tôi tham gia một chuyến tham quan có hướng dẫn viên ở thành phố cổ.)"
+  },
+  {
+    "word": "Tourist",
+    "phonetic": "/ˈtʊərɪst/",
+    "meaning": "Khách du lịch",
+    "example": "The city is always full of tourists in summer. (Thành phố luôn đầy khách du lịch vào mùa hè.)"
+  },
+  {
+    "word": "Destination",
+    "phonetic": "/ˌdestɪˈneɪʃən/",
+    "meaning": "Điểm đến",
+    "example": "Paris is a popular destination for honeymooners. (Paris là điểm đến phổ biến cho tuần trăng mật.)"
+  },
+  {
+    "word": "Sightseeing",
+    "phonetic": "/ˈsaɪtsiːɪŋ/",
+    "meaning": "Tham quan",
+    "example": "We spent the day sightseeing around Rome. (Chúng tôi dành cả ngày để tham quan quanh thành Rome.)"
+  },
+  {
+    "word": "Luggage",
+    "phonetic": "/ˈlʌɡɪdʒ/",
+    "meaning": "Hành lý",
+    "example": "Don’t forget your luggage at the airport. (Đừng quên hành lý ở sân bay.)"
+  },
+  {
+    "word": "Backpack",
+    "phonetic": "/ˈbækpæk/",
+    "meaning": "Ba lô",
+    "example": "He carried a large backpack during the hike. (Anh ấy mang một chiếc ba lô lớn trong suốt chuyến đi bộ.)"
+  },
+  {
+    "word": "Passport",
+    "phonetic": "/ˈpɑːspɔːt/",
+    "meaning": "Hộ chiếu",
+    "example": "Make sure your passport is valid. (Hãy đảm bảo hộ chiếu của bạn còn hiệu lực.)"
+  },
+  {
+    "word": "Visa",
+    "phonetic": "/ˈviːzə/",
+    "meaning": "Thị thực",
+    "example": "I need a visa to enter that country. (Tôi cần thị thực để vào quốc gia đó.)"
+  },
+  {
+    "word": "Flight",
+    "phonetic": "/flaɪt/",
+    "meaning": "Chuyến bay",
+    "example": "Our flight was delayed due to bad weather. (Chuyến bay của chúng tôi bị hoãn vì thời tiết xấu.)"
+  },
+  {
+    "word": "Airport",
+    "phonetic": "/ˈeəpɔːt/",
+    "meaning": "Sân bay",
+    "example": "We arrived at the airport two hours early. (Chúng tôi đến sân bay sớm hai tiếng.)"
+  },
+  {
+    "word": "Hotel",
+    "phonetic": "/həʊˈtel/",
+    "meaning": "Khách sạn",
+    "example": "We booked a room in a five-star hotel. (Chúng tôi đặt phòng ở một khách sạn năm sao.)"
+  },
+  {
+    "word": "Hostel",
+    "phonetic": "/ˈhɒstl/",
+    "meaning": "Nhà trọ",
+    "example": "We stayed at a cheap hostel near the city center. (Chúng tôi ở một nhà trọ rẻ gần trung tâm thành phố.)"
+  },
+  {
+    "word": "Resort",
+    "phonetic": "/rɪˈzɔːt/",
+    "meaning": "Khu nghỉ dưỡng",
+    "example": "The beach resort was beautiful and peaceful. (Khu nghỉ dưỡng ven biển rất đẹp và yên bình.)"
+  },
+  {
+    "word": "Itinerary",
+    "phonetic": "/aɪˈtɪnərəri/",
+    "meaning": "Lịch trình",
+    "example": "Our itinerary includes visits to three cities. (Lịch trình của chúng tôi bao gồm thăm ba thành phố.)"
+  },
+  {
+    "word": "Booking",
+    "phonetic": "/ˈbʊkɪŋ/",
+    "meaning": "Đặt chỗ",
+    "example": "I made a booking online for the hotel. (Tôi đã đặt chỗ khách sạn qua mạng.)"
+  },
+  {
+    "word": "Guide",
+    "phonetic": "/ɡaɪd/",
+    "meaning": "Hướng dẫn viên",
+    "example": "Our guide was very knowledgeable and friendly. (Hướng dẫn viên của chúng tôi rất hiểu biết và thân thiện.)"
+  },
+  {
+    "word": "Cruise",
+    "phonetic": "/kruːz/",
+    "meaning": "Chuyến du thuyền",
+    "example": "We went on a cruise around the Caribbean. (Chúng tôi đã đi chuyến du thuyền quanh vùng Caribe.)"
+  },
+  {
+    "word": "Adventure",
+    "phonetic": "/ədˈventʃə(r)/",
+    "meaning": "Cuộc phiêu lưu",
+    "example": "He loves adventure travel in remote areas. (Anh ấy thích du lịch phiêu lưu ở vùng hẻo lánh.)"
+  },
+  {
+    "word": "Beach",
+    "phonetic": "/biːtʃ/",
+    "meaning": "Bãi biển",
+    "example": "We spent the whole day relaxing on the beach. (Chúng tôi dành cả ngày thư giãn trên bãi biển.)"
+  },
+  {
+    "word": "Souvenir",
+    "phonetic": "/ˌsuːvəˈnɪə(r)/",
+    "meaning": "Quà lưu niệm",
+    "example": "I bought a souvenir for my friend. (Tôi đã mua một món quà lưu niệm cho bạn tôi.)"
+  },
+  {
+    "word": "Map",
+    "phonetic": "/mæp/",
+    "meaning": "Bản đồ",
+    "example": "Use a map to find your way in the city. (Hãy dùng bản đồ để tìm đường trong thành phố.)"
+  },
+  {
+    "word": "Travel agency",
+    "phonetic": "/ˈtrævəl ˌeɪdʒənsi/",
+    "meaning": "Công ty du lịch",
+    "example": "I booked the tour through a travel agency. (Tôi đã đặt chuyến du lịch thông qua một công ty du lịch.)"
+  },
+  {
+    "word": "Local",
+    "phonetic": "/ˈləʊkl/",
+    "meaning": "Người địa phương",
+    "example": "We asked a local for directions. (Chúng tôi hỏi một người địa phương chỉ đường.)"
+  },
+  {
+    "word": "Culture",
+    "phonetic": "/ˈkʌltʃə(r)/",
+    "meaning": "Văn hóa",
+    "example": "I love learning about new cultures when I travel. (Tôi thích tìm hiểu các nền văn hóa mới khi du lịch.)"
+  },
+  {
+    "word": "Budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "meaning": "Ngân sách",
+    "example": "We planned a budget trip to Europe. (Chúng tôi lên kế hoạch cho một chuyến đi châu Âu tiết kiệm.)"
+  },
+  {
+    "word": "Travel insurance",
+    "phonetic": "/ˈtrævəl ɪnˌʃʊərəns/",
+    "meaning": "Bảo hiểm du lịch",
+    "example": "Don’t forget to buy travel insurance. (Đừng quên mua bảo hiểm du lịch.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "School",
+    "phonetic": "/skuːl/",
+    "meaning": "Trường học",
+    "example": "My brother goes to school every day. (Em trai tôi đến trường mỗi ngày.)"
+  },
+  {
+    "word": "Classroom",
+    "phonetic": "/ˈklɑːsruːm/",
+    "meaning": "Lớp học",
+    "example": "The classroom is clean and quiet. (Lớp học sạch sẽ và yên tĩnh.)"
+  },
+  {
+    "word": "Teacher",
+    "phonetic": "/ˈtiːtʃə(r)/",
+    "meaning": "Giáo viên",
+    "example": "Our teacher gave us homework. (Giáo viên của chúng tôi đã giao bài tập.)"
+  },
+  {
+    "word": "Student",
+    "phonetic": "/ˈstjuːdnt/",
+    "meaning": "Học sinh",
+    "example": "She is a very hardworking student. (Cô ấy là một học sinh rất chăm chỉ.)"
+  },
+  {
+    "word": "Principal",
+    "phonetic": "/ˈprɪnsəpl/",
+    "meaning": "Hiệu trưởng",
+    "example": "The principal gave a speech this morning. (Hiệu trưởng đã phát biểu sáng nay.)"
+  },
+  {
+    "word": "Subject",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "meaning": "Môn học",
+    "example": "Math is my favorite subject. (Toán là môn học yêu thích của tôi.)"
+  },
+  {
+    "word": "Math",
+    "phonetic": "/mæθ/",
+    "meaning": "Toán học",
+    "example": "I have a Math test tomorrow. (Tôi có bài kiểm tra Toán vào ngày mai.)"
+  },
+  {
+    "word": "Science",
+    "phonetic": "/ˈsaɪəns/",
+    "meaning": "Khoa học",
+    "example": "We did an experiment in Science class. (Chúng tôi đã làm thí nghiệm trong lớp Khoa học.)"
+  },
+  {
+    "word": "History",
+    "phonetic": "/ˈhɪstri/",
+    "meaning": "Lịch sử",
+    "example": "I enjoy reading about wars in History. (Tôi thích đọc về các cuộc chiến trong Lịch sử.)"
+  },
+  {
+    "word": "Literature",
+    "phonetic": "/ˈlɪtrətʃə(r)/",
+    "meaning": "Văn học",
+    "example": "We are studying English Literature. (Chúng tôi đang học Văn học Anh.)"
+  },
+  {
+    "word": "Homework",
+    "phonetic": "/ˈhəʊmwɜːk/",
+    "meaning": "Bài tập về nhà",
+    "example": "I have too much homework today. (Hôm nay tôi có quá nhiều bài tập về nhà.)"
+  },
+  {
+    "word": "Exam",
+    "phonetic": "/ɪɡˈzæm/",
+    "meaning": "Kỳ thi",
+    "example": "He is preparing for the final exam. (Cậu ấy đang chuẩn bị cho kỳ thi cuối kỳ.)"
+  },
+  {
+    "word": "Test",
+    "phonetic": "/test/",
+    "meaning": "Bài kiểm tra",
+    "example": "We had a surprise test in class. (Chúng tôi có bài kiểm tra bất ngờ trong lớp.)"
+  },
+  {
+    "word": "Score",
+    "phonetic": "/skɔː(r)/",
+    "meaning": "Điểm số",
+    "example": "She got a high score on the exam. (Cô ấy đạt điểm cao trong kỳ thi.)"
+  },
+  {
+    "word": "Grade",
+    "phonetic": "/ɡreɪd/",
+    "meaning": "Lớp/Điểm số",
+    "example": "He is in the sixth grade. (Cậu ấy học lớp sáu.)"
+  },
+  {
+    "word": "Backpack",
+    "phonetic": "/ˈbækpæk/",
+    "meaning": "Cặp sách/Ba lô",
+    "example": "I carry my books in a backpack. (Tôi mang sách trong ba lô.)"
+  },
+  {
+    "word": "Textbook",
+    "phonetic": "/ˈtekstbʊk/",
+    "meaning": "Sách giáo khoa",
+    "example": "Don’t forget to bring your textbook. (Đừng quên mang theo sách giáo khoa.)"
+  },
+  {
+    "word": "Notebook",
+    "phonetic": "/ˈnəʊtbʊk/",
+    "meaning": "Vở",
+    "example": "I wrote the lesson in my notebook. (Tôi đã ghi bài học vào vở.)"
+  },
+  {
+    "word": "Pencil",
+    "phonetic": "/ˈpensl/",
+    "meaning": "Bút chì",
+    "example": "He drew a picture with a pencil. (Cậu ấy vẽ một bức tranh bằng bút chì.)"
+  },
+  {
+    "word": "Pen",
+    "phonetic": "/pen/",
+    "meaning": "Bút mực",
+    "example": "Please use a pen to sign your name. (Vui lòng dùng bút mực để ký tên.)"
+  },
+  {
+    "word": "Ruler",
+    "phonetic": "/ˈruːlə(r)/",
+    "meaning": "Thước kẻ",
+    "example": "She used a ruler to draw a straight line. (Cô ấy dùng thước để vẽ một đường thẳng.)"
+  },
+  {
+    "word": "Eraser",
+    "phonetic": "/ɪˈreɪzə(r)/",
+    "meaning": "Cục tẩy",
+    "example": "I lost my eraser during class. (Tôi làm mất cục tẩy trong giờ học.)"
+  },
+  {
+    "word": "Chalk",
+    "phonetic": "/tʃɔːk/",
+    "meaning": "Phấn viết bảng",
+    "example": "The teacher wrote on the board with chalk. (Giáo viên viết lên bảng bằng phấn.)"
+  },
+  {
+    "word": "Blackboard",
+    "phonetic": "/ˈblækbɔːd/",
+    "meaning": "Bảng đen",
+    "example": "The sentence is written on the blackboard. (Câu đó được viết trên bảng đen.)"
+  },
+  {
+    "word": "Desk",
+    "phonetic": "/desk/",
+    "meaning": "Bàn học",
+    "example": "Every student has their own desk. (Mỗi học sinh có bàn học riêng.)"
+  },
+  {
+    "word": "Chair",
+    "phonetic": "/tʃeə(r)/",
+    "meaning": "Ghế",
+    "example": "I sat on a wooden chair. (Tôi ngồi trên một chiếc ghế gỗ.)"
+  },
+  {
+    "word": "Library",
+    "phonetic": "/ˈlaɪbrəri/",
+    "meaning": "Thư viện",
+    "example": "I borrowed a novel from the library. (Tôi mượn một cuốn tiểu thuyết từ thư viện.)"
+  },
+  {
+    "word": "Recess",
+    "phonetic": "/ˈriːses/",
+    "meaning": "Giờ ra chơi",
+    "example": "The kids are playing outside during recess. (Lũ trẻ đang chơi bên ngoài trong giờ ra chơi.)"
+  },
+  {
+    "word": "Uniform",
+    "phonetic": "/ˈjuːnɪfɔːm/",
+    "meaning": "Đồng phục",
+    "example": "All students must wear a uniform. (Tất cả học sinh phải mặc đồng phục.)"
+  },
+  {
+    "word": "Assembly",
+    "phonetic": "/əˈsembli/",
+    "meaning": "Chào cờ/Tập trung",
+    "example": "We have assembly every Monday morning. (Chúng tôi có buổi chào cờ vào sáng thứ Hai hàng tuần.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Friend",
+    "phonetic": "/frend/",
+    "meaning": "Bạn bè",
+    "example": "She is my best friend. (Cô ấy là người bạn thân nhất của tôi.)"
+  },
+  {
+    "word": "Best friend",
+    "phonetic": "/best frend/",
+    "meaning": "Bạn thân nhất",
+    "example": "He has been my best friend since childhood. (Anh ấy là bạn thân nhất của tôi từ nhỏ.)"
+  },
+  {
+    "word": "Buddy",
+    "phonetic": "/ˈbʌdi/",
+    "meaning": "Bạn thân (thân mật)",
+    "example": "I’m going to the movies with my buddy. (Tôi sẽ đi xem phim với bạn thân của tôi.)"
+  },
+  {
+    "word": "Mate",
+    "phonetic": "/meɪt/",
+    "meaning": "Bạn (thường dùng ở Anh)",
+    "example": "We were mates in college. (Chúng tôi là bạn học ở đại học.)"
+  },
+  {
+    "word": "Pal",
+    "phonetic": "/pæl/",
+    "meaning": "Bạn (thân mật)",
+    "example": "He’s an old pal of mine. (Anh ấy là một người bạn cũ của tôi.)"
+  },
+  {
+    "word": "Classmate",
+    "phonetic": "/ˈklɑːsmeɪt/",
+    "meaning": "Bạn cùng lớp",
+    "example": "She is my classmate in math class. (Cô ấy là bạn cùng lớp toán với tôi.)"
+  },
+  {
+    "word": "Roommate",
+    "phonetic": "/ˈruːmmeɪt/",
+    "meaning": "Bạn cùng phòng",
+    "example": "My roommate is very tidy. (Bạn cùng phòng của tôi rất gọn gàng.)"
+  },
+  {
+    "word": "Teammate",
+    "phonetic": "/ˈtiːmmeɪt/",
+    "meaning": "Đồng đội",
+    "example": "Every teammate helped us win. (Mỗi đồng đội đều giúp chúng tôi chiến thắng.)"
+  },
+  {
+    "word": "Childhood friend",
+    "phonetic": "/ˈtʃaɪldhʊd frend/",
+    "meaning": "Bạn thuở nhỏ",
+    "example": "My childhood friend and I still talk. (Tôi và bạn thuở nhỏ vẫn còn liên lạc.)"
+  },
+  {
+    "word": "Companion",
+    "phonetic": "/kəmˈpænjən/",
+    "meaning": "Người đồng hành",
+    "example": "He was a loyal companion during my travels. (Anh ấy là người đồng hành trung thành trong các chuyến đi của tôi.)"
+  },
+  {
+    "word": "Acquaintance",
+    "phonetic": "/əˈkweɪntəns/",
+    "meaning": "Người quen",
+    "example": "She’s just an acquaintance, not a close friend. (Cô ấy chỉ là người quen, không phải bạn thân.)"
+  },
+  {
+    "word": "Close friend",
+    "phonetic": "/kləʊs frend/",
+    "meaning": "Bạn thân thiết",
+    "example": "A close friend always supports you. (Một người bạn thân thiết luôn ủng hộ bạn.)"
+  },
+  {
+    "word": "Loyal",
+    "phonetic": "/ˈlɔɪəl/",
+    "meaning": "Trung thành",
+    "example": "He is a very loyal friend. (Anh ấy là người bạn rất trung thành.)"
+  },
+  {
+    "word": "Trustworthy",
+    "phonetic": "/ˈtrʌstwɜːði/",
+    "meaning": "Đáng tin cậy",
+    "example": "She is trustworthy and honest. (Cô ấy đáng tin cậy và trung thực.)"
+  },
+  {
+    "word": "Honest",
+    "phonetic": "/ˈɒnɪst/",
+    "meaning": "Thành thật",
+    "example": "A true friend is always honest. (Một người bạn thật sự luôn thành thật.)"
+  },
+  {
+    "word": "Supportive",
+    "phonetic": "/səˈpɔːtɪv/",
+    "meaning": "Hay giúp đỡ, ủng hộ",
+    "example": "He’s very supportive when I’m down. (Anh ấy rất ủng hộ tôi khi tôi buồn.)"
+  },
+  {
+    "word": "Reliable",
+    "phonetic": "/rɪˈlaɪəbl/",
+    "meaning": "Đáng tin",
+    "example": "She’s a reliable friend I can count on. (Cô ấy là người bạn đáng tin cậy mà tôi có thể dựa vào.)"
+  },
+  {
+    "word": "Kind",
+    "phonetic": "/kaɪnd/",
+    "meaning": "Tốt bụng",
+    "example": "My friends are always kind to others. (Bạn tôi luôn tốt bụng với người khác.)"
+  },
+  {
+    "word": "Caring",
+    "phonetic": "/ˈkeərɪŋ/",
+    "meaning": "Quan tâm",
+    "example": "He’s very caring and thoughtful. (Anh ấy rất quan tâm và chu đáo.)"
+  },
+  {
+    "word": "Generous",
+    "phonetic": "/ˈdʒenərəs/",
+    "meaning": "Hào phóng",
+    "example": "She is so generous with her time. (Cô ấy rất hào phóng với thời gian của mình.)"
+  },
+  {
+    "word": "Funny",
+    "phonetic": "/ˈfʌni/",
+    "meaning": "Hài hước",
+    "example": "He’s the most funny guy I know. (Anh ấy là người hài hước nhất mà tôi biết.)"
+  },
+  {
+    "word": "Talkative",
+    "phonetic": "/ˈtɔːkətɪv/",
+    "meaning": "Hay nói chuyện",
+    "example": "My friend is very talkative and friendly. (Bạn tôi rất hay nói chuyện và thân thiện.)"
+  },
+  {
+    "word": "Friendly",
+    "phonetic": "/ˈfrendli/",
+    "meaning": "Thân thiện",
+    "example": "Everyone likes her because she’s friendly. (Ai cũng thích cô ấy vì cô ấy thân thiện.)"
+  },
+  {
+    "word": "Cheerful",
+    "phonetic": "/ˈtʃɪəfl/",
+    "meaning": "Vui vẻ",
+    "example": "His cheerful attitude makes everyone smile. (Thái độ vui vẻ của anh ấy làm mọi người mỉm cười.)"
+  },
+  {
+    "word": "Helpful",
+    "phonetic": "/ˈhelpfl/",
+    "meaning": "Hay giúp đỡ",
+    "example": "A helpful friend is always appreciated. (Một người bạn hay giúp đỡ luôn được quý mến.)"
+  },
+  {
+    "word": "Outgoing",
+    "phonetic": "/ˈaʊtɡəʊɪŋ/",
+    "meaning": "Hướng ngoại",
+    "example": "He’s very outgoing and makes friends easily. (Anh ấy rất hướng ngoại và dễ kết bạn.)"
+  },
+  {
+    "word": "Sociable",
+    "phonetic": "/ˈsəʊʃəbl/",
+    "meaning": "Hòa đồng",
+    "example": "Being sociable helps you make more friends. (Hòa đồng giúp bạn có thêm bạn bè.)"
+  },
+  {
+    "word": "Respectful",
+    "phonetic": "/rɪˈspektfl/",
+    "meaning": "Tôn trọng",
+    "example": "He is always respectful to his friends. (Anh ấy luôn tôn trọng bạn bè của mình.)"
+  },
+  {
+    "word": "Honest",
+    "phonetic": "/ˈɒnɪst/",
+    "meaning": "Trung thực",
+    "example": "A good friend is always honest with you. (Một người bạn tốt luôn trung thực với bạn.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Sunny",
+    "phonetic": "/ˈsʌni/",
+    "meaning": "Nắng",
+    "example": "It’s really sunny today. (Hôm nay trời thật nắng.)"
+  },
+  {
+    "word": "Cloudy",
+    "phonetic": "/ˈklaʊdi/",
+    "meaning": "Nhiều mây",
+    "example": "It looks cloudy, maybe it will rain. (Trời có vẻ nhiều mây, có thể sẽ mưa.)"
+  },
+  {
+    "word": "Rainy",
+    "phonetic": "/ˈreɪni/",
+    "meaning": "Mưa",
+    "example": "I hate going out on a rainy day. (Tôi ghét ra ngoài vào ngày mưa.)"
+  },
+  {
+    "word": "Windy",
+    "phonetic": "/ˈwɪndi/",
+    "meaning": "Gió",
+    "example": "It’s too windy to fly a kite. (Trời quá nhiều gió để thả diều.)"
+  },
+  {
+    "word": "Stormy",
+    "phonetic": "/ˈstɔːmi/",
+    "meaning": "Có bão, giông",
+    "example": "The weather turned stormy suddenly. (Thời tiết đột nhiên chuyển sang có giông bão.)"
+  },
+  {
+    "word": "Snowy",
+    "phonetic": "/ˈsnəʊi/",
+    "meaning": "Có tuyết",
+    "example": "It’s going to be snowy this weekend. (Cuối tuần này sẽ có tuyết.)"
+  },
+  {
+    "word": "Hot",
+    "phonetic": "/hɒt/",
+    "meaning": "Nóng",
+    "example": "It’s extremely hot outside. (Bên ngoài trời cực kỳ nóng.)"
+  },
+  {
+    "word": "Cold",
+    "phonetic": "/kəʊld/",
+    "meaning": "Lạnh",
+    "example": "It’s getting cold, wear a jacket. (Trời đang lạnh dần, hãy mặc áo khoác.)"
+  },
+  {
+    "word": "Warm",
+    "phonetic": "/wɔːm/",
+    "meaning": "Ấm áp",
+    "example": "The weather is pleasantly warm today. (Hôm nay thời tiết dễ chịu và ấm áp.)"
+  },
+  {
+    "word": "Cool",
+    "phonetic": "/kuːl/",
+    "meaning": "Mát mẻ",
+    "example": "It feels cool after the rain. (Trời cảm giác mát mẻ sau cơn mưa.)"
+  },
+  {
+    "word": "Foggy",
+    "phonetic": "/ˈfɒɡi/",
+    "meaning": "Có sương mù",
+    "example": "It’s very foggy, drive carefully. (Trời nhiều sương mù, hãy lái xe cẩn thận.)"
+  },
+  {
+    "word": "Humid",
+    "phonetic": "/ˈhjuːmɪd/",
+    "meaning": "Ẩm ướt",
+    "example": "It’s so humid that I’m sweating nonstop. (Trời ẩm ướt đến mức tôi đổ mồ hôi không ngừng.)"
+  },
+  {
+    "word": "Dry",
+    "phonetic": "/draɪ/",
+    "meaning": "Khô ráo",
+    "example": "The weather is dry and perfect for hiking. (Thời tiết khô ráo và lý tưởng để đi bộ đường dài.)"
+  },
+  {
+    "word": "Thunder",
+    "phonetic": "/ˈθʌndə(r)/",
+    "meaning": "Sấm",
+    "example": "I heard thunder last night. (Tôi đã nghe thấy sấm đêm qua.)"
+  },
+  {
+    "word": "Lightning",
+    "phonetic": "/ˈlaɪtnɪŋ/",
+    "meaning": "Sét",
+    "example": "The lightning was very bright. (Tia sét rất sáng.)"
+  },
+  {
+    "word": "Breeze",
+    "phonetic": "/briːz/",
+    "meaning": "Gió nhẹ",
+    "example": "A cool breeze is blowing through the window. (Một làn gió nhẹ mát đang thổi qua cửa sổ.)"
+  },
+  {
+    "word": "Hail",
+    "phonetic": "/heɪl/",
+    "meaning": "Mưa đá",
+    "example": "It started to hail suddenly. (Trời đột nhiên mưa đá.)"
+  },
+  {
+    "word": "Drizzle",
+    "phonetic": "/ˈdrɪzl/",
+    "meaning": "Mưa phùn",
+    "example": "There’s a light drizzle this morning. (Sáng nay có mưa phùn nhẹ.)"
+  },
+  {
+    "word": "Shower",
+    "phonetic": "/ˈʃaʊə(r)/",
+    "meaning": "Mưa rào",
+    "example": "Expect showers in the afternoon. (Dự kiến sẽ có mưa rào vào buổi chiều.)"
+  },
+  {
+    "word": "Temperature",
+    "phonetic": "/ˈtemprətʃə(r)/",
+    "meaning": "Nhiệt độ",
+    "example": "The temperature dropped below zero. (Nhiệt độ đã giảm xuống dưới 0 độ.)"
+  },
+  {
+    "word": "Degree",
+    "phonetic": "/dɪˈɡriː/",
+    "meaning": "Độ (nhiệt độ)",
+    "example": "It’s 30 degrees Celsius today. (Hôm nay 30 độ C.)"
+  },
+  {
+    "word": "Forecast",
+    "phonetic": "/ˈfɔːkɑːst/",
+    "meaning": "Dự báo thời tiết",
+    "example": "The weather forecast says it will rain tomorrow. (Dự báo thời tiết nói ngày mai sẽ mưa.)"
+  },
+  {
+    "word": "Climate",
+    "phonetic": "/ˈklaɪmət/",
+    "meaning": "Khí hậu",
+    "example": "This country has a tropical climate. (Đất nước này có khí hậu nhiệt đới.)"
+  },
+  {
+    "word": "Heatwave",
+    "phonetic": "/ˈhiːtweɪv/",
+    "meaning": "Đợt nắng nóng",
+    "example": "A heatwave hit the city last week. (Một đợt nắng nóng đã đến thành phố tuần trước.)"
+  },
+  {
+    "word": "Cold front",
+    "phonetic": "/kəʊld frʌnt/",
+    "meaning": "Khối không khí lạnh",
+    "example": "A cold front is moving in from the north. (Một khối không khí lạnh đang tiến vào từ phía bắc.)"
+  },
+  {
+    "word": "Frost",
+    "phonetic": "/frɒst/",
+    "meaning": "Sương giá",
+    "example": "There’s frost on the grass this morning. (Sáng nay có sương giá trên cỏ.)"
+  },
+  {
+    "word": "Drought",
+    "phonetic": "/draʊt/",
+    "meaning": "Hạn hán",
+    "example": "The drought lasted for three months. (Đợt hạn hán kéo dài ba tháng.)"
+  },
+  {
+    "word": "Flood",
+    "phonetic": "/flʌd/",
+    "meaning": "Lũ lụt",
+    "example": "The heavy rain caused a flood. (Cơn mưa lớn đã gây ra lũ lụt.)"
+  },
+  {
+    "word": "Rainbow",
+    "phonetic": "/ˈreɪnbəʊ/",
+    "meaning": "Cầu vồng",
+    "example": "We saw a rainbow after the storm. (Chúng tôi đã thấy một cầu vồng sau cơn bão.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "meaning": "Môi trường",
+    "example": "We must protect the environment. (Chúng ta phải bảo vệ môi trường.)"
+  },
+  {
+    "word": "Pollution",
+    "phonetic": "/pəˈluːʃn/",
+    "meaning": "Ô nhiễm",
+    "example": "Air pollution is a major concern in big cities. (Ô nhiễm không khí là mối lo ngại lớn ở các thành phố.)"
+  },
+  {
+    "word": "Deforestation",
+    "phonetic": "/diːˌfɒrɪˈsteɪʃn/",
+    "meaning": "Nạn phá rừng",
+    "example": "Deforestation affects global climate. (Nạn phá rừng ảnh hưởng đến khí hậu toàn cầu.)"
+  },
+  {
+    "word": "Climate change",
+    "phonetic": "/ˈklaɪmət tʃeɪndʒ/",
+    "meaning": "Biến đổi khí hậu",
+    "example": "Climate change is a serious global issue. (Biến đổi khí hậu là một vấn đề nghiêm trọng toàn cầu.)"
+  },
+  {
+    "word": "Global warming",
+    "phonetic": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+    "meaning": "Sự nóng lên toàn cầu",
+    "example": "Global warming leads to rising sea levels. (Sự nóng lên toàn cầu dẫn đến mực nước biển dâng cao.)"
+  },
+  {
+    "word": "Greenhouse effect",
+    "phonetic": "/ˈɡriːnhaʊs ɪˌfekt/",
+    "meaning": "Hiệu ứng nhà kính",
+    "example": "The greenhouse effect causes temperature to rise. (Hiệu ứng nhà kính khiến nhiệt độ tăng cao.)"
+  },
+  {
+    "word": "Renewable energy",
+    "phonetic": "/rɪˈnjuːəbl ˈenədʒi/",
+    "meaning": "Năng lượng tái tạo",
+    "example": "We should invest in renewable energy. (Chúng ta nên đầu tư vào năng lượng tái tạo.)"
+  },
+  {
+    "word": "Solar power",
+    "phonetic": "/ˈsəʊlə ˈpaʊə(r)/",
+    "meaning": "Năng lượng mặt trời",
+    "example": "Solar power is a clean source of energy. (Năng lượng mặt trời là một nguồn năng lượng sạch.)"
+  },
+  {
+    "word": "Wind energy",
+    "phonetic": "/wɪnd ˈenədʒi/",
+    "meaning": "Năng lượng gió",
+    "example": "Wind energy is used in many countries. (Năng lượng gió được sử dụng ở nhiều quốc gia.)"
+  },
+  {
+    "word": "Fossil fuels",
+    "phonetic": "/ˈfɒsl ˌfjuːəlz/",
+    "meaning": "Nhiên liệu hóa thạch",
+    "example": "We need to reduce our use of fossil fuels. (Chúng ta cần giảm việc sử dụng nhiên liệu hóa thạch.)"
+  },
+  {
+    "word": "Emissions",
+    "phonetic": "/ɪˈmɪʃnz/",
+    "meaning": "Khí thải",
+    "example": "Car emissions contribute to air pollution. (Khí thải xe hơi góp phần gây ô nhiễm không khí.)"
+  },
+  {
+    "word": "Carbon footprint",
+    "phonetic": "/ˌkɑːbən ˈfʊtprɪnt/",
+    "meaning": "Dấu chân carbon",
+    "example": "Flying increases your carbon footprint. (Đi máy bay làm tăng dấu chân carbon của bạn.)"
+  },
+  {
+    "word": "Sustainability",
+    "phonetic": "/səˌsteɪnəˈbɪləti/",
+    "meaning": "Tính bền vững",
+    "example": "We must aim for sustainability in development. (Chúng ta phải hướng tới tính bền vững trong phát triển.)"
+  },
+  {
+    "word": "Recycle",
+    "phonetic": "/ˌriːˈsaɪkl/",
+    "meaning": "Tái chế",
+    "example": "You should recycle paper and plastic. (Bạn nên tái chế giấy và nhựa.)"
+  },
+  {
+    "word": "Reusable",
+    "phonetic": "/ˌriːˈjuːzəbl/",
+    "meaning": "Có thể tái sử dụng",
+    "example": "Use reusable bags instead of plastic ones. (Hãy sử dụng túi có thể tái sử dụng thay vì túi nhựa.)"
+  },
+  {
+    "word": "Biodegradable",
+    "phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+    "meaning": "Phân hủy sinh học được",
+    "example": "Biodegradable products help reduce waste. (Các sản phẩm phân hủy sinh học giúp giảm rác thải.)"
+  },
+  {
+    "word": "Waste",
+    "phonetic": "/weɪst/",
+    "meaning": "Rác thải",
+    "example": "We produce too much waste every day. (Chúng ta tạo ra quá nhiều rác thải mỗi ngày.)"
+  },
+  {
+    "word": "Landfill",
+    "phonetic": "/ˈlændfɪl/",
+    "meaning": "Bãi rác",
+    "example": "The city is running out of landfill space. (Thành phố sắp hết chỗ cho bãi rác.)"
+  },
+  {
+    "word": "Ecosystem",
+    "phonetic": "/ˈiːkəʊsɪstəm/",
+    "meaning": "Hệ sinh thái",
+    "example": "Pollution can damage the entire ecosystem. (Ô nhiễm có thể phá hủy toàn bộ hệ sinh thái.)"
+  },
+  {
+    "word": "Biodiversity",
+    "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "meaning": "Đa dạng sinh học",
+    "example": "Forests are home to rich biodiversity. (Rừng là nơi có đa dạng sinh học phong phú.)"
+  },
+  {
+    "word": "Conservation",
+    "phonetic": "/ˌkɒnsəˈveɪʃn/",
+    "meaning": "Bảo tồn",
+    "example": "Conservation of nature is essential. (Việc bảo tồn thiên nhiên là rất quan trọng.)"
+  },
+  {
+    "word": "Habitat",
+    "phonetic": "/ˈhæbɪtæt/",
+    "meaning": "Môi trường sống",
+    "example": "Many animals lost their habitat due to deforestation. (Nhiều loài động vật mất môi trường sống vì nạn phá rừng.)"
+  },
+  {
+    "word": "Natural resources",
+    "phonetic": "/ˈnætʃrəl rɪˈsɔːsɪz/",
+    "meaning": "Tài nguyên thiên nhiên",
+    "example": "We must use natural resources wisely. (Chúng ta phải sử dụng tài nguyên thiên nhiên một cách khôn ngoan.)"
+  },
+  {
+    "word": "Organic",
+    "phonetic": "/ɔːˈɡænɪk/",
+    "meaning": "Hữu cơ",
+    "example": "Organic farming helps protect the environment. (Nông nghiệp hữu cơ giúp bảo vệ môi trường.)"
+  },
+  {
+    "word": "Green",
+    "phonetic": "/ɡriːn/",
+    "meaning": "Xanh, thân thiện môi trường",
+    "example": "She follows a very green lifestyle. (Cô ấy sống rất thân thiện với môi trường.)"
+  },
+  {
+    "word": "Contaminate",
+    "phonetic": "/kənˈtæmɪneɪt/",
+    "meaning": "Làm ô nhiễm",
+    "example": "Chemicals can contaminate the water supply. (Hóa chất có thể làm ô nhiễm nguồn nước.)"
+  },
+  {
+    "word": "Drought",
+    "phonetic": "/draʊt/",
+    "meaning": "Hạn hán",
+    "example": "The drought has affected food production. (Hạn hán đã ảnh hưởng đến sản xuất lương thực.)"
+  },
+  {
+    "word": "Flood",
+    "phonetic": "/flʌd/",
+    "meaning": "Lũ lụt",
+    "example": "The village was destroyed by a flood. (Ngôi làng bị tàn phá bởi trận lũ lụt.)"
+  },
+  {
+    "word": "Extinct",
+    "phonetic": "/ɪkˈstɪŋkt/",
+    "meaning": "Tuyệt chủng",
+    "example": "Many animals are now extinct. (Nhiều loài động vật nay đã tuyệt chủng.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Dog",
+    "phonetic": "/dɒɡ/",
+    "meaning": "Con chó",
+    "example": "I take my dog for a walk every morning. (Tôi dắt chó đi dạo mỗi sáng.)"
+  },
+  {
+    "word": "Cat",
+    "phonetic": "/kæt/",
+    "meaning": "Con mèo",
+    "example": "My cat loves sleeping in the sun. (Con mèo của tôi thích nằm ngủ dưới ánh nắng.)"
+  },
+  {
+    "word": "Hamster",
+    "phonetic": "/ˈhæmstə(r)/",
+    "meaning": "Chuột hamster",
+    "example": "We bought a hamster for our kids. (Chúng tôi mua một con chuột hamster cho bọn trẻ.)"
+  },
+  {
+    "word": "Rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "meaning": "Con thỏ",
+    "example": "Her rabbit is very fluffy and white. (Con thỏ của cô ấy rất mượt và trắng.)"
+  },
+  {
+    "word": "Parrot",
+    "phonetic": "/ˈpærət/",
+    "meaning": "Con vẹt",
+    "example": "The parrot can say a few words. (Con vẹt có thể nói được vài từ.)"
+  },
+  {
+    "word": "Goldfish",
+    "phonetic": "/ˈɡəʊldfɪʃ/",
+    "meaning": "Cá vàng",
+    "example": "I have three goldfish in a bowl. (Tôi có ba con cá vàng trong một cái bể.)"
+  },
+  {
+    "word": "Turtle",
+    "phonetic": "/ˈtɜːtl/",
+    "meaning": "Con rùa",
+    "example": "His turtle moves very slowly. (Con rùa của anh ấy di chuyển rất chậm.)"
+  },
+  {
+    "word": "Guinea pig",
+    "phonetic": "/ˈɡɪni pɪɡ/",
+    "meaning": "Chuột lang",
+    "example": "A guinea pig makes a good pet for children. (Chuột lang là thú cưng tốt cho trẻ nhỏ.)"
+  },
+  {
+    "word": "Ferret",
+    "phonetic": "/ˈferɪt/",
+    "meaning": "Chồn sương",
+    "example": "My cousin has a playful ferret. (Anh họ tôi có một con chồn sương rất tinh nghịch.)"
+  },
+  {
+    "word": "Hedgehog",
+    "phonetic": "/ˈhedʒhɒɡ/",
+    "meaning": "Nhím",
+    "example": "They adopted a hedgehog from a rescue center. (Họ nhận nuôi một con nhím từ trung tâm cứu hộ.)"
+  },
+  {
+    "word": "Lizard",
+    "phonetic": "/ˈlɪzəd/",
+    "meaning": "Thằn lằn",
+    "example": "He keeps a lizard in a glass tank. (Anh ấy nuôi một con thằn lằn trong bể kính.)"
+  },
+  {
+    "word": "Snake",
+    "phonetic": "/sneɪk/",
+    "meaning": "Con rắn",
+    "example": "Some people keep a snake as a pet. (Một số người nuôi rắn làm thú cưng.)"
+  },
+  {
+    "word": "Puppy",
+    "phonetic": "/ˈpʌpi/",
+    "meaning": "Chó con",
+    "example": "We just got a new puppy last week. (Chúng tôi vừa có một con chó con tuần trước.)"
+  },
+  {
+    "word": "Kitten",
+    "phonetic": "/ˈkɪtn/",
+    "meaning": "Mèo con",
+    "example": "The kitten is small and playful. (Con mèo con nhỏ và nghịch ngợm.)"
+  },
+  {
+    "word": "Canary",
+    "phonetic": "/kəˈneəri/",
+    "meaning": "Chim hoàng yến",
+    "example": "The canary sings beautifully. (Con chim hoàng yến hót rất hay.)"
+  },
+  {
+    "word": "Cockatiel",
+    "phonetic": "/ˌkɒkəˈtiːl/",
+    "meaning": "Vẹt mào",
+    "example": "My cockatiel loves to whistle. (Con vẹt mào của tôi rất thích huýt sáo.)"
+  },
+  {
+    "word": "Chinchilla",
+    "phonetic": "/ˌtʃɪnˈtʃɪlə/",
+    "meaning": "Sóc chuột",
+    "example": "A chinchilla needs a cool, dry place to live. (Sóc chuột cần một nơi sống mát mẻ, khô ráo.)"
+  },
+  {
+    "word": "Duck",
+    "phonetic": "/dʌk/",
+    "meaning": "Con vịt",
+    "example": "We have a duck pond in our backyard. (Chúng tôi có ao vịt ở sân sau.)"
+  },
+  {
+    "word": "Chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "meaning": "Gà",
+    "example": "She raises chickens for fresh eggs. (Cô ấy nuôi gà để lấy trứng tươi.)"
+  },
+  {
+    "word": "Rooster",
+    "phonetic": "/ˈruːstə(r)/",
+    "meaning": "Gà trống",
+    "example": "The rooster crows every morning. (Con gà trống gáy mỗi sáng.)"
+  },
+  {
+    "word": "Goat",
+    "phonetic": "/ɡəʊt/",
+    "meaning": "Con dê",
+    "example": "They have a pet goat on their farm. (Họ có một con dê làm thú cưng trong trang trại.)"
+  },
+  {
+    "word": "Pig",
+    "phonetic": "/pɪɡ/",
+    "meaning": "Con heo",
+    "example": "A pig can be very intelligent. (Một con heo có thể rất thông minh.)"
+  },
+  {
+    "word": "Horse",
+    "phonetic": "/hɔːs/",
+    "meaning": "Con ngựa",
+    "example": "She rides her horse every weekend. (Cô ấy cưỡi ngựa mỗi cuối tuần.)"
+  },
+  {
+    "word": "Cow",
+    "phonetic": "/kaʊ/",
+    "meaning": "Con bò",
+    "example": "Their pet cow is surprisingly friendly. (Con bò họ nuôi thân thiện một cách bất ngờ.)"
+  },
+  {
+    "word": "Sheep",
+    "phonetic": "/ʃiːp/",
+    "meaning": "Con cừu",
+    "example": "The sheep follow the shepherd. (Những con cừu đi theo người chăn.)"
+  },
+  {
+    "word": "Donkey",
+    "phonetic": "/ˈdɒŋki/",
+    "meaning": "Con lừa",
+    "example": "They keep a donkey for light work. (Họ nuôi một con lừa để làm việc nhẹ.)"
+  },
+  {
+    "word": "Alpaca",
+    "phonetic": "/ælˈpækə/",
+    "meaning": "Lạc đà không bướu nhỏ",
+    "example": "An alpaca has soft wool and a calm nature. (Lạc đà không bướu nhỏ có lông mềm và tính tình hiền hòa.)"
+  },
+  {
+    "word": "Goose",
+    "phonetic": "/ɡuːs/",
+    "meaning": "Con ngỗng",
+    "example": "A goose can be a noisy pet. (Một con ngỗng có thể là thú cưng ồn ào.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Bread",
+    "phonetic": "/bred/",
+    "meaning": "Bánh mì",
+    "example": "I had bread and butter for breakfast. (Tôi ăn bánh mì và bơ cho bữa sáng.)"
+  },
+  {
+    "word": "Rice",
+    "phonetic": "/raɪs/",
+    "meaning": "Cơm, gạo",
+    "example": "We eat rice every day. (Chúng tôi ăn cơm mỗi ngày.)"
+  },
+  {
+    "word": "Noodles",
+    "phonetic": "/ˈnuːdlz/",
+    "meaning": "Mì",
+    "example": "She loves eating noodles for lunch. (Cô ấy thích ăn mì vào bữa trưa.)"
+  },
+  {
+    "word": "Meat",
+    "phonetic": "/miːt/",
+    "meaning": "Thịt",
+    "example": "I don’t eat meat, I’m vegetarian. (Tôi không ăn thịt, tôi là người ăn chay.)"
+  },
+  {
+    "word": "Fish",
+    "phonetic": "/fɪʃ/",
+    "meaning": "Cá",
+    "example": "He cooked some fish for dinner. (Anh ấy nấu cá cho bữa tối.)"
+  },
+  {
+    "word": "Chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "meaning": "Gà",
+    "example": "We had fried chicken last night. (Tối qua chúng tôi ăn gà rán.)"
+  },
+  {
+    "word": "Pork",
+    "phonetic": "/pɔːk/",
+    "meaning": "Thịt lợn",
+    "example": "I bought some pork at the market. (Tôi đã mua một ít thịt lợn ở chợ.)"
+  },
+  {
+    "word": "Beef",
+    "phonetic": "/biːf/",
+    "meaning": "Thịt bò",
+    "example": "My mom made beef stew today. (Mẹ tôi nấu món bò hầm hôm nay.)"
+  },
+  {
+    "word": "Egg",
+    "phonetic": "/eɡ/",
+    "meaning": "Trứng",
+    "example": "I had a boiled egg for breakfast. (Tôi ăn trứng luộc cho bữa sáng.)"
+  },
+  {
+    "word": "Milk",
+    "phonetic": "/mɪlk/",
+    "meaning": "Sữa",
+    "example": "Do you want some milk in your coffee? (Bạn có muốn một chút sữa trong cà phê không?)"
+  },
+  {
+    "word": "Cheese",
+    "phonetic": "/tʃiːz/",
+    "meaning": "Phô mai",
+    "example": "This sandwich has cheese and tomato. (Bánh mì kẹp này có phô mai và cà chua.)"
+  },
+  {
+    "word": "Butter",
+    "phonetic": "/ˈbʌtə(r)/",
+    "meaning": "Bơ",
+    "example": "He spread butter on his toast. (Anh ấy phết bơ lên bánh mì nướng.)"
+  },
+  {
+    "word": "Salad",
+    "phonetic": "/ˈsæləd/",
+    "meaning": "Món salad",
+    "example": "I made a fresh salad with tomatoes and lettuce. (Tôi làm món salad tươi với cà chua và xà lách.)"
+  },
+  {
+    "word": "Soup",
+    "phonetic": "/suːp/",
+    "meaning": "Súp",
+    "example": "She had a bowl of chicken soup. (Cô ấy ăn một bát súp gà.)"
+  },
+  {
+    "word": "Pizza",
+    "phonetic": "/ˈpiːtsə/",
+    "meaning": "Bánh pizza",
+    "example": "We ordered a large pizza for dinner. (Chúng tôi gọi một chiếc pizza lớn cho bữa tối.)"
+  },
+  {
+    "word": "Hamburger",
+    "phonetic": "/ˈhæmbɜːɡə(r)/",
+    "meaning": "Bánh hamburger",
+    "example": "He ate two hamburgers in one meal. (Anh ấy ăn hai chiếc hamburger trong một bữa.)"
+  },
+  {
+    "word": "Sausage",
+    "phonetic": "/ˈsɒsɪdʒ/",
+    "meaning": "Xúc xích",
+    "example": "I like sausages with scrambled eggs. (Tôi thích xúc xích với trứng bác.)"
+  },
+  {
+    "word": "Apple",
+    "phonetic": "/ˈæpl/",
+    "meaning": "Táo",
+    "example": "She eats an apple every morning. (Cô ấy ăn một quả táo mỗi sáng.)"
+  },
+  {
+    "word": "Banana",
+    "phonetic": "/bəˈnɑːnə/",
+    "meaning": "Chuối",
+    "example": "He packed a banana for his snack. (Anh ấy mang theo một quả chuối cho bữa ăn nhẹ.)"
+  },
+  {
+    "word": "Orange",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "meaning": "Cam",
+    "example": "I drank a glass of orange juice. (Tôi uống một ly nước cam.)"
+  },
+  {
+    "word": "Watermelon",
+    "phonetic": "/ˈwɔːtəmɛlən/",
+    "meaning": "Dưa hấu",
+    "example": "We had cold watermelon on a hot day. (Chúng tôi ăn dưa hấu lạnh vào ngày nóng.)"
+  },
+  {
+    "word": "Grapes",
+    "phonetic": "/ɡreɪps/",
+    "meaning": "Nho",
+    "example": "She bought a bunch of grapes. (Cô ấy mua một chùm nho.)"
+  },
+  {
+    "word": "Carrot",
+    "phonetic": "/ˈkærət/",
+    "meaning": "Cà rốt",
+    "example": "Rabbits love carrots. (Thỏ rất thích cà rốt.)"
+  },
+  {
+    "word": "Potato",
+    "phonetic": "/pəˈteɪtəʊ/",
+    "meaning": "Khoai tây",
+    "example": "We had roasted potatoes with chicken. (Chúng tôi ăn khoai tây nướng với gà.)"
+  },
+  {
+    "word": "Onion",
+    "phonetic": "/ˈʌnjən/",
+    "meaning": "Hành tây",
+    "example": "I sliced some onions for the soup. (Tôi cắt hành tây cho món súp.)"
+  },
+  {
+    "word": "Tomato",
+    "phonetic": "/təˈmɑːtəʊ/",
+    "meaning": "Cà chua",
+    "example": "Add some tomatoes to the salad. (Thêm cà chua vào salad.)"
+  },
+  {
+    "word": "Ice cream",
+    "phonetic": "/ˈaɪs kriːm/",
+    "meaning": "Kem",
+    "example": "The kids love chocolate ice cream. (Bọn trẻ rất thích kem sô cô la.)"
+  },
+  {
+    "word": "Chocolate",
+    "phonetic": "/ˈtʃɒklət/",
+    "meaning": "Sô cô la",
+    "example": "I gave her a box of chocolates. (Tôi tặng cô ấy một hộp sô cô la.)"
+  },
+  {
+    "word": "Cake",
+    "phonetic": "/keɪk/",
+    "meaning": "Bánh ngọt",
+    "example": "He baked a birthday cake. (Anh ấy nướng một chiếc bánh sinh nhật.)"
+  },
+  {
+    "word": "Candy",
+    "phonetic": "/ˈkændi/",
+    "meaning": "Kẹo",
+    "example": "Too much candy is bad for your teeth. (Ăn quá nhiều kẹo không tốt cho răng của bạn.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Water",
+    "phonetic": "/ˈwɔːtə(r)/",
+    "meaning": "Nước",
+    "example": "I drink water every morning. (Tôi uống nước mỗi sáng.)"
+  },
+  {
+    "word": "Mineral water",
+    "phonetic": "/ˈmɪnərəl ˈwɔːtə(r)/",
+    "meaning": "Nước khoáng",
+    "example": "She prefers mineral water to tap water. (Cô ấy thích nước khoáng hơn nước máy.)"
+  },
+  {
+    "word": "Juice",
+    "phonetic": "/dʒuːs/",
+    "meaning": "Nước ép",
+    "example": "I had orange juice for breakfast. (Tôi đã uống nước cam vào bữa sáng.)"
+  },
+  {
+    "word": "Orange juice",
+    "phonetic": "/ˈɒrɪndʒ dʒuːs/",
+    "meaning": "Nước cam",
+    "example": "He poured me a glass of orange juice. (Anh ấy rót cho tôi một ly nước cam.)"
+  },
+  {
+    "word": "Apple juice",
+    "phonetic": "/ˈæpl dʒuːs/",
+    "meaning": "Nước táo",
+    "example": "The kids love apple juice. (Lũ trẻ thích nước táo.)"
+  },
+  {
+    "word": "Milk",
+    "phonetic": "/mɪlk/",
+    "meaning": "Sữa",
+    "example": "Babies need to drink milk every day. (Trẻ em cần uống sữa hàng ngày.)"
+  },
+  {
+    "word": "Soy milk",
+    "phonetic": "/ˈsɔɪ mɪlk/",
+    "meaning": "Sữa đậu nành",
+    "example": "I switched to soy milk for health reasons. (Tôi đã chuyển sang uống sữa đậu nành vì lý do sức khỏe.)"
+  },
+  {
+    "word": "Coffee",
+    "phonetic": "/ˈkɒfi/",
+    "meaning": "Cà phê",
+    "example": "She can’t start her day without coffee. (Cô ấy không thể bắt đầu ngày mới nếu không có cà phê.)"
+  },
+  {
+    "word": "Iced coffee",
+    "phonetic": "/aɪst ˈkɒfi/",
+    "meaning": "Cà phê đá",
+    "example": "I ordered an iced coffee to cool down. (Tôi gọi một ly cà phê đá để giải nhiệt.)"
+  },
+  {
+    "word": "Tea",
+    "phonetic": "/tiː/",
+    "meaning": "Trà",
+    "example": "Would you like some tea? (Bạn có muốn uống trà không?)"
+  },
+  {
+    "word": "Green tea",
+    "phonetic": "/ɡriːn tiː/",
+    "meaning": "Trà xanh",
+    "example": "Green tea is known for its health benefits. (Trà xanh nổi tiếng với lợi ích sức khỏe.)"
+  },
+  {
+    "word": "Black tea",
+    "phonetic": "/blæk tiː/",
+    "meaning": "Trà đen",
+    "example": "I usually drink black tea in the afternoon. (Tôi thường uống trà đen vào buổi chiều.)"
+  },
+  {
+    "word": "Herbal tea",
+    "phonetic": "/ˈhɜːbl tiː/",
+    "meaning": "Trà thảo mộc",
+    "example": "She drinks herbal tea to relax. (Cô ấy uống trà thảo mộc để thư giãn.)"
+  },
+  {
+    "word": "Bubble tea",
+    "phonetic": "/ˈbʌbl tiː/",
+    "meaning": "Trà sữa trân châu",
+    "example": "My sister loves bubble tea. (Em gái tôi thích trà sữa trân châu.)"
+  },
+  {
+    "word": "Smoothie",
+    "phonetic": "/ˈsmuːði/",
+    "meaning": "Sinh tố",
+    "example": "I made a banana smoothie this morning. (Tôi đã làm sinh tố chuối sáng nay.)"
+  },
+  {
+    "word": "Milkshake",
+    "phonetic": "/ˈmɪlkʃeɪk/",
+    "meaning": "Sữa lắc",
+    "example": "He ordered a chocolate milkshake. (Anh ấy gọi một ly sữa lắc socola.)"
+  },
+  {
+    "word": "Soft drink",
+    "phonetic": "/sɒft drɪŋk/",
+    "meaning": "Nước ngọt",
+    "example": "I don’t usually drink soft drinks. (Tôi thường không uống nước ngọt.)"
+  },
+  {
+    "word": "Soda",
+    "phonetic": "/ˈsəʊdə/",
+    "meaning": "Nước có gas",
+    "example": "Soda is too sweet for me. (Nước có gas quá ngọt với tôi.)"
+  },
+  {
+    "word": "Cola",
+    "phonetic": "/ˈkəʊlə/",
+    "meaning": "Nước ngọt có gas vị cola",
+    "example": "He grabbed a can of cola from the fridge. (Anh ấy lấy một lon cola từ tủ lạnh.)"
+  },
+  {
+    "word": "Lemonade",
+    "phonetic": "/ˌleməˈneɪd/",
+    "meaning": "Nước chanh",
+    "example": "We made lemonade on a hot day. (Chúng tôi pha nước chanh vào một ngày nắng nóng.)"
+  },
+  {
+    "word": "Coconut water",
+    "phonetic": "/ˈkəʊkənʌt ˈwɔːtə(r)/",
+    "meaning": "Nước dừa",
+    "example": "I like to drink coconut water after a workout. (Tôi thích uống nước dừa sau khi tập thể dục.)"
+  },
+  {
+    "word": "Energy drink",
+    "phonetic": "/ˈenədʒi drɪŋk/",
+    "meaning": "Nước tăng lực",
+    "example": "He drank an energy drink before the exam. (Anh ấy uống nước tăng lực trước kỳ thi.)"
+  },
+  {
+    "word": "Alcohol",
+    "phonetic": "/ˈælkəhɒl/",
+    "meaning": "Đồ uống có cồn",
+    "example": "Excessive alcohol consumption is harmful. (Uống quá nhiều đồ uống có cồn là có hại.)"
+  },
+  {
+    "word": "Beer",
+    "phonetic": "/bɪə(r)/",
+    "meaning": "Bia",
+    "example": "He ordered a cold beer. (Anh ấy gọi một ly bia lạnh.)"
+  },
+  {
+    "word": "Wine",
+    "phonetic": "/waɪn/",
+    "meaning": "Rượu vang",
+    "example": "She enjoys a glass of wine with dinner. (Cô ấy thích một ly rượu vang với bữa tối.)"
+  },
+  {
+    "word": "Red wine",
+    "phonetic": "/red waɪn/",
+    "meaning": "Rượu vang đỏ",
+    "example": "They served red wine at the party. (Họ phục vụ rượu vang đỏ ở bữa tiệc.)"
+  },
+  {
+    "word": "White wine",
+    "phonetic": "/waɪt waɪn/",
+    "meaning": "Rượu vang trắng",
+    "example": "I prefer white wine with seafood. (Tôi thích rượu vang trắng với hải sản.)"
+  },
+  {
+    "word": "Cocktail",
+    "phonetic": "/ˈkɒkteɪl/",
+    "meaning": "Cocktail",
+    "example": "She ordered a fruity cocktail. (Cô ấy gọi một ly cocktail vị trái cây.)"
+  },
+  {
+    "word": "Champagne",
+    "phonetic": "/ʃæmˈpeɪn/",
+    "meaning": "Sâm panh",
+    "example": "They celebrated with champagne. (Họ ăn mừng bằng sâm panh.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Red",
+    "phonetic": "/red/",
+    "meaning": "Màu đỏ",
+    "example": "The apple is red. (Quả táo màu đỏ.)"
+  },
+  {
+    "word": "Blue",
+    "phonetic": "/bluː/",
+    "meaning": "Màu xanh da trời",
+    "example": "The sky is blue today. (Bầu trời hôm nay màu xanh da trời.)"
+  },
+  {
+    "word": "Green",
+    "phonetic": "/ɡriːn/",
+    "meaning": "Màu xanh lá cây",
+    "example": "The grass is very green. (Cỏ rất xanh.)"
+  },
+  {
+    "word": "Yellow",
+    "phonetic": "/ˈjel.oʊ/",
+    "meaning": "Màu vàng",
+    "example": "She wore a yellow dress. (Cô ấy mặc chiếc váy màu vàng.)"
+  },
+  {
+    "word": "Black",
+    "phonetic": "/blæk/",
+    "meaning": "Màu đen",
+    "example": "He has a black car. (Anh ấy có một chiếc xe màu đen.)"
+  },
+  {
+    "word": "White",
+    "phonetic": "/waɪt/",
+    "meaning": "Màu trắng",
+    "example": "The snow is white. (Tuyết màu trắng.)"
+  },
+  {
+    "word": "Pink",
+    "phonetic": "/pɪŋk/",
+    "meaning": "Màu hồng",
+    "example": "She loves pink flowers. (Cô ấy thích hoa màu hồng.)"
+  },
+  {
+    "word": "Orange",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "meaning": "Màu cam",
+    "example": "The fruit is orange. (Quả có màu cam.)"
+  },
+  {
+    "word": "Purple",
+    "phonetic": "/ˈpɜːrpəl/",
+    "meaning": "Màu tím",
+    "example": "He bought a purple shirt. (Anh ấy mua một chiếc áo sơ mi màu tím.)"
+  },
+  {
+    "word": "Brown",
+    "phonetic": "/braʊn/",
+    "meaning": "Màu nâu",
+    "example": "The dog has brown fur. (Con chó có bộ lông màu nâu.)"
+  },
+  {
+    "word": "Gray / Grey",
+    "phonetic": "/ɡreɪ/",
+    "meaning": "Màu xám",
+    "example": "The cat is gray. (Con mèo màu xám.)"
+  },
+  {
+    "word": "Light",
+    "phonetic": "/laɪt/",
+    "meaning": "Nhạt, sáng (màu)",
+    "example": "She chose a light blue color. (Cô ấy chọn màu xanh nhạt.)"
+  },
+  {
+    "word": "Dark",
+    "phonetic": "/dɑːrk/",
+    "meaning": "Đậm (màu)",
+    "example": "He painted the wall dark green. (Anh ấy sơn tường màu xanh đậm.)"
+  },
+  {
+    "word": "Gold",
+    "phonetic": "/ɡoʊld/",
+    "meaning": "Màu vàng ánh kim",
+    "example": "She wore a gold necklace. (Cô ấy đeo một chiếc vòng cổ màu vàng ánh kim.)"
+  },
+  {
+    "word": "Silver",
+    "phonetic": "/ˈsɪlvər/",
+    "meaning": "Màu bạc",
+    "example": "The watch is made of silver. (Chiếc đồng hồ làm bằng bạc.)"
+  },
+  {
+    "word": "Beige",
+    "phonetic": "/beɪʒ/",
+    "meaning": "Màu be",
+    "example": "The sofa is beige. (Ghế sofa màu be.)"
+  },
+  {
+    "word": "Navy",
+    "phonetic": "/ˈneɪvi/",
+    "meaning": "Màu xanh hải quân",
+    "example": "He wore a navy suit. (Anh ấy mặc bộ vest màu xanh hải quân.)"
+  },
+  {
+    "word": "Turquoise",
+    "phonetic": "/ˈtɜːrkwɔɪz/",
+    "meaning": "Màu ngọc lam",
+    "example": "She bought a turquoise necklace. (Cô ấy mua một chiếc vòng cổ màu ngọc lam.)"
+  },
+  {
+    "word": "Burgundy",
+    "phonetic": "/ˈbɜːrɡəndi/",
+    "meaning": "Màu đỏ burgundy",
+    "example": "He prefers burgundy wine. (Anh ấy thích rượu vang màu đỏ burgundy.)"
+  },
+  {
+    "word": "Lavender",
+    "phonetic": "/ˈlævəndər/",
+    "meaning": "Màu oải hương",
+    "example": "The walls are painted lavender. (Tường được sơn màu oải hương.)"
+  },
+  {
+    "word": "Coral",
+    "phonetic": "/ˈkɒrəl/",
+    "meaning": "Màu san hô",
+    "example": "She wore a coral dress to the party. (Cô ấy mặc chiếc váy màu san hô đến bữa tiệc.)"
+  },
+  {
+    "word": "Magenta",
+    "phonetic": "/məˈdʒentə/",
+    "meaning": "Màu hồng tím",
+    "example": "The flowers were bright magenta. (Những bông hoa màu hồng tím rực rỡ.)"
+  },
+  {
+    "word": "Peach",
+    "phonetic": "/piːtʃ/",
+    "meaning": "Màu đào",
+    "example": "She chose a peach color for the curtains. (Cô ấy chọn màu đào cho rèm cửa.)"
+  },
+  {
+    "word": "Mint",
+    "phonetic": "/mɪnt/",
+    "meaning": "Màu xanh bạc hà",
+    "example": "I like mint green in the kitchen. (Tôi thích màu xanh bạc hà trong nhà bếp.)"
+  },
+  {
+    "word": "Chocolate",
+    "phonetic": "/ˈtʃɒklət/",
+    "meaning": "Màu socola",
+    "example": "The cake has a chocolate frosting. (Bánh có lớp kem phủ màu socola.)"
+  },
+  {
+    "word": "Olive",
+    "phonetic": "/ˈɒlɪv/",
+    "meaning": "Màu ô liu",
+    "example": "He wore an olive jacket. (Anh ấy mặc một chiếc áo khoác màu ô liu.)"
+  },
+  {
+    "word": "Crimson",
+    "phonetic": "/ˈkrɪmzən/",
+    "meaning": "Màu đỏ thẫm",
+    "example": "The sunset was a deep crimson. (Hoàng hôn có màu đỏ thẫm.)"
+  },
+  {
+    "word": "Ivory",
+    "phonetic": "/ˈaɪvəri/",
+    "meaning": "Màu ngà voi",
+    "example": "The dress is ivory colored. (Chiếc váy màu ngà voi.)"
+  },
+  {
+    "word": "Slate",
+    "phonetic": "/sleɪt/",
+    "meaning": "Màu xám xanh",
+    "example": "The roof is made of slate tiles. (Mái nhà làm bằng ngói màu xám xanh.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Doctor",
+    "phonetic": "/ˈdɒktə(r)/",
+    "meaning": "Bác sĩ",
+    "example": "Her father is a doctor at the local hospital. (Bố cô ấy là bác sĩ ở bệnh viện địa phương.)"
+  },
+  {
+    "word": "Nurse",
+    "phonetic": "/nɜːs/",
+    "meaning": "Y tá",
+    "example": "The nurse helped me after the surgery. (Y tá đã giúp tôi sau ca phẫu thuật.)"
+  },
+  {
+    "word": "Engineer",
+    "phonetic": "/ˌendʒɪˈnɪə(r)/",
+    "meaning": "Kỹ sư",
+    "example": "He works as a civil engineer. (Anh ấy làm việc như một kỹ sư xây dựng.)"
+  },
+  {
+    "word": "Teacher",
+    "phonetic": "/ˈtiːtʃə(r)/",
+    "meaning": "Giáo viên",
+    "example": "My mom is a teacher at a high school. (Mẹ tôi là giáo viên ở trường trung học.)"
+  },
+  {
+    "word": "Lawyer",
+    "phonetic": "/ˈlɔːjə(r)/",
+    "meaning": "Luật sư",
+    "example": "She wants to become a lawyer in the future. (Cô ấy muốn trở thành luật sư trong tương lai.)"
+  },
+  {
+    "word": "Accountant",
+    "phonetic": "/əˈkaʊntənt/",
+    "meaning": "Kế toán",
+    "example": "Our company hired a new accountant. (Công ty chúng tôi vừa thuê một kế toán mới.)"
+  },
+  {
+    "word": "Architect",
+    "phonetic": "/ˈɑːkɪtekt/",
+    "meaning": "Kiến trúc sư",
+    "example": "He is a famous architect in Vietnam. (Anh ấy là một kiến trúc sư nổi tiếng ở Việt Nam.)"
+  },
+  {
+    "word": "Chef",
+    "phonetic": "/ʃef/",
+    "meaning": "Đầu bếp",
+    "example": "She is a talented chef at a five-star restaurant. (Cô ấy là đầu bếp tài năng ở nhà hàng năm sao.)"
+  },
+  {
+    "word": "Waiter",
+    "phonetic": "/ˈweɪtə(r)/",
+    "meaning": "Bồi bàn nam",
+    "example": "The waiter brought our food quickly. (Người bồi bàn mang thức ăn đến rất nhanh.)"
+  },
+  {
+    "word": "Waitress",
+    "phonetic": "/ˈweɪtrəs/",
+    "meaning": "Bồi bàn nữ",
+    "example": "The waitress was very friendly. (Cô bồi bàn rất thân thiện.)"
+  },
+  {
+    "word": "Police officer",
+    "phonetic": "/pəˈliːs ˈɒfɪsə(r)/",
+    "meaning": "Cảnh sát",
+    "example": "A police officer helped direct the traffic. (Một cảnh sát đã giúp điều tiết giao thông.)"
+  },
+  {
+    "word": "Firefighter",
+    "phonetic": "/ˈfaɪəfaɪtə(r)/",
+    "meaning": "Lính cứu hỏa",
+    "example": "The firefighter rescued the child from the fire. (Lính cứu hỏa đã cứu đứa trẻ khỏi đám cháy.)"
+  },
+  {
+    "word": "Pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "meaning": "Phi công",
+    "example": "He dreams of becoming a pilot. (Anh ấy mơ ước trở thành phi công.)"
+  },
+  {
+    "word": "Flight attendant",
+    "phonetic": "/ˈflaɪt əˌtendənt/",
+    "meaning": "Tiếp viên hàng không",
+    "example": "The flight attendant was very helpful. (Tiếp viên hàng không rất nhiệt tình.)"
+  },
+  {
+    "word": "Soldier",
+    "phonetic": "/ˈsəʊldʒə(r)/",
+    "meaning": "Lính",
+    "example": "Her brother is a soldier in the army. (Anh trai cô ấy là lính trong quân đội.)"
+  },
+  {
+    "word": "Farmer",
+    "phonetic": "/ˈfɑːmə(r)/",
+    "meaning": "Nông dân",
+    "example": "My grandfather is a rice farmer. (Ông tôi là nông dân trồng lúa.)"
+  },
+  {
+    "word": "Mechanic",
+    "phonetic": "/məˈkænɪk/",
+    "meaning": "Thợ máy",
+    "example": "The mechanic fixed my car yesterday. (Thợ máy đã sửa xe cho tôi hôm qua.)"
+  },
+  {
+    "word": "Driver",
+    "phonetic": "/ˈdraɪvə(r)/",
+    "meaning": "Tài xế",
+    "example": "He is a taxi driver in the city. (Anh ấy là tài xế taxi ở thành phố.)"
+  },
+  {
+    "word": "Journalist",
+    "phonetic": "/ˈdʒɜːnəlɪst/",
+    "meaning": "Nhà báo",
+    "example": "She works as a journalist for a newspaper. (Cô ấy làm nhà báo cho một tờ báo.)"
+  },
+  {
+    "word": "Photographer",
+    "phonetic": "/fəˈtɒɡrəfə(r)/",
+    "meaning": "Nhiếp ảnh gia",
+    "example": "He is a wedding photographer. (Anh ấy là nhiếp ảnh gia chụp ảnh cưới.)"
+  },
+  {
+    "word": "Artist",
+    "phonetic": "/ˈɑːtɪst/",
+    "meaning": "Họa sĩ/nghệ sĩ",
+    "example": "The artist painted a beautiful portrait. (Họa sĩ đã vẽ một bức chân dung tuyệt đẹp.)"
+  },
+  {
+    "word": "Musician",
+    "phonetic": "/mjuˈzɪʃn/",
+    "meaning": "Nhạc sĩ",
+    "example": "She is a talented musician who plays the piano. (Cô ấy là nhạc sĩ tài năng chơi piano.)"
+  },
+  {
+    "word": "Actor",
+    "phonetic": "/ˈæktə(r)/",
+    "meaning": "Nam diễn viên",
+    "example": "He is a famous actor in Hollywood. (Anh ấy là diễn viên nổi tiếng ở Hollywood.)"
+  },
+  {
+    "word": "Actress",
+    "phonetic": "/ˈæktrəs/",
+    "meaning": "Nữ diễn viên",
+    "example": "The actress won an award for her role. (Nữ diễn viên đã giành giải thưởng cho vai diễn của cô ấy.)"
+  },
+  {
+    "word": "Scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "meaning": "Nhà khoa học",
+    "example": "The scientist discovered a new element. (Nhà khoa học đã phát hiện ra nguyên tố mới.)"
+  },
+  {
+    "word": "Researcher",
+    "phonetic": "/rɪˈsɜːtʃə(r)/",
+    "meaning": "Nhà nghiên cứu",
+    "example": "She is a researcher in the field of biology. (Cô ấy là nhà nghiên cứu trong lĩnh vực sinh học.)"
+  },
+  {
+    "word": "Businessman",
+    "phonetic": "/ˈbɪznəsmən/",
+    "meaning": "Doanh nhân nam",
+    "example": "The businessman started a new company. (Doanh nhân đó đã thành lập một công ty mới.)"
+  },
+  {
+    "word": "Businesswoman",
+    "phonetic": "/ˈbɪznəswʊmən/",
+    "meaning": "Doanh nhân nữ",
+    "example": "She is a successful businesswoman. (Cô ấy là một doanh nhân thành công.)"
+  },
+  {
+    "word": "Manager",
+    "phonetic": "/ˈmænɪdʒə(r)/",
+    "meaning": "Quản lý",
+    "example": "The manager is responsible for the whole team. (Người quản lý chịu trách nhiệm cho cả nhóm.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (Dịch nghĩa)"
+  },
+  {
+    "word": "Agenda",
+    "phonetic": "/əˈdʒen.də/",
+    "meaning": "Chương trình nghị sự",
+    "example": "The meeting agenda includes budget planning. (Chương trình nghị sự của cuộc họp bao gồm lập kế hoạch ngân sách.)"
+  },
+  {
+    "word": "Asset",
+    "phonetic": "/ˈæs.et/",
+    "meaning": "Tài sản",
+    "example": "Our company’s main asset is its skilled workforce. (Tài sản chính của công ty chúng tôi là lực lượng lao động lành nghề.)"
+  },
+  {
+    "word": "Branding",
+    "phonetic": "/ˈbræn.dɪŋ/",
+    "meaning": "Xây dựng thương hiệu",
+    "example": "Effective branding helps attract more customers. (Xây dựng thương hiệu hiệu quả giúp thu hút nhiều khách hàng hơn.)"
+  },
+  {
+    "word": "Budget",
+    "phonetic": "/ˈbʌdʒ.ɪt/",
+    "meaning": "Ngân sách",
+    "example": "We need to review the budget for next quarter. (Chúng ta cần xem xét ngân sách cho quý tới.)"
+  },
+  {
+    "word": "Client",
+    "phonetic": "/ˈklaɪ.ənt/",
+    "meaning": "Khách hàng",
+    "example": "Our client requested a detailed project proposal. (Khách hàng của chúng tôi yêu cầu một đề xuất dự án chi tiết.)"
+  },
+  {
+    "word": "Collaboration",
+    "phonetic": "/kəˌlæb.əˈreɪ.ʃn/",
+    "meaning": "Sự hợp tác",
+    "example": "Collaboration between teams improves productivity. (Sự hợp tác giữa các đội giúp tăng năng suất.)"
+  },
+  {
+    "word": "Competitor",
+    "phonetic": "/kəmˈpet.ɪ.t̬ɚ/",
+    "meaning": "Đối thủ cạnh tranh",
+    "example": "We analyzed our competitor’s marketing strategy. (Chúng tôi đã phân tích chiến lược tiếp thị của đối thủ cạnh tranh.)"
+  },
+  {
+    "word": "Contract",
+    "phonetic": "/ˈkɑːn.trækt/",
+    "meaning": "Hợp đồng",
+    "example": "Please review the contract before signing. (Vui lòng xem xét hợp đồng trước khi ký.)"
+  },
+  {
+    "word": "Deadline",
+    "phonetic": "/ˈded.laɪn/",
+    "meaning": "Hạn chót",
+    "example": "We must meet the deadline for the project launch. (Chúng ta phải đáp ứng hạn chót cho việc ra mắt dự án.)"
+  },
+  {
+    "word": "Delegate",
+    "phonetic": "/ˈdel.ɪ.ɡeɪt/",
+    "meaning": "Phân công",
+    "example": "I’ll delegate the task to the marketing team. (Tôi sẽ phân công nhiệm vụ cho đội tiếp thị.)"
+  },
+  {
+    "word": "Entrepreneur",
+    "phonetic": "/ˌɑːn.trə.prəˈnɝː/",
+    "meaning": "Doanh nhân",
+    "example": "She is a successful entrepreneur in tech. (Cô ấy là một doanh nhân thành công trong lĩnh vực công nghệ.)"
+  },
+  {
+    "word": "Feedback",
+    "phonetic": "/ˈfiːd.bæk/",
+    "meaning": "Phản hồi",
+    "example": "Your feedback on the proposal is appreciated. (Phản hồi của bạn về đề xuất được đánh giá cao.)"
+  },
+  {
+    "word": "Forecast",
+    "phonetic": "/ˈfɔːr.kæst/",
+    "meaning": "Dự báo",
+    "example": "The sales forecast predicts growth this year. (Dự báo doanh số cho thấy sự tăng trưởng trong năm nay.)"
+  },
+  {
+    "word": "Incentive",
+    "phonetic": "/ɪnˈsen.tɪv/",
+    "meaning": "Động lực, khuyến khích",
+    "example": "Bonuses are an incentive for better performance. (Thưởng là động lực để làm việc tốt hơn.)"
+  },
+  {
+    "word": "Inventory",
+    "phonetic": "/ˈɪn.vən.tɔːr.i/",
+    "meaning": "Hàng tồn kho",
+    "example": "We need to check the inventory before ordering. (Chúng ta cần kiểm tra hàng tồn kho trước khi đặt hàng.)"
+  },
+  {
+    "word": "Invoice",
+    "phonetic": "/ˈɪn.vɔɪs/",
+    "meaning": "Hóa đơn",
+    "example": "Please send the invoice to the accounting team. (Vui lòng gửi hóa đơn cho đội kế toán.)"
+  },
+  {
+    "word": "Leadership",
+    "phonetic": "/ˈliː.dɚ.ʃɪp/",
+    "meaning": "Sự lãnh đạo",
+    "example": "Strong leadership drives company success. (Sự lãnh đạo mạnh mẽ thúc đẩy thành công của công ty.)"
+  },
+  {
+    "word": "Liability",
+    "phonetic": "/ˌlaɪ.əˈbɪl.ə.t̬i/",
+    "meaning": "Trách nhiệm pháp lý",
+    "example": "The company reduced its financial liability. (Công ty đã giảm trách nhiệm tài chính.)"
+  },
+  {
+    "word": "Merger",
+    "phonetic": "/ˈmɝː.dʒɚ/",
+    "meaning": "Sáp nhập",
+    "example": "The merger will create a larger corporation. (Việc sáp nhập sẽ tạo ra một tập đoàn lớn hơn.)"
+  },
+  {
+    "word": "Negotiation",
+    "phonetic": "/nɪˌɡoʊ.ʃiˈeɪ.ʃn/",
+    "meaning": "Đàm phán",
+    "example": "The negotiation led to a fair agreement. (Cuộc đàm phán đã dẫn đến một thỏa thuận công bằng.)"
+  },
+  {
+    "word": "Profit",
+    "phonetic": "/ˈprɑː.fɪt/",
+    "meaning": "Lợi nhuận",
+    "example": "Our profit increased by 10% this quarter. (Lợi nhuận của chúng tôi tăng 10% trong quý này.)"
+  },
+  {
+    "word": "Proposal",
+    "phonetic": "/prəˈpoʊ.zəl/",
+    "meaning": "Đề xuất",
+    "example": "Submit your proposal by next Monday. (Nộp đề xuất của bạn trước thứ Hai tới.)"
+  },
+  {
+    "word": "Revenue",
+    "phonetic": "/ˈrev.ə.njuː/",
+    "meaning": "Doanh thu",
+    "example": "The company’s revenue grew significantly. (Doanh thu của công ty tăng trưởng đáng kể.)"
+  },
+  {
+    "word": "Stakeholder",
+    "phonetic": "/ˈsteɪkˌhoʊl.dɚ/",
+    "meaning": "Bên liên quan",
+    "example": "We consulted all stakeholders before deciding. (Chúng tôi đã tham khảo ý kiến tất cả các bên liên quan trước khi quyết định.)"
+  },
+  {
+    "word": "Strategy",
+    "phonetic": "/ˈstræt̬.ə.dʒi/",
+    "meaning": "Chiến lược",
+    "example": "Our new strategy focuses on digital marketing. (Chiến lược mới của chúng tôi tập trung vào tiếp thị số.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Hello",
+    "phonetic": "/həˈloʊ/",
+    "meaning": "Xin chào",
+    "example": "Hello, how are you today? (Xin chào, bạn khỏe không?)"
+  },
+  {
+    "word": "Hi",
+    "phonetic": "/haɪ/",
+    "meaning": "Chào",
+    "example": "Hi, it’s nice to see you! (Chào, rất vui được gặp bạn!)"
+  },
+  {
+    "word": "Goodbye",
+    "phonetic": "/ˌɡʊdˈbaɪ/",
+    "meaning": "Tạm biệt",
+    "example": "Goodbye, see you tomorrow! (Tạm biệt, hẹn gặp lại!)"
+  },
+  {
+    "word": "Good morning",
+    "phonetic": "/ˌɡʊd ˈmɔːr.nɪŋ/",
+    "meaning": "Chào buổi sáng",
+    "example": "Good morning, have a great day! (Chào buổi sáng, chúc ngày vui!)"
+  },
+  {
+    "word": "Good evening",
+    "phonetic": "/ˌɡʊd ˈiːv.nɪŋ/",
+    "meaning": "Chào buổi tối",
+    "example": "Good evening, how’s your night? (Chào buổi tối, tối nay thế nào?)"
+  },
+  {
+    "word": "Nice to meet you",
+    "phonetic": "/naɪs tə miːt juː/",
+    "meaning": "Rất vui được gặp bạn",
+    "example": "Nice to meet you, I’m Anna. (Rất vui được gặp bạn, tôi là Anna.)"
+  },
+  {
+    "word": "My name is",
+    "phonetic": "/maɪ neɪm ɪz/",
+    "meaning": "Tên tôi là",
+    "example": "My name is John. (Tên tôi là John.)"
+  },
+  {
+    "word": "Introduce",
+    "phonetic": "/ˌɪn.trəˈduːs/",
+    "meaning": "Giới thiệu",
+    "example": "Let me introduce myself. (Để tôi giới thiệu bản thân.)"
+  },
+  {
+    "word": "Occupation",
+    "phonetic": "/ˌɑː.kjəˈpeɪ.ʃn/",
+    "meaning": "Nghề nghiệp",
+    "example": "My occupation is a teacher. (Nghề nghiệp của tôi là giáo viên.)"
+  },
+  {
+    "word": "Hobby",
+    "phonetic": "/ˈhɑː.bi/",
+    "meaning": "Sở thích",
+    "example": "My hobby is reading books. (Sở thích của tôi là đọc sách.)"
+  },
+  {
+    "word": "Come from",
+    "phonetic": "/kʌm frəm/",
+    "meaning": "Đến từ",
+    "example": "I come from Vietnam. (Tôi đến từ Việt Nam.)"
+  },
+  {
+    "word": "Live",
+    "phonetic": "/lɪv/",
+    "meaning": "Sống",
+    "example": "I live in Hanoi. (Tôi sống ở Hà Nội.)"
+  },
+  {
+    "word": "year old",
+    "phonetic": "/eɪdʒ/",
+    "meaning": "Tuổi",
+    "example": "I’m 25 years old. (Tôi 25 tuổi.)"
+  },
+  {
+    "word": "Family",
+    "phonetic": "/ˈfæm.əl.i/",
+    "meaning": "Gia đình",
+    "example": "My family has four members. (Gia đình tôi có bốn người.)"
+  },
+  {
+    "word": "Friend",
+    "phonetic": "/frend/",
+    "meaning": "Bạn bè",
+    "example": "She is my best friend. (Cô ấy là bạn thân của tôi.)"
+  },
+  {
+    "word": "Please",
+    "phonetic": "/pliːz/",
+    "meaning": "Làm ơn",
+    "example": "Please tell me about yourself. (Làm ơn kể tôi nghe về bạn.)"
+  },
+  {
+    "word": "Thank you",
+    "phonetic": "/θæŋk juː/",
+    "meaning": "Cảm ơn",
+    "example": "Thank you for your help. (Cảm ơn vì sự giúp đỡ của bạn.)"
+  },
+  {
+    "word": "How are you",
+    "phonetic": "/haʊ ɑːr juː/",
+    "meaning": "Bạn khỏe không",
+    "example": "How are you today? (Hôm nay bạn khỏe không?)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Art",
+    "phonetic": "/ɑːt/",
+    "meaning": "Nghệ thuật",
+    "example": "I love visiting art museums. (Tôi thích tham quan các bảo tàng nghệ thuật.)"
+  },
+  {
+    "word": "Artist",
+    "phonetic": "/ˈɑːtɪst/",
+    "meaning": "Nghệ sĩ",
+    "example": "She is a talented artist. (Cô ấy là một nghệ sĩ tài năng.)"
+  },
+  {
+    "word": "Painting",
+    "phonetic": "/ˈpeɪntɪŋ/",
+    "meaning": "Tranh vẽ",
+    "example": "That painting is a masterpiece. (Bức tranh đó là một kiệt tác.)"
+  },
+  {
+    "word": "Sculpture",
+    "phonetic": "/ˈskʌlptʃə(r)/",
+    "meaning": "Tác phẩm điêu khắc",
+    "example": "The museum has ancient sculptures. (Bảo tàng có những tác phẩm điêu khắc cổ.)"
+  },
+  {
+    "word": "Gallery",
+    "phonetic": "/ˈɡæləri/",
+    "meaning": "Phòng triển lãm",
+    "example": "We visited a modern art gallery. (Chúng tôi đã đến một phòng triển lãm nghệ thuật hiện đại.)"
+  },
+  {
+    "word": "Exhibit",
+    "phonetic": "/ɪɡˈzɪbɪt/",
+    "meaning": "Triển lãm",
+    "example": "There’s a new exhibit at the museum. (Có một cuộc triển lãm mới ở bảo tàng.)"
+  },
+  {
+    "word": "Canvas",
+    "phonetic": "/ˈkænvəs/",
+    "meaning": "Vải vẽ",
+    "example": "She painted it on a large canvas. (Cô ấy vẽ nó trên một tấm vải lớn.)"
+  },
+  {
+    "word": "Abstract",
+    "phonetic": "/ˈæbstrækt/",
+    "meaning": "Trừu tượng",
+    "example": "I find abstract art very interesting. (Tôi thấy nghệ thuật trừu tượng rất thú vị.)"
+  },
+  {
+    "word": "Realism",
+    "phonetic": "/ˈrɪəlɪzəm/",
+    "meaning": "Chủ nghĩa hiện thực",
+    "example": "Realism shows life as it truly is. (Chủ nghĩa hiện thực thể hiện cuộc sống như nó vốn có.)"
+  },
+  {
+    "word": "Portrait",
+    "phonetic": "/ˈpɔːtreɪt/",
+    "meaning": "Chân dung",
+    "example": "That portrait looks very lifelike. (Bức chân dung đó trông rất sống động.)"
+  },
+  {
+    "word": "Landscape",
+    "phonetic": "/ˈlændskeɪp/",
+    "meaning": "Phong cảnh",
+    "example": "He enjoys painting landscapes. (Anh ấy thích vẽ phong cảnh.)"
+  },
+  {
+    "word": "Color palette",
+    "phonetic": "/ˈkʌlə ˈpælət/",
+    "meaning": "Bảng màu",
+    "example": "The artist used a bright color palette. (Nghệ sĩ đã dùng bảng màu tươi sáng.)"
+  },
+  {
+    "word": "Brushstroke",
+    "phonetic": "/ˈbrʌʃstrəʊk/",
+    "meaning": "Nét cọ",
+    "example": "You can see each brushstroke clearly. (Bạn có thể thấy rõ từng nét cọ.)"
+  },
+  {
+    "word": "Inspiration",
+    "phonetic": "/ˌɪnspəˈreɪʃn/",
+    "meaning": "Cảm hứng",
+    "example": "Nature is her main source of inspiration. (Thiên nhiên là nguồn cảm hứng chính của cô ấy.)"
+  },
+  {
+    "word": "Creativity",
+    "phonetic": "/ˌkriːeɪˈtɪvəti/",
+    "meaning": "Sự sáng tạo",
+    "example": "Creativity is essential in all art forms. (Sự sáng tạo là điều thiết yếu trong mọi loại hình nghệ thuật.)"
+  },
+  {
+    "word": "Critic",
+    "phonetic": "/ˈkrɪtɪk/",
+    "meaning": "Nhà phê bình",
+    "example": "The critic praised the new exhibition. (Nhà phê bình khen ngợi triển lãm mới.)"
+  },
+  {
+    "word": "Aesthetic",
+    "phonetic": "/iːsˈθetɪk/",
+    "meaning": "Thẩm mỹ",
+    "example": "Her designs have great aesthetic appeal. (Thiết kế của cô ấy có sức hấp dẫn thẩm mỹ tuyệt vời.)"
+  },
+  {
+    "word": "Visual art",
+    "phonetic": "/ˈvɪʒuəl ɑːt/",
+    "meaning": "Nghệ thuật thị giác",
+    "example": "Photography is a form of visual art. (Nhiếp ảnh là một hình thức nghệ thuật thị giác.)"
+  },
+  {
+    "word": "Performance",
+    "phonetic": "/pəˈfɔːməns/",
+    "meaning": "Biểu diễn",
+    "example": "The dance performance was amazing. (Màn biểu diễn múa thật tuyệt vời.)"
+  },
+  {
+    "word": "Stage",
+    "phonetic": "/steɪdʒ/",
+    "meaning": "Sân khấu",
+    "example": "He performed confidently on the stage. (Anh ấy biểu diễn tự tin trên sân khấu.)"
+  },
+  {
+    "word": "Musician",
+    "phonetic": "/mjuˈzɪʃn/",
+    "meaning": "Nhạc sĩ",
+    "example": "She’s a talented musician and composer. (Cô ấy là một nhạc sĩ và nhà soạn nhạc tài năng.)"
+  },
+  {
+    "word": "Dancer",
+    "phonetic": "/ˈdɑːnsə(r)/",
+    "meaning": "Vũ công",
+    "example": "The dancer moved gracefully. (Vũ công nhảy một cách uyển chuyển.)"
+  },
+  {
+    "word": "Choreography",
+    "phonetic": "/ˌkɒriˈɒɡrəfi/",
+    "meaning": "Biên đạo múa",
+    "example": "The choreography was complex and beautiful. (Biên đạo múa rất phức tạp và đẹp mắt.)"
+  },
+  {
+    "word": "Theater",
+    "phonetic": "/ˈθɪətə(r)/",
+    "meaning": "Nhà hát",
+    "example": "They studied acting at the theater school. (Họ học diễn xuất tại trường nhà hát.)"
+  },
+  {
+    "word": "Film",
+    "phonetic": "/fɪlm/",
+    "meaning": "Phim ảnh",
+    "example": "That film won several international awards. (Bộ phim đó đã giành nhiều giải thưởng quốc tế.)"
+  },
+  {
+    "word": "Director",
+    "phonetic": "/dəˈrektə(r)/",
+    "meaning": "Đạo diễn",
+    "example": "The director explained the scene to the actors. (Đạo diễn giải thích cảnh quay cho các diễn viên.)"
+  },
+  {
+    "word": "Scene",
+    "phonetic": "/siːn/",
+    "meaning": "Cảnh (trong phim/kịch)",
+    "example": "That emotional scene made everyone cry. (Cảnh cảm động đó khiến mọi người bật khóc.)"
+  },
+  {
+    "word": "Soundtrack",
+    "phonetic": "/ˈsaʊndtræk/",
+    "meaning": "Nhạc phim",
+    "example": "I love the movie’s soundtrack. (Tôi rất thích nhạc phim của bộ phim đó.)"
+  },
+  {
+    "word": "Audience",
+    "phonetic": "/ˈɔːdiəns/",
+    "meaning": "Khán giả",
+    "example": "The audience gave a standing ovation. (Khán giả đã đứng lên vỗ tay tán thưởng.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (Dịch nghĩa)"
+  },
+  {
+    "word": "algorithm",
+    "phonetic": "/ˈæl.ɡə.rɪ.ðəm/",
+    "meaning": "thuật toán",
+    "example": "This website uses an algorithm to improve search results. (Trang web này sử dụng thuật toán để cải thiện kết quả tìm kiếm.)"
+  },
+  {
+    "word": "bandwidth",
+    "phonetic": "/ˈbænd.wɪdθ/",
+    "meaning": "băng thông",
+    "example": "Our bandwidth is too low for streaming videos. (Băng thông của chúng tôi quá thấp để xem video trực tuyến.)"
+  },
+  {
+    "word": "browser",
+    "phonetic": "/ˈbraʊ.zər/",
+    "meaning": "trình duyệt",
+    "example": "I use a browser to access my favorite website. (Tôi sử dụng trình duyệt để truy cập trang web yêu thích của mình.)"
+  },
+  {
+    "word": "cache",
+    "phonetic": "/kæʃ/",
+    "meaning": "bộ nhớ đệm",
+    "example": "Clear the cache to make the browser run faster. (Xóa bộ nhớ đệm để trình duyệt chạy nhanh hơn.)"
+  },
+  {
+    "word": "cloud",
+    "phonetic": "/klaʊd/",
+    "meaning": "đám mây",
+    "example": "I store my files in the cloud for easy access. (Tôi lưu trữ tệp của mình trên đám mây để dễ dàng truy cập.)"
+  },
+  {
+    "word": "cookie",
+    "phonetic": "/ˈkʊk.i/",
+    "meaning": "tập tin tạm",
+    "example": "This website uses cookies to track user activity. (Trang web này sử dụng tập tin tạm để theo dõi hoạt động của người dùng.)"
+  },
+  {
+    "word": "cybersecurity",
+    "phonetic": "/ˌsaɪ.bər.sɪˈkjʊr.ə.ti/",
+    "meaning": "an ninh mạng",
+    "example": "Cybersecurity protects our data from hackers. (An ninh mạng bảo vệ dữ liệu của chúng tôi khỏi tin tặc.)"
+  },
+  {
+    "word": "data",
+    "phonetic": "/ˈdeɪ.tə/",
+    "meaning": "dữ liệu",
+    "example": "We back up our data to a secure server. (Chúng tôi sao lưu dữ liệu lên một máy chủ an toàn.)"
+  },
+  {
+    "word": "database",
+    "phonetic": "/ˈdeɪ.tə.beɪs/",
+    "meaning": "cơ sở dữ liệu",
+    "example": "The database stores all user information. (Cơ sở dữ liệu lưu trữ tất cả thông tin người dùng.)"
+  },
+  {
+    "word": "download",
+    "phonetic": "/ˈdaʊn.loʊd/",
+    "meaning": "tải xuống",
+    "example": "I download music from a secure website. (Tôi tải nhạc xuống từ một trang web an toàn.)"
+  },
+  {
+    "word": "email",
+    "phonetic": "/ˈiː.meɪl/",
+    "meaning": "thư điện tử",
+    "example": "I sent an email to my boss yesterday. (Tôi đã gửi một thư điện tử cho sếp hôm qua.)"
+  },
+  {
+    "word": "encryption",
+    "phonetic": "/ɪnˈkrɪp.ʃən/",
+    "meaning": "mã hóa",
+    "example": "Encryption keeps our messages secure. (Mã hóa giữ cho tin nhắn của chúng tôi an toàn.)"
+  },
+  {
+    "word": "firewall",
+    "phonetic": "/ˈfaɪr.wɔːl/",
+    "meaning": "tường lửa",
+    "example": "The firewall blocks unauthorized access. (Tường lửa chặn truy cập trái phép.)"
+  },
+  {
+    "word": "hardware",
+    "phonetic": "/ˈhɑːrd.wer/",
+    "meaning": "phần cứng",
+    "example": "The hardware of this computer is outdated. (Phần cứng của máy tính này đã lỗi thời.)"
+  },
+  {
+    "word": "internet",
+    "phonetic": "/ˈɪn.tər.net/",
+    "meaning": "mạng internet",
+    "example": "The internet connects people worldwide. (Mạng internet kết nối mọi người trên toàn thế giới.)"
+  },
+  {
+    "word": "keyboard",
+    "phonetic": "/ˈkiː.bɔːrd/",
+    "meaning": "bàn phím",
+    "example": "I type faster on a new keyboard. (Tôi gõ nhanh hơn trên bàn phím mới.)"
+  },
+  {
+    "word": "malware",
+    "phonetic": "/ˈmæl.wer/",
+    "meaning": "phần mềm độc hại",
+    "example": "Malware can harm your computer system. (Phần mềm độc hại có thể làm hỏng hệ thống máy tính của bạn.)"
+  },
+  {
+    "word": "monitor",
+    "phonetic": "/ˈmɑː.nɪ.tər/",
+    "meaning": "màn hình",
+    "example": "The monitor displays clear images. (Màn hình hiển thị hình ảnh rõ nét.)"
+  },
+  {
+    "word": "network",
+    "phonetic": "/ˈnet.wɝːk/",
+    "meaning": "mạng lưới",
+    "example": "Our network is slow today. (Mạng lưới của chúng tôi hôm nay chậm.)"
+  },
+  {
+    "word": "password",
+    "phonetic": "/ˈpæs.wɝːd/",
+    "meaning": "mật khẩu",
+    "example": "Always use a strong password for security. (Luôn sử dụng mật khẩu mạnh để bảo mật.)"
+  },
+  {
+    "word": "processor",
+    "phonetic": "/ˈprɑː.ses.ər/",
+    "meaning": "bộ xử lý",
+    "example": "A fast processor improves computer performance. (Bộ xử lý nhanh cải thiện hiệu suất máy tính.)"
+  },
+  {
+    "word": "router",
+    "phonetic": "/ˈraʊ.tər/",
+    "meaning": "bộ định tuyến",
+    "example": "The router connects devices to Wi-Fi. (Bộ định tuyến kết nối các thiết bị với Wi-Fi.)"
+  },
+  {
+    "word": "search",
+    "phonetic": "/sɝːtʃ/",
+    "meaning": "tìm kiếm",
+    "example": "I use a search engine to find information. (Tôi sử dụng công cụ tìm kiếm để tìm thông tin.)"
+  },
+  {
+    "word": "software",
+    "phonetic": "/ˈsɑːft.wer/",
+    "meaning": "phần mềm",
+    "example": "This software helps manage projects. (Phần mềm này giúp quản lý các dự án.)"
+  },
+  {
+    "word": "streaming",
+    "phonetic": "/ˈstriː.mɪŋ/",
+    "meaning": "phát trực tuyến",
+    "example": "Streaming movies requires a stable connection. (Phát trực tuyến phim cần kết nối ổn định.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (Dịch nghĩa)"
+  },
+  {
+    "word": "allergy",
+    "phonetic": "/ˈæl.ər.dʒi/",
+    "meaning": "dị ứng",
+    "example": "She has an allergy to peanuts. (Cô ấy bị dị ứng với đậu phộng.)"
+  },
+  {
+    "word": "ambulance",
+    "phonetic": "/ˈæm.bjə.ləns/",
+    "meaning": "xe cứu thương",
+    "example": "Call an ambulance if the injury is serious. (Gọi xe cứu thương nếu vết thương nghiêm trọng.)"
+  },
+  {
+    "word": "bandage",
+    "phonetic": "/ˈbæn.dɪdʒ/",
+    "meaning": "băng gạc",
+    "example": "He put a bandage on his cut. (Anh ấy đặt băng gạc lên vết cắt.)"
+  },
+  {
+    "word": "blood",
+    "phonetic": "/blʌd/",
+    "meaning": "máu",
+    "example": "The nurse checked his blood pressure. (Y tá kiểm tra huyết áp của anh ấy.)"
+  },
+  {
+    "word": "cough",
+    "phonetic": "/kɔːf/",
+    "meaning": "ho",
+    "example": "I have a bad cough and need medicine. (Tôi bị ho nặng và cần thuốc.)"
+  },
+  {
+    "word": "dentist",
+    "phonetic": "/ˈden.tɪst/",
+    "meaning": "nha sĩ",
+    "example": "She visits the dentist every six months. (Cô ấy đến gặp nha sĩ mỗi sáu tháng.)"
+  },
+  {
+    "word": "diagnosis",
+    "phonetic": "/ˌdaɪ.əɡˈnoʊ.sɪs/",
+    "meaning": "chẩn đoán",
+    "example": "The doctor gave a diagnosis of flu. (Bác sĩ chẩn đoán bị cúm.)"
+  },
+  {
+    "word": "diet",
+    "phonetic": "/ˈdaɪ.ət/",
+    "meaning": "chế độ ăn",
+    "example": "A healthy diet includes fruits and vegetables. (Chế độ ăn lành mạnh bao gồm trái cây và rau củ.)"
+  },
+  {
+    "word": "disease",
+    "phonetic": "/dɪˈziːz/",
+    "meaning": "bệnh tật",
+    "example": "Heart disease can be prevented with exercise. (Bệnh tim có thể được ngăn ngừa bằng tập thể dục.)"
+  },
+  {
+    "word": "doctor",
+    "phonetic": "/ˈdɑːk.tər/",
+    "meaning": "bác sĩ",
+    "example": "The doctor prescribed some antibiotics. (Bác sĩ kê đơn thuốc kháng sinh.)"
+  },
+  {
+    "word": "emergency",
+    "phonetic": "/ɪˈmɝː.dʒən.si/",
+    "meaning": "trường hợp khẩn cấp",
+    "example": "In an emergency, dial 911. (Trong trường hợp khẩn cấp, gọi 911.)"
+  },
+  {
+    "word": "exercise",
+    "phonetic": "/ˈek.sər.saɪz/",
+    "meaning": "tập thể dục",
+    "example": "Daily exercise keeps you fit. (Tập thể dục hàng ngày giúp bạn khỏe mạnh.)"
+  },
+  {
+    "word": "fever",
+    "phonetic": "/ˈfiː.vər/",
+    "meaning": "sốt",
+    "example": "She has a high fever and needs rest. (Cô ấy bị sốt cao và cần nghỉ ngơi.)"
+  },
+  {
+    "word": "headache",
+    "phonetic": "/ˈhed.eɪk/",
+    "meaning": "đau đầu",
+    "example": "I took a pill for my headache. (Tôi uống thuốc để trị đau đầu.)"
+  },
+  {
+    "word": "hospital",
+    "phonetic": "/ˈhɑː.spɪ.təl/",
+    "meaning": "bệnh viện",
+    "example": "He was admitted to the hospital after the accident. (Anh ấy được đưa vào bệnh viện sau vụ tai nạn.)"
+  },
+  {
+    "word": "infection",
+    "phonetic": "/ɪnˈfek.ʃən/",
+    "meaning": "nhiễm trùng",
+    "example": "The cut caused an infection in her finger. (Vết cắt gây nhiễm trùng ở ngón tay cô ấy.)"
+  },
+  {
+    "word": "injury",
+    "phonetic": "/ˈɪn.dʒər.i/",
+    "meaning": "vết thương",
+    "example": "His injury required stitches. (Vết thương của anh ấy cần khâu.)"
+  },
+  {
+    "word": "medicine",
+    "phonetic": "/ˈmed.ɪ.sən/",
+    "meaning": "thuốc",
+    "example": "Take this medicine twice a day. (Uống thuốc này hai lần một ngày.)"
+  },
+  {
+    "word": "nurse",
+    "phonetic": "/nɝːs/",
+    "meaning": "y tá",
+    "example": "The nurse checked my temperature. (Y tá đo nhiệt độ của tôi.)"
+  },
+  {
+    "word": "pain",
+    "phonetic": "/peɪn/",
+    "meaning": "cơn đau",
+    "example": "She felt pain in her knee after running. (Cô ấy cảm thấy đau ở đầu gối sau khi chạy.)"
+  },
+  {
+    "word": "pharmacy",
+    "phonetic": "/ˈfɑːr.mə.si/",
+    "meaning": "hiệu thuốc",
+    "example": "I bought the medicine at the pharmacy. (Tôi mua thuốc ở hiệu thuốc.)"
+  },
+  {
+    "word": "prescription",
+    "phonetic": "/prɪˈskrɪp.ʃən/",
+    "meaning": "đơn thuốc",
+    "example": "The doctor wrote a prescription for painkillers. (Bác sĩ viết đơn thuốc giảm đau.)"
+  },
+  {
+    "word": "surgery",
+    "phonetic": "/ˈsɝː.dʒər.i/",
+    "meaning": "phẫu thuật",
+    "example": "He needs surgery to fix his broken leg. (Anh ấy cần phẫu thuật để sửa chân bị gãy.)"
+  },
+  {
+    "word": "symptom",
+    "phonetic": "/ˈsɪmp.təm/",
+    "meaning": "triệu chứng",
+    "example": "A sore throat is a symptom of a cold. (Đau họng là triệu chứng của cảm lạnh.)"
+  },
+  {
+    "word": "vaccine",
+    "phonetic": "/vækˈsiːn/",
+    "meaning": "vắc-xin",
+    "example": "The vaccine protects against the flu. (Vắc-xin bảo vệ khỏi bệnh cúm.)"
+  },
+  {
+    "word": "Từ vựng",
+    "phonetic": "Phiên âm",
+    "meaning": "Nghĩa của từ",
+    "example": "Câu ví dụ (dịch nghĩa)"
+  },
+  {
+    "word": "Phone",
+    "phonetic": "/fəʊn/",
+    "meaning": "Điện thoại",
+    "example": "I forgot my phone at home. (Tôi quên điện thoại ở nhà.)"
+  },
+  {
+    "word": "Smartphone",
+    "phonetic": "/ˈsmɑːtfəʊn/",
+    "meaning": "Điện thoại thông minh",
+    "example": "Most people use a smartphone every day. (Hầu hết mọi người sử dụng điện thoại thông minh hàng ngày.)"
+  },
+  {
+    "word": "Mobile phone",
+    "phonetic": "/ˈməʊbaɪl fəʊn/",
+    "meaning": "Điện thoại di động",
+    "example": "She always carries her mobile phone with her. (Cô ấy luôn mang theo điện thoại di động.)"
+  },
+  {
+    "word": "Landline",
+    "phonetic": "/ˈlændlaɪn/",
+    "meaning": "Điện thoại bàn",
+    "example": "We still have a landline at our house. (Chúng tôi vẫn có điện thoại bàn ở nhà.)"
+  },
+  {
+    "word": "Dial",
+    "phonetic": "/daɪəl/",
+    "meaning": "Quay số, bấm số",
+    "example": "Please dial 911 in case of emergency. (Hãy bấm số 911 trong trường hợp khẩn cấp.)"
+  },
+  {
+    "word": "Call",
+    "phonetic": "/kɔːl/",
+    "meaning": "Gọi điện",
+    "example": "I’ll call you later. (Tôi sẽ gọi cho bạn sau.)"
+  },
+  {
+    "word": "Text",
+    "phonetic": "/tekst/",
+    "meaning": "Nhắn tin",
+    "example": "He always texts me good night. (Anh ấy luôn nhắn tin chúc tôi ngủ ngon.)"
+  },
+  {
+    "word": "Message",
+    "phonetic": "/ˈmesɪdʒ/",
+    "meaning": "Tin nhắn",
+    "example": "I received a message from my boss. (Tôi nhận được tin nhắn từ sếp.)"
+  },
+  {
+    "word": "Voicemail",
+    "phonetic": "/ˈvɔɪsmeɪl/",
+    "meaning": "Thư thoại",
+    "example": "I left him a voicemail this morning. (Tôi để lại thư thoại cho anh ấy sáng nay.)"
+  },
+  {
+    "word": "Receiver",
+    "phonetic": "/rɪˈsiːvə(r)/",
+    "meaning": "Ống nghe điện thoại",
+    "example": "She picked up the receiver and started talking. (Cô ấy nhấc ống nghe và bắt đầu nói.)"
+  },
+  {
+    "word": "Hang up",
+    "phonetic": "/hæŋ ʌp/",
+    "meaning": "Cúp máy",
+    "example": "He suddenly hung up the phone. (Anh ấy đột nhiên cúp máy.)"
+  },
+  {
+    "word": "Ringtone",
+    "phonetic": "/ˈrɪŋtəʊn/",
+    "meaning": "Nhạc chuông",
+    "example": "I changed my ringtone yesterday. (Tôi đã đổi nhạc chuông hôm qua.)"
+  },
+  {
+    "word": "Signal",
+    "phonetic": "/ˈsɪɡnəl/",
+    "meaning": "Tín hiệu",
+    "example": "I can’t hear you well, the signal is weak. (Tôi không nghe rõ, tín hiệu yếu quá.)"
+  },
+  {
+    "word": "Coverage",
+    "phonetic": "/ˈkʌvərɪdʒ/",
+    "meaning": "Vùng phủ sóng",
+    "example": "This area has poor coverage. (Khu vực này có vùng phủ sóng kém.)"
+  },
+  {
+    "word": "Network",
+    "phonetic": "/ˈnetwɜːk/",
+    "meaning": "Mạng",
+    "example": "The network is down again. (Mạng lại bị sập nữa rồi.)"
+  },
+  {
+    "word": "Battery",
+    "phonetic": "/ˈbætəri/",
+    "meaning": "Pin",
+    "example": "My phone’s battery is low. (Pin điện thoại của tôi sắp hết.)"
+  },
+  {
+    "word": "Charger",
+    "phonetic": "/ˈtʃɑːdʒə(r)/",
+    "meaning": "Bộ sạc",
+    "example": "Do you have a charger I can borrow? (Bạn có bộ sạc cho tôi mượn không?)"
+  },
+  {
+    "word": "Email",
+    "phonetic": "/ˈiːmeɪl/",
+    "meaning": "Thư điện tử",
+    "example": "I sent her an email this morning. (Tôi đã gửi email cho cô ấy sáng nay.)"
+  },
+  {
+    "word": "Inbox",
+    "phonetic": "/ˈɪnbɒks/",
+    "meaning": "Hộp thư đến",
+    "example": "Check your inbox for the new message. (Kiểm tra hộp thư đến của bạn để xem tin nhắn mới.)"
+  },
+  {
+    "word": "Outbox",
+    "phonetic": "/ˈaʊtbɒks/",
+    "meaning": "Hộp thư đi",
+    "example": "The message is still in the outbox. (Tin nhắn vẫn còn trong hộp thư đi.)"
+  },
+  {
+    "word": "Attachment",
+    "phonetic": "/əˈtætʃmənt/",
+    "meaning": "Tệp đính kèm",
+    "example": "Please find the attachment in the email. (Vui lòng xem tệp đính kèm trong email.)"
+  },
+  {
+    "word": "Send",
+    "phonetic": "/send/",
+    "meaning": "Gửi",
+    "example": "I will send the file right away. (Tôi sẽ gửi tập tin ngay lập tức.)"
+  },
+  {
+    "word": "Receive",
+    "phonetic": "/rɪˈsiːv/",
+    "meaning": "Nhận",
+    "example": "Did you receive my message? (Bạn đã nhận được tin nhắn của tôi chưa?)"
+  },
+  {
+    "word": "Spam",
+    "phonetic": "/spæm/",
+    "meaning": "Thư rác",
+    "example": "I deleted all the spam emails. (Tôi đã xóa tất cả các thư rác.)"
+  },
+  {
+    "word": "Reply",
+    "phonetic": "/rɪˈplaɪ/",
+    "meaning": "Trả lời",
+    "example": "I need to reply to his email. (Tôi cần trả lời email của anh ấy.)"
+  },
+  {
+    "word": "Forward",
+    "phonetic": "/ˈfɔːwəd/",
+    "meaning": "Chuyển tiếp",
+    "example": "Can you forward that email to me? (Bạn có thể chuyển tiếp email đó cho tôi không?)"
+  },
+  {
+    "word": "Postage",
+    "phonetic": "/ˈpəʊstɪdʒ/",
+    "meaning": "Cước phí bưu điện",
+    "example": "Don’t forget to pay the postage. (Đừng quên trả cước phí bưu điện.)"
+  },
+  {
+    "word": "Envelope",
+    "phonetic": "/ˈenvələʊp/",
+    "meaning": "Phong bì",
+    "example": "She wrote the address on the envelope. (Cô ấy viết địa chỉ lên phong bì.)"
+  },
+  {
+    "word": "Stamp",
+    "phonetic": "/stæmp/",
+    "meaning": "Tem thư",
+    "example": "You need a stamp to send this letter. (Bạn cần một con tem để gửi bức thư này.)"
+  },
+  {
+    "word": "Mailbox",
+    "phonetic": "/ˈmeɪlbɒks/",
+    "meaning": "Hộp thư",
+    "example": "Check the mailbox outside for letters. (Kiểm tra hộp thư bên ngoài để xem có thư không.)"
+  },
+  {
+    "word": "Từ Vựng",
+    "phonetic": "Phiên Âm",
+    "meaning": "Nghĩa của Từ",
+    "example": "Câu Ví Dụ (Dịch Nghĩa)"
+  },
+  {
+    "word": "anchor",
+    "phonetic": "/ˈæŋ.kər/",
+    "meaning": "Người dẫn chương trình",
+    "example": "The anchor delivered the evening news with confidence. (Người dẫn chương trình đưa tin tức buổi tối với sự tự tin.)"
+  },
+  {
+    "word": "article",
+    "phonetic": "/ˈɑːr.tɪ.kəl/",
+    "meaning": "Bài báo",
+    "example": "She wrote an article about climate change for the newspaper. (Cô ấy viết một bài báo về biến đổi khí hậu cho tờ báo.)"
+  },
+  {
+    "word": "broadcast",
+    "phonetic": "/ˈbrɔːd.kæst/",
+    "meaning": "Phát sóng",
+    "example": "The event will be broadcast live on national television. (Sự kiện sẽ được phát sóng trực tiếp trên truyền hình quốc gia.)"
+  },
+  {
+    "word": "bulletin",
+    "phonetic": "/ˈbʊl.ə.tɪn/",
+    "meaning": "Bản tin",
+    "example": "A news bulletin interrupted the program to report the storm. (Một bản tin đã ngắt chương trình để thông báo về cơn bão.)"
+  },
+  {
+    "word": "byline",
+    "phonetic": "/ˈbaɪ.laɪn/",
+    "meaning": "Dòng chữ ghi tên tác giả",
+    "example": "The byline showed the journalist’s name at the top of the story. (Dòng chữ ghi tên tác giả hiển thị tên nhà báo ở đầu bài viết.)"
+  },
+  {
+    "word": "cable",
+    "phonetic": "/ˈkeɪ.bəl/",
+    "meaning": "Truyền hình cáp",
+    "example": "We subscribed to cable to watch international channels. (Chúng tôi đăng ký truyền hình cáp để xem các kênh quốc tế.)"
+  },
+  {
+    "word": "column",
+    "phonetic": "/ˈkɑː.ləm/",
+    "meaning": "Chuyên mục",
+    "example": "His column on politics is published every Sunday. (Chuyên mục của anh ấy về chính trị được xuất bản mỗi Chủ nhật.)"
+  },
+  {
+    "word": "commercial",
+    "phonetic": "/kəˈmɝː.ʃəl/",
+    "meaning": "Quảng cáo",
+    "example": "The show paused for a commercial break. (Chương trình tạm dừng để phát quảng cáo.)"
+  },
+  {
+    "word": "correspondent",
+    "phonetic": "/ˌkɔːr.əˈspɑːn.dənt/",
+    "meaning": "Phóng viên",
+    "example": "The correspondent reported live from the war zone. (Phóng viên đưa tin trực tiếp từ khu vực chiến tranh.)"
+  },
+  {
+    "word": "coverage",
+    "phonetic": "/ˈkʌv.ər.ɪdʒ/",
+    "meaning": "Sự đưa tin",
+    "example": "The coverage of the election was extensive on all channels. (Sự đưa tin về cuộc bầu cử rất rộng rãi trên tất cả các kênh.)"
+  },
+  {
+    "word": "deadline",
+    "phonetic": "/ˈded.laɪn/",
+    "meaning": "Hạn chót",
+    "example": "The reporter rushed to meet the deadline for the story. (Phóng viên vội vã hoàn thành bài viết trước hạn chót.)"
+  },
+  {
+    "word": "documentary",
+    "phonetic": "/ˌdɑː.kjəˈmen.tər.i/",
+    "meaning": "Phim tài liệu",
+    "example": "The documentary about wildlife won several awards. (Phim tài liệu về động vật hoang dã đã giành được nhiều giải thưởng.)"
+  },
+  {
+    "word": "editor",
+    "phonetic": "/ˈed.ɪ.tər/",
+    "meaning": "Biên tập viên",
+    "example": "The editor reviewed the article before publication. (Biên tập viên đã xem lại bài báo trước khi xuất bản.)"
+  },
+  {
+    "word": "exclusive",
+    "phonetic": "/ɪkˈskluː.sɪv/",
+    "meaning": "Tin độc quyền",
+    "example": "The channel aired an exclusive interview with the celebrity. (Kênh đã phát sóng một cuộc phỏng vấn độc quyền với người nổi tiếng.)"
+  },
+  {
+    "word": "feature",
+    "phonetic": "/ˈfiː.tʃər/",
+    "meaning": "Bài đặc biệt",
+    "example": "The magazine published a feature on local artists. (Tạp chí đã đăng một bài đặc biệt về các nghệ sĩ địa phương.)"
+  },
+  {
+    "word": "headline",
+    "phonetic": "/ˈhed.laɪn/",
+    "meaning": "Tiêu đề",
+    "example": "The headline about the scandal shocked readers. (Tiêu đề về vụ bê bối khiến độc giả sốc.)"
+  },
+  {
+    "word": "interview",
+    "phonetic": "/ˈɪn.tər.vjuː/",
+    "meaning": "Phỏng vấn",
+    "example": "The journalist conducted an interview with the mayor. (Nhà báo đã thực hiện một cuộc phỏng vấn với thị trưởng.)"
+  },
+  {
+    "word": "journalist",
+    "phonetic": "/ˈdʒɝː.nə.lɪst/",
+    "meaning": "Nhà báo",
+    "example": "The journalist investigated corruption in the government. (Nhà báo đã điều tra tham nhũng trong chính phủ.)"
+  },
+  {
+    "word": "live",
+    "phonetic": "/laɪv/",
+    "meaning": "Trực tiếp",
+    "example": "The concert was broadcast live on television. (Buổi hòa nhạc được phát sóng trực tiếp trên truyền hình.)"
+  },
+  {
+    "word": "media",
+    "phonetic": "/ˈmiː.di.ə/",
+    "meaning": "Truyền thông",
+    "example": "The media covered the event extensively. (Truyền thông đã đưa tin rộng rãi về sự kiện.)"
+  },
+  {
+    "word": "network",
+    "phonetic": "/ˈnet.wɝːk/",
+    "meaning": "Mạng lưới truyền hình",
+    "example": "The network aired a new drama series last night. (Mạng lưới truyền hình đã phát sóng một bộ phim truyền hình mới tối qua.)"
+  },
+  {
+    "word": "newspaper",
+    "phonetic": "/ˈnjuːzˌpeɪ.pər/",
+    "meaning": "Báo chí",
+    "example": "She reads the newspaper every morning. (Cô ấy đọc báo mỗi sáng.)"
+  },
+  {
+    "word": "ratings",
+    "phonetic": "/ˈreɪ.tɪŋz/",
+    "meaning": "Tỷ lệ người xem",
+    "example": "The show’s ratings increased after the new season. (Tỷ lệ người xem của chương trình tăng lên sau mùa mới.)"
+  },
+  {
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔːr.tər/",
+    "meaning": "Phóng viên",
+    "example": "The reporter was sent to cover the festival. (Phóng viên được cử đi đưa tin về lễ hội.)"
+  },
+  {
+    "word": "segment",
+    "phonetic": "/ˈseɡ.mənt/",
+    "meaning": "Phần chương trình",
+    "example": "The news included a segment on health tips. (Bản tin có một phần về mẹo sức khỏe.)"
+  },
+  {
+    "word": "source",
+    "phonetic": "/sɔːrs/",
+    "meaning": "Nguồn tin",
+    "example": "The journalist protected the source of the information. (Nhà báo đã bảo vệ nguồn tin.)"
+  },
+  {
+    "word": "studio",
+    "phonetic": "/ˈstuː.di.oʊ/",
+    "meaning": "Trường quay",
+    "example": "The talk show was filmed in a studio in New York. (Chương trình trò chuyện được quay tại một trường quay ở New York.)"
+  },
+  {
+    "word": "tabloid",
+    "phonetic": "/ˈtæb.lɔɪd/",
+    "meaning": "Báo lá cải",
+    "example": "The tabloid published gossip about celebrities. (Báo lá cải đăng tin đồn về người nổi tiếng.)"
+  },
+  {
+    "word": "telecast",
+    "phonetic": "/ˈtel.ɪ.kæst/",
+    "meaning": "Chương trình truyền hình",
+    "example": "The football match was a special telecast on Sunday. (Trận bóng đá là một chương trình truyền hình đặc biệt vào Chủ nhật.)"
+  }
+]

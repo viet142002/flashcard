@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+.drag-zone {
+  -webkit-app-region: drag;
+  height: 24px;
+  cursor: grab;
+}
+
+.no-drag {
+  -webkit-app-region: no-drag;
+}
+
+/* Resize handles */
+.resize-handle {
+  position: absolute;
+  z-index: 1000;
+}
+
+/* Bottom-right corner */
+.resize-se {
+  bottom: 0;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  cursor: nwse-resize;
+  background: linear-gradient(135deg, transparent 50%, #3498db 50%);
+  border-radius: 0 0 8px 0;
+}
+
+/* Right edge */
+.resize-e {
+  top: 32px;
+  right: 0;
+  width: 5px;
+  height: calc(100% - 52px);
+  cursor: ew-resize;
+}
+
+/* Bottom edge */
+.resize-s {
+  bottom: 0;
+  left: 20px;
+  width: calc(100% - 40px);
+  height: 5px;
+  cursor: ns-resize;
+}
+
+/* Top edge */
+.resize-n {
+  top: -5px;
+  left: 20px;
+  width: calc(100% - 40px);
+  height: 5px;
+  cursor: ns-resize;
+}
+
+/* Bottom-left corner */
+.resize-sw {
+  bottom: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  cursor: nesw-resize;
+}
+
+/* Left edge */
+.resize-w {
+  top: 32px;
+  left: 0;
+  width: 5px;
+  height: calc(100% - 52px);
+  cursor: ew-resize;
+}
+
+/* Top-right corner */
+.resize-ne {
+  top: 32px;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  cursor: nesw-resize;
+}
+
+/* Top-left corner */
+.resize-nw {
+  top: 32px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  cursor: nwse-resize;
+}
+
+.resize-handle:hover {
+  background-color: rgba(52, 152, 219, 0.3);
+}
+
+.resize-se:hover {
+  background: linear-gradient(135deg, transparent 50%, #2980b9 50%);
+}
