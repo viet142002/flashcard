@@ -35,6 +35,10 @@ export function FlashCardView() {
 
     const reached = useMemo(() => currentIndex >= cards.length - 1, [cards, currentIndex]);
 
+    const handleRepay = useCallback(async () => {
+        setCurrentIndex(0);
+    }, []);
+
     useEffect(() => {
         if (!flashCardManger.checkInit()) return
         (async () => {
@@ -47,7 +51,7 @@ export function FlashCardView() {
     }, [cards, currentIndex])
 
     if (reached) {
-        return <AlertReached onFetchNewList={fetchCards} />
+        return <AlertReached onFetchNewList={fetchCards} onReplay={handleRepay} />
     }
 
     if (!currentCard) {
