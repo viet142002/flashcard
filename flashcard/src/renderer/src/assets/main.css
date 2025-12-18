@@ -29,8 +29,6 @@ body,
   width: 20px;
   height: 20px;
   cursor: nwse-resize;
-  background: linear-gradient(135deg, transparent 50%, #3498db 50%);
-  border-radius: 0 0 8px 0;
 }
 
 /* Right edge */
@@ -102,4 +100,27 @@ body,
 
 .resize-se:hover {
   background: linear-gradient(135deg, transparent 50%, #2980b9 50%);
+}
+
+/* Scrollbar */
+.content::-webkit-scrollbar {
+  width: 10px;               /* width of the entire scrollbar */
+}
+
+.content::-webkit-scrollbar-track {
+  background: transparent;        /* color of the tracking area */
+}
+
+.content::-webkit-scrollbar-thumb {
+  background-color: transparent;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  transition-duration: 300ms;
+}
+
+.content:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(52, 152, 219, 0.1);    /* color of the scroll thumb */
+}
+
+.content::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(52, 152, 219, 0.2);    /* color of the scroll thumb */
 }
