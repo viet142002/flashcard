@@ -1,6 +1,3 @@
-// ============= INDEXEDDB STORAGE LAYER =============
-// Tối ưu cho hàng ngàn flash cards
-
 import { FlashCard, CardStatus } from '../types'
 
 export interface QueryOptions {
@@ -365,31 +362,3 @@ export class FlashCardStorage {
         }
     }
 }
-
-// ============= INTEGRATED FLASH CARD MANAGER =============
-
-// ============= USAGE =============
-
-// async function example() {
-//   const manager = new OptimizedFlashCardManager();
-//   await manager.init();
-
-//   // Tạo cards
-//   await manager.createCard("What is React?", "A JavaScript library", ["programming"]);
-//   await manager.createCard("What is TypeScript?", "Typed superset of JS", ["programming"]);
-
-//   // Lấy study session
-//   const todayCards = await manager.getTodayStudySession(20);
-//   console.log(`Study ${todayCards.length} cards today`);
-
-//   // Review
-//   for (const card of todayCards) {
-//     await manager.reviewCard(card.id, 4); // Quality = 4
-//   }
-
-//   // Statistics
-//   const stats = await manager.getStatistics();
-//   console.log(stats);
-// }
-
-// // example();

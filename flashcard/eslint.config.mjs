@@ -27,7 +27,8 @@ export default defineConfig(
       ...eslintPluginReactRefresh.configs.vite.rules,
       '@typescript-eslint/explicit-function-return-type': 'off',
       "react-hooks/set-state-in-effect": 'off',
-      'react-hooks/refs': 'off'
+      'react-hooks/refs': 'off',
+      'react-refresh/only-export-components': 'off'
     }
   }
 )

@@ -6,7 +6,6 @@ import { KEYS } from "../constants";
 export const useConfigs = () => {
     const [configs, setConfigs] = useState(CONFIGS)
 
-
     useEffect(() => {
         const configs = localStorage.getItem(KEYS.CONFIGS);
         if (configs) {

@@ -33,7 +33,7 @@ function createWindow(): void {
         x,
         y,
         width: 320,
-        height: 450,
+        height: 250,
         frame: false,
         alwaysOnTop: true,
         transparent: true,
