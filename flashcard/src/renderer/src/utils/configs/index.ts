@@ -1,20 +1,17 @@
-export const CONFIGS = [
-    {
-        key: 'autoSpeak',
+export const CONFIGS = {
+    autoSpeak: {
         title: 'Tự động đọc',
-        value: false,
+        enabled: false,
         delay: 1000
     },
-    {
-        key: 'autoplay',
+    autoplay: {
         title: 'Tự động chuyển từ',
-        value: false,
+        enabled: false,
         delay: 10000
     },
-    {
-        key: 'autoFlip',
+    autoFlip: {
         title: 'Tự động lặt',
-        value: false,
+        enabled: false,
         delay: 5000
-    },
-]
+    }
+}

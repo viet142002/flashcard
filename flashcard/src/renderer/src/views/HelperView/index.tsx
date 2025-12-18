@@ -70,7 +70,7 @@ const helpList = {
 
 export function HelperView() {
     return (
-        <div className="absolute inset-0 w-full h-full text-white grid grid-rows-[auto,1fr] pt-2">
+        <div className="absolute inset-0 w-full h-full text-white flex flex-col pt-2">
             <h1 className="text-center text-2xl px-4">Helper</h1>
             <div className="overflow-auto px-4 content">
                 {Object.values(helpList).map((item) => (

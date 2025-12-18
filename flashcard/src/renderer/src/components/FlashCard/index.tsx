@@ -1,9 +1,10 @@
 import { FlashCard } from "@renderer/utils/types"
-import { memo, MouseEvent, useCallback, useEffect, useState } from "react"
+import { memo, MouseEvent, useCallback, useContext, useEffect, useState } from "react"
 import { Controller } from "../Controller"
 import { Tag } from "../Tag"
 import { Button } from "../Buttons/Button"
 import { VolumeIcon } from "../icons"
+import { CommonContext } from "@renderer/utils/contexts/CommonStorage"
 
 
 interface FlashCardProps {
@@ -16,6 +17,8 @@ interface FlashCardProps {
 }
 
 function FlashcardMemo({ card, onReview, onNext, onPrev, currentIndex, maxCards }: FlashCardProps) {
+    const { config: { configs } } = useContext(CommonContext);
+
     const [flipped, setFlipped] = useState(false)
 
     const handleFlip = useCallback(() => {
@@ -25,6 +28,34 @@ function FlashcardMemo({ card, onReview, onNext, onPrev, currentIndex, maxCards 
     useEffect(() => {
         setFlipped(false)
     }, [card])
+
+    useEffect(() => {
+        let timeout: NodeJS.Timeout
+        if (configs.autoFlip.enabled) {
+            timeout = setTimeout(() => {
+                handleFlip()
+            }, configs.autoFlip.delay)
+        }
+        return () => {
+            if (timeout) {
+                clearTimeout(timeout)
+            }
+        }
+    }, [configs.autoFlip, handleFlip, card])
+
+    useEffect(() => {
+        let timeout: NodeJS.Timeout
+        if (configs.autoplay.enabled) {
+            timeout = setTimeout(() => {
+                onNext()
+            }, configs.autoplay.delay)
+        }
+        return () => {
+            if (timeout) {
+                clearTimeout(timeout)
+            }
+        }
+    }, [configs.autoplay, onNext, card])
 
     return (
         <div
@@ -114,16 +145,31 @@ const IndicateCurrent = ({ max, current }: { max: number, current: number }) => 
 }
 
 const Audio = ({ src }: { src: string }) => {
+    const { config: { configs } } = useContext(CommonContext);
 
-    const handlePlay = (e: MouseEvent) => {
-        e.stopPropagation()
+    const handlePlay = useCallback((e?: MouseEvent) => {
+        e?.stopPropagation()
         const audio = document.createElement('audio');
         const source = document.createElement('source');
         source.src = src;
         source.type = 'audio/mp3';
         audio.appendChild(source);
         audio.play();
-    }
+    }, [src])
+
+    useEffect(() => {
+        let timeout: NodeJS.Timeout;
+        if (configs.autoSpeak.enabled) {
+            timeout = setTimeout(() => {
+                handlePlay()
+            }, configs.autoSpeak.delay)
+        }
+        return () => {
+            if (timeout) {
+                clearTimeout(timeout)
+            }
+        }
+    }, [configs.autoSpeak, handlePlay])
 
     return (
         <>

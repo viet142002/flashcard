@@ -1,5 +1,6 @@
 import { createContext, ReactNode } from "react";
 import { useConfigs } from "../hooks";
+import { CONFIGS } from "../configs";
 
 interface CommonStorageType {
     config: {
@@ -11,7 +12,7 @@ interface CommonStorageType {
 
 const initialState: CommonStorageType = {
     config: {
-        configs: {} as ReturnType<typeof useConfigs>['configs'],
+        configs: CONFIGS,
         reset: () => {},
         updateConfigs: () => {}
     }

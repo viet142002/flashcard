@@ -1,6 +1,6 @@
-import { HTMLAttributes } from "react"
+import { ButtonHTMLAttributes, DetailedHTMLProps } from "react"
 
-interface ButtonProps extends HTMLAttributes<HTMLButtonElement> {
+interface ButtonProps extends DetailedHTMLProps<ButtonHTMLAttributes<HTMLButtonElement>, HTMLButtonElement> {
     showOnHoverFlashCard?: boolean
     isAlwaysTopZ?: boolean,
     isCircle?: boolean,
@@ -9,7 +9,7 @@ interface ButtonProps extends HTMLAttributes<HTMLButtonElement> {
 }
 
 const classNameObj = {
-    base: 'no-drag cursor-pointer text-white flex items-center justify-center',
+    base: 'no-drag cursor-pointer text-white flex items-center justify-center hover:bg-slate-600/30 duration-300 disabled:opacity-50 disabled:cursor-not-allowed',
     showOnHoverFlashCard: 'opacity-0 group-hover/flashcard:opacity-100 duration-400',
     isAlwaysTopZ: 'z-9999999 relative',
     circle: 'rounded-full',

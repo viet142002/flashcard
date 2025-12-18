@@ -32,7 +32,7 @@ function createWindow(): void {
     win = new BrowserWindow({
         x,
         y,
-        width: 320,
+        width: 380,
         height: 250,
         frame: false,
         alwaysOnTop: true,

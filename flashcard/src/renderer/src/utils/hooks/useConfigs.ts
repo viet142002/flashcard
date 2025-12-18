@@ -13,12 +13,9 @@ export const useConfigs = () => {
         }
     }, []);
 
-    const updateConfigs = useCallback((key, value) => {
-        setConfigs((prevConfig) => {
-            const newConfigs =prevConfig.map(config => config.key === key ? { ...config, value } : config)
-            localStorage.setItem(KEYS.CONFIGS, JSON.stringify(newConfigs));
-            return newConfigs
-        });
+    const updateConfigs = useCallback((_configs: typeof configs) => {
+        setConfigs(_configs);
+        localStorage.setItem(KEYS.CONFIGS, JSON.stringify(_configs));
     }, []);
 
     const reset = useCallback(() => {
