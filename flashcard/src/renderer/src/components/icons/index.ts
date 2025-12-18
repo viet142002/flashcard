@@ -1,1 +1,6 @@
 export * from './LoadingCircle'
+export * from './QuestionIcon'
+export * from './BackIcon'
+export * from './PreviousIcon'
+export * from './NextIcon'
+export * from './RefreshIcon'

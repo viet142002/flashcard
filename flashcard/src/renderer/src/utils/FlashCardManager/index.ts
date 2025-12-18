@@ -4,6 +4,7 @@ import { CardStatus, FlashCard, Quality } from '../types'
 export class FlashCardManager {
     private storage: FlashCardStorage
     private cache: Map<string, FlashCard>
+    static hadInit: boolean = false
 
     constructor() {
         this.storage = new FlashCardStorage()
@@ -12,6 +13,7 @@ export class FlashCardManager {
 
     async init(): Promise<void> {
         await this.storage.init()
+        FlashCardManager.hadInit = true
     }
 
     /**
@@ -99,6 +101,10 @@ export class FlashCardManager {
         this.cache.set(card.id, card)
 
         return card
+    }
+
+    checkInit() {
+        return FlashCardManager.hadInit
     }
 
     /**

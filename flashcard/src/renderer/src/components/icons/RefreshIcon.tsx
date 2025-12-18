@@ -1,0 +1,6 @@
+export const RefreshIcon = ({ width = 24, height = 24 }: { width?: number; height?: number }) => {
+
+    return (
+        <svg fill="currentColor" width={width} height={height} viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M2,11V6A1,1,0,0,1,3,5H18.586L17.293,3.707a1,1,0,0,1,1.414-1.414l3,3A1,1,0,0,1,21,7H4v4a1,1,0,0,1-2,0Zm19,1a1,1,0,0,0-1,1v4H3a1,1,0,0,0-.707,1.707l3,3a1,1,0,1,0,1.414-1.414L5.414,19H21a1,1,0,0,0,1-1V13A1,1,0,0,0,21,12Z" /></svg>
+    )
+}

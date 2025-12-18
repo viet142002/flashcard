@@ -9,14 +9,13 @@ export default function FlashScreen() {
     const navigation = useNavigate();
 
     useEffect(() => {
-        const isInitData = localStorage.getItem(KEYS.INIT_DATA);
-
-        if (isInitData) {
-            navigation(ROUTES.FLASHCARD)
-            return;
-        }
         const initVocab = async () => {
             await flashCardManger.init()
+            const isInitData = localStorage.getItem(KEYS.INIT_DATA);
+            if (isInitData) {
+                navigation(ROUTES.FLASHCARD)
+                return;
+            }
             for (let index = 0; index < dataJson.length; index++) {
                 const vocab = dataJson[index];
                 await flashCardManger.createCard({

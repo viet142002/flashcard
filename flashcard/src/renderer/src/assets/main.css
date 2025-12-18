@@ -9,7 +9,6 @@ body,
 .drag-zone {
   -webkit-app-region: drag;
   height: 24px;
-  cursor: grab;
 }
 
 .no-drag {
