@@ -30,6 +30,7 @@ export function HelperBtn() {
         <Button
             onClick={onClick}
             isAlwaysTopZ
+            variant="icon"
             showOnHoverFlashCard
         >
             {isHelperView ? (

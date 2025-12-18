@@ -5,11 +5,13 @@ import { LoadingView } from "@renderer/components/LoadingView";
 import { flashCardManger } from "@renderer/utils/FlashCardManager";
 import { FlashCard, Quality } from "@renderer/utils/types";
 import { AlertReached } from "./components/AlertReached";
+import { ReviewCard } from "./components/ReviewCard";
 
 export function FlashCardView() {
     const [currentCard, setCurrentCard] = useState<FlashCard>();
     const [cards, setCards] = useState<FlashCard[]>([]);
     const [currentIndex, setCurrentIndex] = useState(0);
+    const [showReview, setShowReview] = useState(false);
 
     const fetchCards = useCallback(async () => {
         const cards = await flashCardManger.getTodayStudySession(50);        
@@ -21,6 +23,10 @@ export function FlashCardView() {
         setCurrentIndex((prevIndex) => prevIndex + 1);
     }, []);
 
+    const handleShowReview = useCallback(() => {
+        setShowReview(true);
+    }, []);
+
     const handlePrevCard = useCallback(() => {
         setCurrentIndex((prevIndex) => {
             if (prevIndex <= 0) return 0;
@@ -30,6 +36,7 @@ export function FlashCardView() {
 
     const handleReview = useCallback(async (quality: Quality) => {
         await flashCardManger.reviewCard(currentCard!.id, quality);
+        setShowReview(false);
         handleNextCard();
     }, [currentCard, handleNextCard]);
 
@@ -60,10 +67,11 @@ export function FlashCardView() {
 
     return (
         <>
+            {showReview && <ReviewCard onReview={handleReview} />}
             <FlashCardComponent
                 card={currentCard}
                 onReview={handleReview}
-                onNext={handleNextCard}
+                onNext={handleShowReview}
                 onPrev={handlePrevCard}
                 currentIndex={currentIndex}
                 maxCards={cards.length}

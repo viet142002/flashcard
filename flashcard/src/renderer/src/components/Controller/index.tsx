@@ -47,7 +47,7 @@ function ControllerMemo({ onFlip, onNext, onPrev, onReview, isListening = false 
         if (!isListening) return;
         const handleKeyDown = (e: KeyboardEvent) => {
             console.log('======== e.key', e.key);
-            
+
             switch (e.key) {
                 case 'ArrowRight':
                     handleClick(e, typeAction.next);
@@ -64,12 +64,13 @@ function ControllerMemo({ onFlip, onNext, onPrev, onReview, isListening = false 
         }
         document.addEventListener('keydown', handleKeyDown);
 
-        return () => document.removeEventListener('keydown', handleKeyDown); 
+        return () => document.removeEventListener('keydown', handleKeyDown);
     }, [handleClick, isListening])
 
     return (
         <div className="flex justify-center gap-4">
             <Button
+                variant="icon"
                 isCircle
                 hasBorder
                 isAlwaysTopZ
@@ -79,6 +80,7 @@ function ControllerMemo({ onFlip, onNext, onPrev, onReview, isListening = false 
                 <PreviousIcon width={sizeIcon} height={sizeIcon} />
             </Button>
             <Button
+                variant="icon"
                 isCircle
                 hasBorder
                 isAlwaysTopZ
@@ -88,6 +90,7 @@ function ControllerMemo({ onFlip, onNext, onPrev, onReview, isListening = false 
                 <RefreshIcon width={sizeIcon} height={sizeIcon} />
             </Button>
             <Button
+                variant="icon"
                 isCircle
                 hasBorder
                 isAlwaysTopZ

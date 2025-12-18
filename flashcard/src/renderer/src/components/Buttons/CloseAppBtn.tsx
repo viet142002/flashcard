@@ -6,6 +6,7 @@ export const CloseAppBtn = () => {
         <Button
             showOnHoverFlashCard
             isAlwaysTopZ
+            variant="icon"
             onClick={() => {
                 window.flashcard.hide();
             }}
