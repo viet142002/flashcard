@@ -46,8 +46,6 @@ function ControllerMemo({ onFlip, onNext, onPrev, onReview, isListening = false 
     useEffect(() => {
         if (!isListening) return;
         const handleKeyDown = (e: KeyboardEvent) => {
-            console.log('======== e.key', e.key);
-
             switch (e.key) {
                 case 'ArrowRight':
                     handleClick(e, typeAction.next);

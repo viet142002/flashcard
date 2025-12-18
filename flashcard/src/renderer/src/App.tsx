@@ -8,6 +8,7 @@ import FlashScreen from './views/FlashScreen'
 import { ROUTES } from './utils/constants'
 import { HelperView } from './views/HelperView'
 import { BackgroundService } from './components/BackgroundService'
+import { Settings } from './views/Settings'
 
 function App(): React.JSX.Element {
 
@@ -21,6 +22,7 @@ function App(): React.JSX.Element {
                     <Route index element={<FlashScreen />} />
                     <Route path={ROUTES.FLASHCARD} element={<FlashCardView />} />
                     <Route path={ROUTES.HELPER} element={<HelperView />} />
+                    <Route path={ROUTES.SETTINGS} element={<Settings />} />
                 </Routes>
             </div>
         </div>

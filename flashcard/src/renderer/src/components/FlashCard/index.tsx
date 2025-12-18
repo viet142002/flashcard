@@ -1,7 +1,9 @@
 import { FlashCard } from "@renderer/utils/types"
-import { memo, useCallback, useEffect, useState } from "react"
+import { memo, MouseEvent, useCallback, useEffect, useState } from "react"
 import { Controller } from "../Controller"
 import { Tag } from "../Tag"
+import { Button } from "../Buttons/Button"
+import { VolumeIcon } from "../icons"
 
 
 interface FlashCardProps {
@@ -41,10 +43,12 @@ function FlashcardMemo({ card, onReview, onNext, onPrev, currentIndex, maxCards 
                     className="absolute inset-0 flex flex-col items-center justify-center bg-linear-to-br from-slate-50 to-slate-100 dark:from-slate-700 dark:to-slate-800 rounded-xl p-6"
                     style={{
                         backfaceVisibility: 'hidden',
-                        WebkitBackfaceVisibility: 'hidden'
+                        WebkitBackfaceVisibility: 'hidden',
+                        pointerEvents: flipped ? 'none' : 'auto'
                     }}
                 >
                     <IndicateCurrent max={maxCards} current={currentIndex} />
+                    {card.audio && <Audio src={card.audio} />}
                     <div className="text-slate-900 dark:text-white text-center">
                         <div className="text-3xl mb-2">{card.word}</div>
                         {card.ipa && (
@@ -70,7 +74,8 @@ function FlashcardMemo({ card, onReview, onNext, onPrev, currentIndex, maxCards 
                     style={{
                         backfaceVisibility: 'hidden',
                         WebkitBackfaceVisibility: 'hidden',
-                        transform: 'rotateY(180deg)'
+                        transform: 'rotateY(180deg)',
+                        pointerEvents: flipped ? 'auto' : 'none'
                     }}
                 >
                     <IndicateCurrent max={maxCards} current={currentIndex} />
@@ -82,7 +87,9 @@ function FlashcardMemo({ card, onReview, onNext, onPrev, currentIndex, maxCards 
                             &quot;{card.example}&quot;
                         </div>
                     </div>
-                    <div className="absolute text-xs text-blue-400 dark:text-blue-500 duration-300 group-hover/flashcard:opacity-100 opacity-0 group-hover/flashcard:bottom-3 -bottom-6">
+                    <div
+                        className="absolute text-xs text-blue-400 dark:text-blue-500 duration-300 group-hover/flashcard:opacity-100 opacity-0 group-hover/flashcard:bottom-3 -bottom-6"
+                    >
                         <Controller
                             onFlip={handleFlip}
                             onNext={onNext}
@@ -100,8 +107,35 @@ export const FlashCardComponent = memo(FlashcardMemo)
 
 const IndicateCurrent = ({ max, current }: { max: number, current: number }) => {
     return (
-        <Tag className="absolute top-4 left-4 border-slate-500/30 bg-slate-600/30 border py-1 text-slate-300 text-xs">
+        <Tag className="absolute top-6 left-6 border-slate-500/30 bg-slate-600/30 border py-1 text-slate-300 text-xs">
             {current + 1}/{max}
         </Tag>
+    )
+}
+
+const Audio = ({ src }: { src: string }) => {
+
+    const handlePlay = (e: MouseEvent) => {
+        e.stopPropagation()
+        const audio = document.createElement('audio');
+        const source = document.createElement('source');
+        source.src = src;
+        source.type = 'audio/mp3';
+        audio.appendChild(source);
+        audio.play();
+    }
+
+    return (
+        <>
+            <Button
+                variant="icon"
+                hasBorder
+                isCircle
+                onClick={handlePlay}
+                className="absolute top-6 right-6 border-slate-500/30 bg-slate-600/30 border py-1 text-slate-300 text-xs size-7"
+            >
+                <VolumeIcon width={16} height={16} />
+            </Button>
+        </>
     )
 }

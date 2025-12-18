@@ -57,12 +57,12 @@ export function FlashCardView() {
         setCurrentCard(cards[currentIndex])
     }, [cards, currentIndex])
 
-    if (reached) {
-        return <AlertReached onFetchNewList={fetchCards} onReplay={handleRepay} />
-    }
-
     if (!currentCard) {
         return <LoadingView />
+    }
+
+    if (reached) {
+        return <AlertReached onFetchNewList={fetchCards} onReplay={handleRepay} />
     }
 
     return (
