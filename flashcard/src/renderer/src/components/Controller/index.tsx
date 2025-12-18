@@ -46,6 +46,8 @@ function ControllerMemo({ onFlip, onNext, onPrev, onReview, isListening = false 
     useEffect(() => {
         if (!isListening) return;
         const handleKeyDown = (e: KeyboardEvent) => {
+            console.log('======== e.key', e.key);
+            
             switch (e.key) {
                 case 'ArrowRight':
                     handleClick(e, typeAction.next);
@@ -53,7 +55,7 @@ function ControllerMemo({ onFlip, onNext, onPrev, onReview, isListening = false 
                 case 'ArrowLeft':
                     handleClick(e, typeAction.prev);
                     break;
-                case 'Space':
+                case ' ':
                     handleClick(e, typeAction.flip);
                     break;
                 default:
