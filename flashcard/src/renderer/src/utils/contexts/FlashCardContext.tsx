@@ -68,8 +68,10 @@ export default function FlashCardProvider({ children }: { children: ReactNode })
     }, []);
 
     useEffect(() => {
-        if (!flashCardManger.checkInit()) return
         (async () => {
+            if (!flashCardManger.checkInit()) {
+                await flashCardManger.init()
+            }
             await fetchCards();
         })()
     }, [fetchCards])
